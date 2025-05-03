@@ -1,0 +1,73 @@
+command_id: 7E0.010D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E803410D00
+  expected_values:
+    VSS: 0
+- response: 7E803410D06
+  expected_values:
+    VSS: 6
+- response: 7E803410D11
+  expected_values:
+    VSS: 17
+- response: 7E803410D18
+  expected_values:
+    VSS: 24
+- response: 7E803410D1F
+  expected_values:
+    VSS: 31
+- response: 7E803410D27
+  expected_values:
+    VSS: 39
+- response: 7E803410D2B
+  expected_values:
+    VSS: 43
+- response: 7E803410D2C
+  expected_values:
+    VSS: 44
+- response: 7E803410D2E
+  expected_values:
+    VSS: 46
+- response: 7E803410D32
+  expected_values:
+    VSS: 50
+- response: 7E803410D35
+  expected_values:
+    VSS: 53
+- response: 7E803410D36
+  expected_values:
+    VSS: 54
+- response: 7E803410D38
+  expected_values:
+    VSS: 56
+- response: 7E803410D39
+  expected_values:
+    VSS: 57
+- response: 7E803410D3F
+  expected_values:
+    VSS: 63
+- response: 7E803410D42
+  expected_values:
+    VSS: 66
+- response: 7E803410D43
+  expected_values:
+    VSS: 67
+- response: 7E803410D48
+  expected_values:
+    VSS: 72
+- response: 7E803410D50
+  expected_values:
+    VSS: 80
+- response: 7E803410D5C
+  expected_values:
+    VSS: 92
+- response: 7E803410D5E
+  expected_values:
+    VSS: 94
+- response: 7E803410D5F
+  expected_values:
+    VSS: 95
+- response: 7E903410D00
+  expected_values:
+    VSS: 0

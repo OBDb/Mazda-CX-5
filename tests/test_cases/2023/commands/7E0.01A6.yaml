@@ -1,0 +1,85 @@
+command_id: 7E0.01A6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80641A60002EE9A
+  expected_values:
+    ODO: 19215.4
+- response: 7E80641A60002EE9D
+  expected_values:
+    ODO: 19215.7
+- response: 7E80641A60002EE9F
+  expected_values:
+    ODO: 19215.9
+- response: 7E80641A60002EEA2
+  expected_values:
+    ODO: 19216.2
+- response: 7E80641A60002EEA7
+  expected_values:
+    ODO: 19216.7
+- response: 7E80641A60002EEAD
+  expected_values:
+    ODO: 19217.3
+- response: 7E80641A60002EEAE
+  expected_values:
+    ODO: 19217.4
+- response: 7E80641A60002EEAF
+  expected_values:
+    ODO: 19217.5
+- response: 7E80641A60002EEB6
+  expected_values:
+    ODO: 19218.2
+- response: 7E80641A60002EEBB
+  expected_values:
+    ODO: 19218.7
+- response: 7E80641A60002EEC2
+  expected_values:
+    ODO: 19219.4
+- response: 7E80641A60002EECA
+  expected_values:
+    ODO: 19220.2
+- response: 7E80641A60002EECF
+  expected_values:
+    ODO: 19220.7
+- response: 7E80641A60002EED1
+  expected_values:
+    ODO: 19220.9
+- response: 7E80641A60002EED2
+  expected_values:
+    ODO: 19221
+- response: 7E80641A60002EED4
+  expected_values:
+    ODO: 19221.2
+- response: 7E80641A60002EED5
+  expected_values:
+    ODO: 19221.3
+- response: 7E80641A60002EEDC
+  expected_values:
+    ODO: 19222
+- response: 7E80641A60002EEE4
+  expected_values:
+    ODO: 19222.8
+- response: 7E80641A60002EEEB
+  expected_values:
+    ODO: 19223.5
+- response: 7E80641A60002EEEF
+  expected_values:
+    ODO: 19223.9
+- response: 7E80641A60002EEF3
+  expected_values:
+    ODO: 19224.3
+- response: 7E80641A60002EEF7
+  expected_values:
+    ODO: 19224.7
+- response: 7E80641A60002EEFB
+  expected_values:
+    ODO: 19225.1
+- response: 7E80641A60002EEFF
+  expected_values:
+    ODO: 19225.5
+- response: 7E80641A60002EF03
+  expected_values:
+    ODO: 19225.9
+- response: 7E80641A60002EF05
+  expected_values:
+    ODO: 19226.1
