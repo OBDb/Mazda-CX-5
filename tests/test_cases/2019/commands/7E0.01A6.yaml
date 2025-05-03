@@ -1,0 +1,1714 @@
+command_id: 7E0.01A6
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80641A6000D9B41
+  expected_values:
+    ODO: 89171.3
+- response: 7E80641A6000D9B43
+  expected_values:
+    ODO: 89171.5
+- response: 7E80641A6000D9B44
+  expected_values:
+    ODO: 89171.6
+- response: 7E80641A6000D9B47
+  expected_values:
+    ODO: 89171.9
+- response: 7E80641A6000D9B49
+  expected_values:
+    ODO: 89172.1
+- response: 7E80641A6000D9B4F
+  expected_values:
+    ODO: 89172.7
+- response: 7E80641A6000D9B51
+  expected_values:
+    ODO: 89172.9
+- response: 7E80641A6000D9B52
+  expected_values:
+    ODO: 89173
+- response: 7E80641A6000D9B53
+  expected_values:
+    ODO: 89173.1
+- response: 7E80641A6000D9B55
+  expected_values:
+    ODO: 89173.3
+- response: 7E80641A6000D9B58
+  expected_values:
+    ODO: 89173.6
+- response: 7E80641A6000D9B5C
+  expected_values:
+    ODO: 89174
+- response: 7E80641A6000D9B5E
+  expected_values:
+    ODO: 89174.2
+- response: 7E80641A6000D9B60
+  expected_values:
+    ODO: 89174.4
+- response: 7E80641A6000D9B61
+  expected_values:
+    ODO: 89174.5
+- response: 7E80641A6000D9B63
+  expected_values:
+    ODO: 89174.7
+- response: 7E80641A6000D9B6B
+  expected_values:
+    ODO: 89175.5
+- response: 7E80641A6000D9B6C
+  expected_values:
+    ODO: 89175.6
+- response: 7E80641A6000D9B6E
+  expected_values:
+    ODO: 89175.8
+- response: 7E80641A6000D9B70
+  expected_values:
+    ODO: 89176
+- response: 7E80641A6000D9B73
+  expected_values:
+    ODO: 89176.3
+- response: 7E80641A6000D9B76
+  expected_values:
+    ODO: 89176.6
+- response: 7E80641A6000D9B77
+  expected_values:
+    ODO: 89176.7
+- response: 7E80641A6000D9B78
+  expected_values:
+    ODO: 89176.8
+- response: 7E80641A6000D9B7B
+  expected_values:
+    ODO: 89177.1
+- response: 7E80641A6000D9B7F
+  expected_values:
+    ODO: 89177.5
+- response: 7E80641A6000D9B80
+  expected_values:
+    ODO: 89177.6
+- response: 7E80641A6000D9B86
+  expected_values:
+    ODO: 89178.2
+- response: 7E80641A6000D9B89
+  expected_values:
+    ODO: 89178.5
+- response: 7E80641A6000D9B8A
+  expected_values:
+    ODO: 89178.6
+- response: 7E80641A6000D9B8E
+  expected_values:
+    ODO: 89179
+- response: 7E80641A6000D9B94
+  expected_values:
+    ODO: 89179.6
+- response: 7E80641A6000D9B95
+  expected_values:
+    ODO: 89179.7
+- response: 7E80641A6000D9B98
+  expected_values:
+    ODO: 89180
+- response: 7E80641A6000D9B9F
+  expected_values:
+    ODO: 89180.7
+- response: 7E80641A6000D9BA6
+  expected_values:
+    ODO: 89181.4
+- response: 7E80641A6000D9BAD
+  expected_values:
+    ODO: 89182.1
+- response: 7E80641A6000D9BB3
+  expected_values:
+    ODO: 89182.7
+- response: 7E80641A6000D9BB9
+  expected_values:
+    ODO: 89183.3
+- response: 7E80641A6000D9BBF
+  expected_values:
+    ODO: 89183.9
+- response: 7E80641A6000D9BC4
+  expected_values:
+    ODO: 89184.4
+- response: 7E80641A6000D9BCD
+  expected_values:
+    ODO: 89185.3
+- response: 7E80641A6000D9BD5
+  expected_values:
+    ODO: 89186.1
+- response: 7E80641A6000D9BDE
+  expected_values:
+    ODO: 89187
+- response: 7E80641A6000D9BE7
+  expected_values:
+    ODO: 89187.9
+- response: 7E80641A6000D9BF1
+  expected_values:
+    ODO: 89188.9
+- response: 7E80641A6000D9BFA
+  expected_values:
+    ODO: 89189.8
+- response: 7E80641A6000D9C03
+  expected_values:
+    ODO: 89190.7
+- response: 7E80641A6000D9C0C
+  expected_values:
+    ODO: 89191.6
+- response: 7E80641A6000D9C14
+  expected_values:
+    ODO: 89192.4
+- response: 7E80641A6000D9C1C
+  expected_values:
+    ODO: 89193.2
+- response: 7E80641A6000D9C25
+  expected_values:
+    ODO: 89194.1
+- response: 7E80641A6000D9C2E
+  expected_values:
+    ODO: 89195
+- response: 7E80641A6000D9C37
+  expected_values:
+    ODO: 89195.9
+- response: 7E80641A6000D9C3E
+  expected_values:
+    ODO: 89196.6
+- response: 7E80641A6000D9C47
+  expected_values:
+    ODO: 89197.5
+- response: 7E80641A6000D9C50
+  expected_values:
+    ODO: 89198.4
+- response: 7E80641A6000D9C57
+  expected_values:
+    ODO: 89199.1
+- response: 7E80641A6000D9C5C
+  expected_values:
+    ODO: 89199.6
+- response: 7E80641A6000D9C62
+  expected_values:
+    ODO: 89200.2
+- response: 7E80641A6000D9C64
+  expected_values:
+    ODO: 89200.4
+- response: 7E80641A6000D9C66
+  expected_values:
+    ODO: 89200.6
+- response: 7E80641A6000D9C69
+  expected_values:
+    ODO: 89200.9
+- response: 7E80641A6000D9C6D
+  expected_values:
+    ODO: 89201.3
+- response: 7E80641A6000D9C72
+  expected_values:
+    ODO: 89201.8
+- response: 7E80641A6000D9C75
+  expected_values:
+    ODO: 89202.1
+- response: 7E80641A6000D9C76
+  expected_values:
+    ODO: 89202.2
+- response: 7E80641A6000D9C78
+  expected_values:
+    ODO: 89202.4
+- response: 7E80641A6000D9C7C
+  expected_values:
+    ODO: 89202.8
+- response: 7E80641A6000D9C7D
+  expected_values:
+    ODO: 89202.9
+- response: 7E80641A6000D9C7F
+  expected_values:
+    ODO: 89203.1
+- response: 7E80641A6000D9C81
+  expected_values:
+    ODO: 89203.3
+- response: 7E80641A6000D9C83
+  expected_values:
+    ODO: 89203.5
+- response: 7E80641A6000D9C86
+  expected_values:
+    ODO: 89203.8
+- response: 7E80641A6000D9C87
+  expected_values:
+    ODO: 89203.9
+- response: 7E80641A6000D9C89
+  expected_values:
+    ODO: 89204.1
+- response: 7E80641A6000D9C8B
+  expected_values:
+    ODO: 89204.3
+- response: 7E80641A6000D9C8C
+  expected_values:
+    ODO: 89204.4
+- response: 7E80641A6000D9C8E
+  expected_values:
+    ODO: 89204.6
+- response: 7E80641A6000D9C90
+  expected_values:
+    ODO: 89204.8
+- response: 7E80641A6000D9C91
+  expected_values:
+    ODO: 89204.9
+- response: 7E80641A6000D9C92
+  expected_values:
+    ODO: 89205
+- response: 7E80641A6000D9C94
+  expected_values:
+    ODO: 89205.2
+- response: 7E80641A6000D9C96
+  expected_values:
+    ODO: 89205.4
+- response: 7E80641A6000D9C98
+  expected_values:
+    ODO: 89205.6
+- response: 7E80641A6000D9C9B
+  expected_values:
+    ODO: 89205.9
+- response: 7E80641A6000D9C9F
+  expected_values:
+    ODO: 89206.3
+- response: 7E80641A6000D9CA2
+  expected_values:
+    ODO: 89206.6
+- response: 7E80641A6000D9CA6
+  expected_values:
+    ODO: 89207
+- response: 7E80641A6000D9CA8
+  expected_values:
+    ODO: 89207.2
+- response: 7E80641A6000D9CAD
+  expected_values:
+    ODO: 89207.7
+- response: 7E80641A6000D9CB4
+  expected_values:
+    ODO: 89208.4
+- response: 7E80641A6000D9CBB
+  expected_values:
+    ODO: 89209.1
+- response: 7E80641A6000D9CC4
+  expected_values:
+    ODO: 89210
+- response: 7E80641A6000D9CCC
+  expected_values:
+    ODO: 89210.8
+- response: 7E80641A6000D9CD5
+  expected_values:
+    ODO: 89211.7
+- response: 7E80641A6000D9CDE
+  expected_values:
+    ODO: 89212.6
+- response: 7E80641A6000D9CE7
+  expected_values:
+    ODO: 89213.5
+- response: 7E80641A6000D9CEF
+  expected_values:
+    ODO: 89214.3
+- response: 7E80641A6000D9CF8
+  expected_values:
+    ODO: 89215.2
+- response: 7E80641A6000D9D00
+  expected_values:
+    ODO: 89216
+- response: 7E80641A6000D9D09
+  expected_values:
+    ODO: 89216.9
+- response: 7E80641A6000D9D11
+  expected_values:
+    ODO: 89217.7
+- response: 7E80641A6000D9D1A
+  expected_values:
+    ODO: 89218.6
+- response: 7E80641A6000D9D22
+  expected_values:
+    ODO: 89219.4
+- response: 7E80641A6000D9D29
+  expected_values:
+    ODO: 89220.1
+- response: 7E80641A6000D9D31
+  expected_values:
+    ODO: 89220.9
+- response: 7E80641A6000D9D3A
+  expected_values:
+    ODO: 89221.8
+- response: 7E80641A6000D9D43
+  expected_values:
+    ODO: 89222.7
+- response: 7E80641A6000D9D4C
+  expected_values:
+    ODO: 89223.6
+- response: 7E80641A6000D9D53
+  expected_values:
+    ODO: 89224.3
+- response: 7E80641A6000D9D5B
+  expected_values:
+    ODO: 89225.1
+- response: 7E80641A6000D9D63
+  expected_values:
+    ODO: 89225.9
+- response: 7E80641A6000D9D6A
+  expected_values:
+    ODO: 89226.6
+- response: 7E80641A6000D9D73
+  expected_values:
+    ODO: 89227.5
+- response: 7E80641A6000D9D7A
+  expected_values:
+    ODO: 89228.2
+- response: 7E80641A6000D9D83
+  expected_values:
+    ODO: 89229.1
+- response: 7E80641A6000D9D8C
+  expected_values:
+    ODO: 89230
+- response: 7E80641A6000D9D94
+  expected_values:
+    ODO: 89230.8
+- response: 7E80641A6000D9D97
+  expected_values:
+    ODO: 89231.1
+- response: 7E80641A6000D9D99
+  expected_values:
+    ODO: 89231.3
+- response: 7E80641A6000D9D9C
+  expected_values:
+    ODO: 89231.6
+- response: 7E80641A6000D9D9F
+  expected_values:
+    ODO: 89231.9
+- response: 7E80641A6000D9DA2
+  expected_values:
+    ODO: 89232.2
+- response: 7E80641A6000D9DA4
+  expected_values:
+    ODO: 89232.4
+- response: 7E80641A6000D9DA7
+  expected_values:
+    ODO: 89232.7
+- response: 7E80641A6000D9DAB
+  expected_values:
+    ODO: 89233.1
+- response: 7E80641A6000D9DB2
+  expected_values:
+    ODO: 89233.8
+- response: 7E80641A6000D9DBB
+  expected_values:
+    ODO: 89234.7
+- response: 7E80641A6000D9DC4
+  expected_values:
+    ODO: 89235.6
+- response: 7E80641A6000D9DCC
+  expected_values:
+    ODO: 89236.4
+- response: 7E80641A6000D9DD5
+  expected_values:
+    ODO: 89237.3
+- response: 7E80641A6000D9DDE
+  expected_values:
+    ODO: 89238.2
+- response: 7E80641A6000D9DE7
+  expected_values:
+    ODO: 89239.1
+- response: 7E80641A6000D9DF0
+  expected_values:
+    ODO: 89240
+- response: 7E80641A6000D9DF8
+  expected_values:
+    ODO: 89240.8
+- response: 7E80641A6000D9E00
+  expected_values:
+    ODO: 89241.6
+- response: 7E80641A6000D9E07
+  expected_values:
+    ODO: 89242.3
+- response: 7E80641A6000D9E0C
+  expected_values:
+    ODO: 89242.8
+- response: 7E80641A6000D9E0F
+  expected_values:
+    ODO: 89243.1
+- response: 7E80641A6000D9E12
+  expected_values:
+    ODO: 89243.4
+- response: 7E80641A6000D9E16
+  expected_values:
+    ODO: 89243.8
+- response: 7E80641A6000D9E1B
+  expected_values:
+    ODO: 89244.3
+- response: 7E80641A6000D9E22
+  expected_values:
+    ODO: 89245
+- response: 7E80641A6000D9E29
+  expected_values:
+    ODO: 89245.7
+- response: 7E80641A6000D9E30
+  expected_values:
+    ODO: 89246.4
+- response: 7E80641A6000D9E38
+  expected_values:
+    ODO: 89247.2
+- response: 7E80641A6000D9E3E
+  expected_values:
+    ODO: 89247.8
+- response: 7E80641A6000D9E45
+  expected_values:
+    ODO: 89248.5
+- response: 7E80641A6000D9E4C
+  expected_values:
+    ODO: 89249.2
+- response: 7E80641A6000D9E53
+  expected_values:
+    ODO: 89249.9
+- response: 7E80641A6000D9E5A
+  expected_values:
+    ODO: 89250.6
+- response: 7E80641A6000D9E61
+  expected_values:
+    ODO: 89251.3
+- response: 7E80641A6000D9E68
+  expected_values:
+    ODO: 89252
+- response: 7E80641A6000D9E6E
+  expected_values:
+    ODO: 89252.6
+- response: 7E80641A6000D9E72
+  expected_values:
+    ODO: 89253
+- response: 7E80641A6000D9E77
+  expected_values:
+    ODO: 89253.5
+- response: 7E80641A6000D9E7C
+  expected_values:
+    ODO: 89254
+- response: 7E80641A6000D9E82
+  expected_values:
+    ODO: 89254.6
+- response: 7E80641A6000D9E89
+  expected_values:
+    ODO: 89255.3
+- response: 7E80641A6000D9E8F
+  expected_values:
+    ODO: 89255.9
+- response: 7E80641A6000D9E95
+  expected_values:
+    ODO: 89256.5
+- response: 7E80641A6000D9E9C
+  expected_values:
+    ODO: 89257.2
+- response: 7E80641A6000D9EA4
+  expected_values:
+    ODO: 89258
+- response: 7E80641A6000D9EAC
+  expected_values:
+    ODO: 89258.8
+- response: 7E80641A6000D9EB3
+  expected_values:
+    ODO: 89259.5
+- response: 7E80641A6000D9EB5
+  expected_values:
+    ODO: 89259.7
+- response: 7E80641A6000D9EB7
+  expected_values:
+    ODO: 89259.9
+- response: 7E80641A6000D9EBA
+  expected_values:
+    ODO: 89260.2
+- response: 7E80641A6000D9EC0
+  expected_values:
+    ODO: 89260.8
+- response: 7E80641A6000D9EC6
+  expected_values:
+    ODO: 89261.4
+- response: 7E80641A6000D9ECD
+  expected_values:
+    ODO: 89262.1
+- response: 7E80641A6000D9ED3
+  expected_values:
+    ODO: 89262.7
+- response: 7E80641A6000D9EDA
+  expected_values:
+    ODO: 89263.4
+- response: 7E80641A6000D9EE1
+  expected_values:
+    ODO: 89264.1
+- response: 7E80641A6000D9EE8
+  expected_values:
+    ODO: 89264.8
+- response: 7E80641A6000D9EF0
+  expected_values:
+    ODO: 89265.6
+- response: 7E80641A6000D9EF7
+  expected_values:
+    ODO: 89266.3
+- response: 7E80641A6000D9EFD
+  expected_values:
+    ODO: 89266.9
+- response: 7E80641A6000D9F04
+  expected_values:
+    ODO: 89267.6
+- response: 7E80641A6000D9F0A
+  expected_values:
+    ODO: 89268.2
+- response: 7E80641A6000D9F0D
+  expected_values:
+    ODO: 89268.5
+- response: 7E80641A6000D9F11
+  expected_values:
+    ODO: 89268.9
+- response: 7E80641A6000D9F16
+  expected_values:
+    ODO: 89269.4
+- response: 7E80641A6000D9F1D
+  expected_values:
+    ODO: 89270.1
+- response: 7E80641A6000D9F24
+  expected_values:
+    ODO: 89270.8
+- response: 7E80641A6000D9F2B
+  expected_values:
+    ODO: 89271.5
+- response: 7E80641A6000D9F32
+  expected_values:
+    ODO: 89272.2
+- response: 7E80641A6000D9F39
+  expected_values:
+    ODO: 89272.9
+- response: 7E80641A6000D9F3D
+  expected_values:
+    ODO: 89273.3
+- response: 7E80641A6000D9F40
+  expected_values:
+    ODO: 89273.6
+- response: 7E80641A6000D9F42
+  expected_values:
+    ODO: 89273.8
+- response: 7E80641A6000D9F45
+  expected_values:
+    ODO: 89274.1
+- response: 7E80641A6000D9F46
+  expected_values:
+    ODO: 89274.2
+- response: 7E80641A6000D9F49
+  expected_values:
+    ODO: 89274.5
+- response: 7E80641A6000D9F4B
+  expected_values:
+    ODO: 89274.7
+- response: 7E80641A6000D9F4E
+  expected_values:
+    ODO: 89275
+- response: 7E80641A6000D9F51
+  expected_values:
+    ODO: 89275.3
+- response: 7E80641A6000D9F53
+  expected_values:
+    ODO: 89275.5
+- response: 7E80641A6000D9F55
+  expected_values:
+    ODO: 89275.7
+- response: 7E80641A6000D9F58
+  expected_values:
+    ODO: 89276
+- response: 7E80641A6000D9F5D
+  expected_values:
+    ODO: 89276.5
+- response: 7E80641A6000D9F63
+  expected_values:
+    ODO: 89277.1
+- response: 7E80641A6000D9F64
+  expected_values:
+    ODO: 89277.2
+- response: 7E80641A6000D9F66
+  expected_values:
+    ODO: 89277.4
+- response: 7E80641A6000D9F68
+  expected_values:
+    ODO: 89277.6
+- response: 7E80641A6000D9F69
+  expected_values:
+    ODO: 89277.7
+- response: 7E80641A6000D9F6B
+  expected_values:
+    ODO: 89277.9
+- response: 7E80641A6000D9F6E
+  expected_values:
+    ODO: 89278.2
+- response: 7E80641A6000D9F70
+  expected_values:
+    ODO: 89278.4
+- response: 7E80641A6000D9F71
+  expected_values:
+    ODO: 89278.5
+- response: 7E80641A6000D9F75
+  expected_values:
+    ODO: 89278.9
+- response: 7E80641A6000D9F7C
+  expected_values:
+    ODO: 89279.6
+- response: 7E80641A6000D9F82
+  expected_values:
+    ODO: 89280.2
+- response: 7E80641A6000D9F86
+  expected_values:
+    ODO: 89280.6
+- response: 7E80641A6000D9F8C
+  expected_values:
+    ODO: 89281.2
+- response: 7E80641A6000D9F93
+  expected_values:
+    ODO: 89281.9
+- response: 7E80641A6000D9F9B
+  expected_values:
+    ODO: 89282.7
+- response: 7E80641A6000D9FA2
+  expected_values:
+    ODO: 89283.4
+- response: 7E80641A6000D9FAB
+  expected_values:
+    ODO: 89284.3
+- response: 7E80641A6000D9FB4
+  expected_values:
+    ODO: 89285.2
+- response: 7E80641A6000D9FBD
+  expected_values:
+    ODO: 89286.1
+- response: 7E80641A6000D9FC6
+  expected_values:
+    ODO: 89287
+- response: 7E80641A6000D9FD0
+  expected_values:
+    ODO: 89288
+- response: 7E80641A6000D9FD9
+  expected_values:
+    ODO: 89288.9
+- response: 7E80641A6000D9FE2
+  expected_values:
+    ODO: 89289.8
+- response: 7E80641A6000D9FEC
+  expected_values:
+    ODO: 89290.8
+- response: 7E80641A6000D9FF5
+  expected_values:
+    ODO: 89291.7
+- response: 7E80641A6000D9FFF
+  expected_values:
+    ODO: 89292.7
+- response: 7E80641A6000DA008
+  expected_values:
+    ODO: 89293.6
+- response: 7E80641A6000DA011
+  expected_values:
+    ODO: 89294.5
+- response: 7E80641A6000DA018
+  expected_values:
+    ODO: 89295.2
+- response: 7E80641A6000DA022
+  expected_values:
+    ODO: 89296.2
+- response: 7E80641A6000DA02B
+  expected_values:
+    ODO: 89297.1
+- response: 7E80641A6000DA034
+  expected_values:
+    ODO: 89298
+- response: 7E80641A6000DA03C
+  expected_values:
+    ODO: 89298.8
+- response: 7E80641A6000DA044
+  expected_values:
+    ODO: 89299.6
+- response: 7E80641A6000DA04C
+  expected_values:
+    ODO: 89300.4
+- response: 7E80641A6000DA055
+  expected_values:
+    ODO: 89301.3
+- response: 7E80641A6000DA05E
+  expected_values:
+    ODO: 89302.2
+- response: 7E80641A6000DA066
+  expected_values:
+    ODO: 89303
+- response: 7E80641A6000DA06E
+  expected_values:
+    ODO: 89303.8
+- response: 7E80641A6000DA076
+  expected_values:
+    ODO: 89304.6
+- response: 7E80641A6000DA07E
+  expected_values:
+    ODO: 89305.4
+- response: 7E80641A6000DA087
+  expected_values:
+    ODO: 89306.3
+- response: 7E80641A6000DA08F
+  expected_values:
+    ODO: 89307.1
+- response: 7E80641A6000DA098
+  expected_values:
+    ODO: 89308
+- response: 7E80641A6000DA0A0
+  expected_values:
+    ODO: 89308.8
+- response: 7E80641A6000DA0A8
+  expected_values:
+    ODO: 89309.6
+- response: 7E80641A6000DA0B0
+  expected_values:
+    ODO: 89310.4
+- response: 7E80641A6000DA0B8
+  expected_values:
+    ODO: 89311.2
+- response: 7E80641A6000DA0C0
+  expected_values:
+    ODO: 89312
+- response: 7E80641A6000DA0C8
+  expected_values:
+    ODO: 89312.8
+- response: 7E80641A6000DA0D1
+  expected_values:
+    ODO: 89313.7
+- response: 7E80641A6000DA0DA
+  expected_values:
+    ODO: 89314.6
+- response: 7E80641A6000DA0E2
+  expected_values:
+    ODO: 89315.4
+- response: 7E80641A6000DA0EB
+  expected_values:
+    ODO: 89316.3
+- response: 7E80641A6000DA0F5
+  expected_values:
+    ODO: 89317.3
+- response: 7E80641A6000DA0FE
+  expected_values:
+    ODO: 89318.2
+- response: 7E80641A6000DA108
+  expected_values:
+    ODO: 89319.2
+- response: 7E80641A6000DA112
+  expected_values:
+    ODO: 89320.2
+- response: 7E80641A6000DA11C
+  expected_values:
+    ODO: 89321.2
+- response: 7E80641A6000DA125
+  expected_values:
+    ODO: 89322.1
+- response: 7E80641A6000DA12E
+  expected_values:
+    ODO: 89323
+- response: 7E80641A6000DA134
+  expected_values:
+    ODO: 89323.6
+- response: 7E80641A6000DA13C
+  expected_values:
+    ODO: 89324.4
+- response: 7E80641A6000DA146
+  expected_values:
+    ODO: 89325.4
+- response: 7E80641A6000DA150
+  expected_values:
+    ODO: 89326.4
+- response: 7E80641A6000DA15A
+  expected_values:
+    ODO: 89327.4
+- response: 7E80641A6000DA163
+  expected_values:
+    ODO: 89328.3
+- response: 7E80641A6000DA16D
+  expected_values:
+    ODO: 89329.3
+- response: 7E80641A6000DA177
+  expected_values:
+    ODO: 89330.3
+- response: 7E80641A6000DA181
+  expected_values:
+    ODO: 89331.3
+- response: 7E80641A6000DA18A
+  expected_values:
+    ODO: 89332.2
+- response: 7E80641A6000DA193
+  expected_values:
+    ODO: 89333.1
+- response: 7E80641A6000DA19D
+  expected_values:
+    ODO: 89334.1
+- response: 7E80641A6000DA1A6
+  expected_values:
+    ODO: 89335
+- response: 7E80641A6000DA1AF
+  expected_values:
+    ODO: 89335.9
+- response: 7E80641A6000DA1B7
+  expected_values:
+    ODO: 89336.7
+- response: 7E80641A6000DA1C0
+  expected_values:
+    ODO: 89337.6
+- response: 7E80641A6000DA1CA
+  expected_values:
+    ODO: 89338.6
+- response: 7E80641A6000DA1D4
+  expected_values:
+    ODO: 89339.6
+- response: 7E80641A6000DA1DE
+  expected_values:
+    ODO: 89340.6
+- response: 7E80641A6000DA1E8
+  expected_values:
+    ODO: 89341.6
+- response: 7E80641A6000DA1F2
+  expected_values:
+    ODO: 89342.6
+- response: 7E80641A6000DA1FC
+  expected_values:
+    ODO: 89343.6
+- response: 7E80641A6000DA207
+  expected_values:
+    ODO: 89344.7
+- response: 7E80641A6000DA210
+  expected_values:
+    ODO: 89345.6
+- response: 7E80641A6000DA218
+  expected_values:
+    ODO: 89346.4
+- response: 7E80641A6000DA220
+  expected_values:
+    ODO: 89347.2
+- response: 7E80641A6000DA227
+  expected_values:
+    ODO: 89347.9
+- response: 7E80641A6000DA22E
+  expected_values:
+    ODO: 89348.6
+- response: 7E80641A6000DA235
+  expected_values:
+    ODO: 89349.3
+- response: 7E80641A6000DA23E
+  expected_values:
+    ODO: 89350.2
+- response: 7E80641A6000DA248
+  expected_values:
+    ODO: 89351.2
+- response: 7E80641A6000DA252
+  expected_values:
+    ODO: 89352.2
+- response: 7E80641A6000DA25C
+  expected_values:
+    ODO: 89353.2
+- response: 7E80641A6000DA265
+  expected_values:
+    ODO: 89354.1
+- response: 7E80641A6000DA26F
+  expected_values:
+    ODO: 89355.1
+- response: 7E80641A6000DA278
+  expected_values:
+    ODO: 89356
+- response: 7E80641A6000DA281
+  expected_values:
+    ODO: 89356.9
+- response: 7E80641A6000DA28B
+  expected_values:
+    ODO: 89357.9
+- response: 7E80641A6000DA295
+  expected_values:
+    ODO: 89358.9
+- response: 7E80641A6000DA29E
+  expected_values:
+    ODO: 89359.8
+- response: 7E80641A6000DA2A8
+  expected_values:
+    ODO: 89360.8
+- response: 7E80641A6000DA2B2
+  expected_values:
+    ODO: 89361.8
+- response: 7E80641A6000DA2BB
+  expected_values:
+    ODO: 89362.7
+- response: 7E80641A6000DA2C5
+  expected_values:
+    ODO: 89363.7
+- response: 7E80641A6000DA2CF
+  expected_values:
+    ODO: 89364.7
+- response: 7E80641A6000DA2D9
+  expected_values:
+    ODO: 89365.7
+- response: 7E80641A6000DA2E3
+  expected_values:
+    ODO: 89366.7
+- response: 7E80641A6000DA2EC
+  expected_values:
+    ODO: 89367.6
+- response: 7E80641A6000DA2F7
+  expected_values:
+    ODO: 89368.7
+- response: 7E80641A6000DA301
+  expected_values:
+    ODO: 89369.7
+- response: 7E80641A6000DA30B
+  expected_values:
+    ODO: 89370.7
+- response: 7E80641A6000DA314
+  expected_values:
+    ODO: 89371.6
+- response: 7E80641A6000DA31D
+  expected_values:
+    ODO: 89372.5
+- response: 7E80641A6000DA321
+  expected_values:
+    ODO: 89372.9
+- response: 7E80641A6000DA322
+  expected_values:
+    ODO: 89373
+- response: 7E80641A6000DA323
+  expected_values:
+    ODO: 89373.1
+- response: 7E80641A6000DA324
+  expected_values:
+    ODO: 89373.2
+- response: 7E80641A6000DA325
+  expected_values:
+    ODO: 89373.3
+- response: 7E80641A6000DA327
+  expected_values:
+    ODO: 89373.5
+- response: 7E80641A6000DA328
+  expected_values:
+    ODO: 89373.6
+- response: 7E80641A6000DA329
+  expected_values:
+    ODO: 89373.7
+- response: 7E80641A6000DA32A
+  expected_values:
+    ODO: 89373.8
+- response: 7E80641A6000DA32B
+  expected_values:
+    ODO: 89373.9
+- response: 7E80641A6000DA32C
+  expected_values:
+    ODO: 89374
+- response: 7E80641A6000DA32D
+  expected_values:
+    ODO: 89374.1
+- response: 7E80641A6000DA32E
+  expected_values:
+    ODO: 89374.2
+- response: 7E80641A6000DA32F
+  expected_values:
+    ODO: 89374.3
+- response: 7E80641A6000DA330
+  expected_values:
+    ODO: 89374.4
+- response: 7E80641A6000DA331
+  expected_values:
+    ODO: 89374.5
+- response: 7E80641A6000DA332
+  expected_values:
+    ODO: 89374.6
+- response: 7E80641A6000DA333
+  expected_values:
+    ODO: 89374.7
+- response: 7E80641A6000DA334
+  expected_values:
+    ODO: 89374.8
+- response: 7E80641A6000DA337
+  expected_values:
+    ODO: 89375.1
+- response: 7E80641A6000DA33A
+  expected_values:
+    ODO: 89375.4
+- response: 7E80641A6000DA33C
+  expected_values:
+    ODO: 89375.6
+- response: 7E80641A6000DA33F
+  expected_values:
+    ODO: 89375.9
+- response: 7E80641A6000DA344
+  expected_values:
+    ODO: 89376.4
+- response: 7E80641A6000DA349
+  expected_values:
+    ODO: 89376.9
+- response: 7E80641A6000DA34E
+  expected_values:
+    ODO: 89377.4
+- response: 7E80641A6000DA355
+  expected_values:
+    ODO: 89378.1
+- response: 7E80641A6000DA35E
+  expected_values:
+    ODO: 89379
+- response: 7E80641A6000DA367
+  expected_values:
+    ODO: 89379.9
+- response: 7E80641A6000DA372
+  expected_values:
+    ODO: 89381
+- response: 7E80641A6000DA37C
+  expected_values:
+    ODO: 89382
+- response: 7E80641A6000DA386
+  expected_values:
+    ODO: 89383
+- response: 7E80641A6000DA38C
+  expected_values:
+    ODO: 89383.6
+- response: 7E80641A6000DA394
+  expected_values:
+    ODO: 89384.4
+- response: 7E80641A6000DA39E
+  expected_values:
+    ODO: 89385.4
+- response: 7E80641A6000DA3A8
+  expected_values:
+    ODO: 89386.4
+- response: 7E80641A6000DA3B3
+  expected_values:
+    ODO: 89387.5
+- response: 7E80641A6000DA3BD
+  expected_values:
+    ODO: 89388.5
+- response: 7E80641A6000DA3C6
+  expected_values:
+    ODO: 89389.4
+- response: 7E80641A6000DA3D0
+  expected_values:
+    ODO: 89390.4
+- response: 7E80641A6000DA3DA
+  expected_values:
+    ODO: 89391.4
+- response: 7E80641A6000DA3E3
+  expected_values:
+    ODO: 89392.3
+- response: 7E80641A6000DA3EC
+  expected_values:
+    ODO: 89393.2
+- response: 7E80641A6000DA3F4
+  expected_values:
+    ODO: 89394
+- response: 7E80641A6000DA3FC
+  expected_values:
+    ODO: 89394.8
+- response: 7E80641A6000DA405
+  expected_values:
+    ODO: 89395.7
+- response: 7E80641A6000DA40F
+  expected_values:
+    ODO: 89396.7
+- response: 7E80641A6000DA417
+  expected_values:
+    ODO: 89397.5
+- response: 7E80641A6000DA420
+  expected_values:
+    ODO: 89398.4
+- response: 7E80641A6000DA429
+  expected_values:
+    ODO: 89399.3
+- response: 7E80641A6000DA432
+  expected_values:
+    ODO: 89400.2
+- response: 7E80641A6000DA43B
+  expected_values:
+    ODO: 89401.1
+- response: 7E80641A6000DA444
+  expected_values:
+    ODO: 89402
+- response: 7E80641A6000DA44E
+  expected_values:
+    ODO: 89403
+- response: 7E80641A6000DA456
+  expected_values:
+    ODO: 89403.8
+- response: 7E80641A6000DA45E
+  expected_values:
+    ODO: 89404.6
+- response: 7E80641A6000DA466
+  expected_values:
+    ODO: 89405.4
+- response: 7E80641A6000DA471
+  expected_values:
+    ODO: 89406.5
+- response: 7E80641A6000DA47B
+  expected_values:
+    ODO: 89407.5
+- response: 7E80641A6000DA485
+  expected_values:
+    ODO: 89408.5
+- response: 7E80641A6000DA48F
+  expected_values:
+    ODO: 89409.5
+- response: 7E80641A6000DA498
+  expected_values:
+    ODO: 89410.4
+- response: 7E80641A6000DA4A2
+  expected_values:
+    ODO: 89411.4
+- response: 7E80641A6000DA4AC
+  expected_values:
+    ODO: 89412.4
+- response: 7E80641A6000DA4B6
+  expected_values:
+    ODO: 89413.4
+- response: 7E80641A6000DA4C0
+  expected_values:
+    ODO: 89414.4
+- response: 7E80641A6000DA4C9
+  expected_values:
+    ODO: 89415.3
+- response: 7E80641A6000DA4D3
+  expected_values:
+    ODO: 89416.3
+- response: 7E80641A6000DA4DE
+  expected_values:
+    ODO: 89417.4
+- response: 7E80641A6000DA4E8
+  expected_values:
+    ODO: 89418.4
+- response: 7E80641A6000DA4F1
+  expected_values:
+    ODO: 89419.3
+- response: 7E80641A6000DA4FB
+  expected_values:
+    ODO: 89420.3
+- response: 7E80641A6000DA505
+  expected_values:
+    ODO: 89421.3
+- response: 7E80641A6000DA50F
+  expected_values:
+    ODO: 89422.3
+- response: 7E80641A6000DA519
+  expected_values:
+    ODO: 89423.3
+- response: 7E80641A6000DA522
+  expected_values:
+    ODO: 89424.2
+- response: 7E80641A6000DA52A
+  expected_values:
+    ODO: 89425
+- response: 7E80641A6000DA532
+  expected_values:
+    ODO: 89425.8
+- response: 7E80641A6000DA53B
+  expected_values:
+    ODO: 89426.7
+- response: 7E80641A6000DA543
+  expected_values:
+    ODO: 89427.5
+- response: 7E80641A6000DA54C
+  expected_values:
+    ODO: 89428.4
+- response: 7E80641A6000DA554
+  expected_values:
+    ODO: 89429.2
+- response: 7E80641A6000DA55E
+  expected_values:
+    ODO: 89430.2
+- response: 7E80641A6000DA568
+  expected_values:
+    ODO: 89431.2
+- response: 7E80641A6000DA571
+  expected_values:
+    ODO: 89432.1
+- response: 7E80641A6000DA57B
+  expected_values:
+    ODO: 89433.1
+- response: 7E80641A6000DA585
+  expected_values:
+    ODO: 89434.1
+- response: 7E80641A6000DA58F
+  expected_values:
+    ODO: 89435.1
+- response: 7E80641A6000DA598
+  expected_values:
+    ODO: 89436
+- response: 7E80641A6000DA5A2
+  expected_values:
+    ODO: 89437
+- response: 7E80641A6000DA5AB
+  expected_values:
+    ODO: 89437.9
+- response: 7E80641A6000DA5B5
+  expected_values:
+    ODO: 89438.9
+- response: 7E80641A6000DA5BF
+  expected_values:
+    ODO: 89439.9
+- response: 7E80641A6000DA5C9
+  expected_values:
+    ODO: 89440.9
+- response: 7E80641A6000DA5D4
+  expected_values:
+    ODO: 89442
+- response: 7E80641A6000DA5DE
+  expected_values:
+    ODO: 89443
+- response: 7E80641A6000DA5E8
+  expected_values:
+    ODO: 89444
+- response: 7E80641A6000DA5F2
+  expected_values:
+    ODO: 89445
+- response: 7E80641A6000DA5FC
+  expected_values:
+    ODO: 89446
+- response: 7E80641A6000DA606
+  expected_values:
+    ODO: 89447
+- response: 7E80641A6000DA611
+  expected_values:
+    ODO: 89448.1
+- response: 7E80641A6000DA61B
+  expected_values:
+    ODO: 89449.1
+- response: 7E80641A6000DA625
+  expected_values:
+    ODO: 89450.1
+- response: 7E80641A6000DA62F
+  expected_values:
+    ODO: 89451.1
+- response: 7E80641A6000DA63A
+  expected_values:
+    ODO: 89452.2
+- response: 7E80641A6000DA644
+  expected_values:
+    ODO: 89453.2
+- response: 7E80641A6000DA64E
+  expected_values:
+    ODO: 89454.2
+- response: 7E80641A6000DA658
+  expected_values:
+    ODO: 89455.2
+- response: 7E80641A6000DA662
+  expected_values:
+    ODO: 89456.2
+- response: 7E80641A6000DA66B
+  expected_values:
+    ODO: 89457.1
+- response: 7E80641A6000DA675
+  expected_values:
+    ODO: 89458.1
+- response: 7E80641A6000DA67E
+  expected_values:
+    ODO: 89459
+- response: 7E80641A6000DA687
+  expected_values:
+    ODO: 89459.9
+- response: 7E80641A6000DA690
+  expected_values:
+    ODO: 89460.8
+- response: 7E80641A6000DA699
+  expected_values:
+    ODO: 89461.7
+- response: 7E80641A6000DA6A2
+  expected_values:
+    ODO: 89462.6
+- response: 7E80641A6000DA6AB
+  expected_values:
+    ODO: 89463.5
+- response: 7E80641A6000DA6B3
+  expected_values:
+    ODO: 89464.3
+- response: 7E80641A6000DA6BD
+  expected_values:
+    ODO: 89465.3
+- response: 7E80641A6000DA6C7
+  expected_values:
+    ODO: 89466.3
+- response: 7E80641A6000DA6D0
+  expected_values:
+    ODO: 89467.2
+- response: 7E80641A6000DA6D9
+  expected_values:
+    ODO: 89468.1
+- response: 7E80641A6000DA6E1
+  expected_values:
+    ODO: 89468.9
+- response: 7E80641A6000DA6E9
+  expected_values:
+    ODO: 89469.7
+- response: 7E80641A6000DA6F1
+  expected_values:
+    ODO: 89470.5
+- response: 7E80641A6000DA6F5
+  expected_values:
+    ODO: 89470.9
+- response: 7E80641A6000DA6FA
+  expected_values:
+    ODO: 89471.4
+- response: 7E80641A6000DA6FE
+  expected_values:
+    ODO: 89471.8
+- response: 7E80641A6000DA703
+  expected_values:
+    ODO: 89472.3
+- response: 7E80641A6000DA708
+  expected_values:
+    ODO: 89472.8
+- response: 7E80641A6000DA70C
+  expected_values:
+    ODO: 89473.2
+- response: 7E80641A6000DA712
+  expected_values:
+    ODO: 89473.8
+- response: 7E80641A6000DA717
+  expected_values:
+    ODO: 89474.3
+- response: 7E80641A6000DA71C
+  expected_values:
+    ODO: 89474.8
+- response: 7E80641A6000DA721
+  expected_values:
+    ODO: 89475.3
+- response: 7E80641A6000DA726
+  expected_values:
+    ODO: 89475.8
+- response: 7E80641A6000DA72B
+  expected_values:
+    ODO: 89476.3
+- response: 7E80641A6000DA730
+  expected_values:
+    ODO: 89476.8
+- response: 7E80641A6000DA735
+  expected_values:
+    ODO: 89477.3
+- response: 7E80641A6000DA73B
+  expected_values:
+    ODO: 89477.9
+- response: 7E80641A6000DA740
+  expected_values:
+    ODO: 89478.4
+- response: 7E80641A6000DA746
+  expected_values:
+    ODO: 89479
+- response: 7E80641A6000DA74C
+  expected_values:
+    ODO: 89479.6
+- response: 7E80641A6000DA752
+  expected_values:
+    ODO: 89480.2
+- response: 7E80641A6000DA757
+  expected_values:
+    ODO: 89480.7
+- response: 7E80641A6000DA75C
+  expected_values:
+    ODO: 89481.2
+- response: 7E80641A6000DA761
+  expected_values:
+    ODO: 89481.7
+- response: 7E80641A6000DA766
+  expected_values:
+    ODO: 89482.2
+- response: 7E80641A6000DA76A
+  expected_values:
+    ODO: 89482.6
+- response: 7E80641A6000DA76B
+  expected_values:
+    ODO: 89482.7
+- response: 7E80641A6000DA76F
+  expected_values:
+    ODO: 89483.1
+- response: 7E80641A6000DA773
+  expected_values:
+    ODO: 89483.5
+- response: 7E80641A6000DA776
+  expected_values:
+    ODO: 89483.8
+- response: 7E80641A6000DA77D
+  expected_values:
+    ODO: 89484.5
+- response: 7E80641A6000DA784
+  expected_values:
+    ODO: 89485.2
+- response: 7E80641A6000DA78B
+  expected_values:
+    ODO: 89485.9
+- response: 7E80641A6000DA792
+  expected_values:
+    ODO: 89486.6
+- response: 7E80641A6000DA799
+  expected_values:
+    ODO: 89487.3
+- response: 7E80641A6000DA7A1
+  expected_values:
+    ODO: 89488.1
+- response: 7E80641A6000DA7A7
+  expected_values:
+    ODO: 89488.7
+- response: 7E80641A6000DA7AB
+  expected_values:
+    ODO: 89489.1
+- response: 7E80641A6000DA7AD
+  expected_values:
+    ODO: 89489.3
+- response: 7E80641A6000DA7AE
+  expected_values:
+    ODO: 89489.4
+- response: 7E80641A6000DA7B3
+  expected_values:
+    ODO: 89489.9
+- response: 7E80641A6000DA7BA
+  expected_values:
+    ODO: 89490.6
+- response: 7E80641A6000DA7C1
+  expected_values:
+    ODO: 89491.3
+- response: 7E80641A6000DA7C9
+  expected_values:
+    ODO: 89492.1
+- response: 7E80641A6000DA7D0
+  expected_values:
+    ODO: 89492.8
+- response: 7E80641A6000DA7D8
+  expected_values:
+    ODO: 89493.6
+- response: 7E80641A6000DA7DF
+  expected_values:
+    ODO: 89494.3
+- response: 7E80641A6000DA7E7
+  expected_values:
+    ODO: 89495.1
+- response: 7E80641A6000DA7EF
+  expected_values:
+    ODO: 89495.9
+- response: 7E80641A6000DA7F7
+  expected_values:
+    ODO: 89496.7
+- response: 7E80641A6000DA7FF
+  expected_values:
+    ODO: 89497.5
+- response: 7E80641A6000DA806
+  expected_values:
+    ODO: 89498.2
+- response: 7E80641A6000DA80D
+  expected_values:
+    ODO: 89498.9
+- response: 7E80641A6000DA815
+  expected_values:
+    ODO: 89499.7
+- response: 7E80641A6000DA81D
+  expected_values:
+    ODO: 89500.5
+- response: 7E80641A6000DA825
+  expected_values:
+    ODO: 89501.3
+- response: 7E80641A6000DA82C
+  expected_values:
+    ODO: 89502
+- response: 7E80641A6000DA8EE
+  expected_values:
+    ODO: 89521.4
+- response: 7E80641A6000DA8F6
+  expected_values:
+    ODO: 89522.2
+- response: 7E80641A6000DA8FE
+  expected_values:
+    ODO: 89523
+- response: 7E80641A6000DA906
+  expected_values:
+    ODO: 89523.8
+- response: 7E80641A6000DA90F
+  expected_values:
+    ODO: 89524.7
+- response: 7E80641A6000DA917
+  expected_values:
+    ODO: 89525.5
+- response: 7E80641A6000DA91F
+  expected_values:
+    ODO: 89526.3
+- response: 7E80641A6000DA923
+  expected_values:
+    ODO: 89526.7
+- response: 7E80641A6000DA928
+  expected_values:
+    ODO: 89527.2
+- response: 7E80641A6000DA92C
+  expected_values:
+    ODO: 89527.6
+- response: 7E80641A6000DA931
+  expected_values:
+    ODO: 89528.1
+- response: 7E80641A6000DA935
+  expected_values:
+    ODO: 89528.5
+- response: 7E80641A6000DA93A
+  expected_values:
+    ODO: 89529
+- response: 7E80641A6000DA942
+  expected_values:
+    ODO: 89529.8
+- response: 7E80641A6000DA948
+  expected_values:
+    ODO: 89530.4
+- response: 7E80641A6000DA94F
+  expected_values:
+    ODO: 89531.1
+- response: 7E80641A6000DA956
+  expected_values:
+    ODO: 89531.8
+- response: 7E80641A6000DA95D
+  expected_values:
+    ODO: 89532.5
+- response: 7E80641A6000DA964
+  expected_values:
+    ODO: 89533.2
+- response: 7E80641A6000DA968
+  expected_values:
+    ODO: 89533.6
+- response: 7E80641A6000DA96C
+  expected_values:
+    ODO: 89534
+- response: 7E80641A6000DA970
+  expected_values:
+    ODO: 89534.4
+- response: 7E80641A6000DA973
+  expected_values:
+    ODO: 89534.7
+- response: 7E80641A6000DA979
+  expected_values:
+    ODO: 89535.3
+- response: 7E80641A6000DA97D
+  expected_values:
+    ODO: 89535.7
+- response: 7E80641A6000DA983
+  expected_values:
+    ODO: 89536.3
+- response: 7E80641A6000DA986
+  expected_values:
+    ODO: 89536.6
+- response: 7E80641A6000DA98C
+  expected_values:
+    ODO: 89537.2
+- response: 7E80641A6000DA991
+  expected_values:
+    ODO: 89537.7
+- response: 7E80641A6000DA994
+  expected_values:
+    ODO: 89538
+- response: 7E80641A6000DA998
+  expected_values:
+    ODO: 89538.4
+- response: 7E80641A6000DA99C
+  expected_values:
+    ODO: 89538.8
+- response: 7E80641A6000DA9A2
+  expected_values:
+    ODO: 89539.4
+- response: 7E80641A6000DA9A8
+  expected_values:
+    ODO: 89540
+- response: 7E80641A6000DA9AF
+  expected_values:
+    ODO: 89540.7
+- response: 7E80641A6000DA9B7
+  expected_values:
+    ODO: 89541.5
+- response: 7E80641A6000DA9BE
+  expected_values:
+    ODO: 89542.2
+- response: 7E80641A6000DA9C5
+  expected_values:
+    ODO: 89542.9
+- response: 7E80641A6000DA9C8
+  expected_values:
+    ODO: 89543.2
+- response: 7E80641A6000DA9FB
+  expected_values:
+    ODO: 89548.3
+- response: 7E80641A6000DAA05
+  expected_values:
+    ODO: 89549.3
+- response: 7E80641A6000DAA0D
+  expected_values:
+    ODO: 89550.1
+- response: 7E80641A6000DAA16
+  expected_values:
+    ODO: 89551
+- response: 7E80641A6000DAA20
+  expected_values:
+    ODO: 89552
+- response: 7E80641A6000DAA2A
+  expected_values:
+    ODO: 89553
+- response: 7E80641A6000DAA34
+  expected_values:
+    ODO: 89554
+- response: 7E80641A6000DAA3D
+  expected_values:
+    ODO: 89554.9
+- response: 7E80641A6000DAA3E
+  expected_values:
+    ODO: 89555
+- response: 7E80641A6000DAA41
+  expected_values:
+    ODO: 89555.3
+- response: 7E80641A6000DAA42
+  expected_values:
+    ODO: 89555.4
+- response: 7E80641A6000DAA43
+  expected_values:
+    ODO: 89555.5
+- response: 7E80641A6000DAA45
+  expected_values:
+    ODO: 89555.7
+- response: 7E80641A6000DAA46
+  expected_values:
+    ODO: 89555.8
+- response: 7E80641A6000DAA47
+  expected_values:
+    ODO: 89555.9
+- response: 7E80641A6000DAA48
+  expected_values:
+    ODO: 89556
+- response: 7E80641A6000DAA4A
+  expected_values:
+    ODO: 89556.2
+- response: 7E80641A6000DAA4E
+  expected_values:
+    ODO: 89556.6
+- response: 7E80641A6000DAA57
+  expected_values:
+    ODO: 89557.5
+- response: 7E80641A6000DAA60
+  expected_values:
+    ODO: 89558.4
+- response: 7E80641A6000DAA69
+  expected_values:
+    ODO: 89559.3
+- response: 7E80641A6000DAA73
+  expected_values:
+    ODO: 89560.3
+- response: 7E80641A6000DAA7E
+  expected_values:
+    ODO: 89561.4
+- response: 7E80641A6000DAA88
+  expected_values:
+    ODO: 89562.4
+- response: 7E80641A6000DAA92
+  expected_values:
+    ODO: 89563.4
+- response: 7E80641A6000DAA9B
+  expected_values:
+    ODO: 89564.3
+- response: 7E80641A6000DAA9F
+  expected_values:
+    ODO: 89564.7
+- response: 7E80641A6000DAAA2
+  expected_values:
+    ODO: 89565
+- response: 7E80641A6000DAAA4
+  expected_values:
+    ODO: 89565.2
+- response: 7E80641A6000DAAAB
+  expected_values:
+    ODO: 89565.9
+- response: 7E80641A6000DAAB3
+  expected_values:
+    ODO: 89566.7
+- response: 7E80641A6000DAABB
+  expected_values:
+    ODO: 89567.5
+- response: 7E80641A6000DAAC2
+  expected_values:
+    ODO: 89568.2
+- response: 7E80641A6000DAAC3
+  expected_values:
+    ODO: 89568.3
