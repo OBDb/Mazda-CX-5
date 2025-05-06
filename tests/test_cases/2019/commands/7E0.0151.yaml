@@ -1,7 +1,7 @@
-command_id: 7E0.0111
+command_id: 7E0.0151
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7E903411122'
+- response: '7E803415101'
   expected_values:
-    TP: 13.33333
+    FUEL_TYP: GAS
