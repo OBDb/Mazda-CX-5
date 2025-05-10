@@ -2,15 +2,15 @@ command_id: 7E0.220301
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562030102DF
+- response: 7E80562030102D6
   expected_values:
-    MAZDA_MAP: 0.735
+    MAZDA_MAP: 0.726
 - response: '7E8056203010304'
   expected_values:
     MAZDA_MAP: 0.772
-- response: 7E80562030106FC
+- response: 7E8056203010EFD
   expected_values:
-    MAZDA_MAP: 1.788
-- response: 7E80562030110E1
+    MAZDA_MAP: 3.837
+- response: '7E8056203011091'
   expected_values:
     MAZDA_MAP: 4

@@ -2,18 +2,9 @@ command_id: 720.222A0D
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 72804622A0D4D
+- response: 72804622A0D00
   expected_values:
-    MAZDA_TT_4: 27
-- response: 72804622A0D4E
-  expected_values:
-    MAZDA_TT_4: 28
-- response: 72804622A0D4F
-  expected_values:
-    MAZDA_TT_4: 29
-- response: 72804622A0D50
-  expected_values:
-    MAZDA_TT_4: 30
+    MAZDA_TT_4: -50
 - response: 72804622A0D51
   expected_values:
     MAZDA_TT_4: 31
