@@ -1,0 +1,16 @@
+command_id: 7E0.221310
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056213101620'
+  expected_values:
+    MAZDA_EOT: 16.64
+- response: 7E8056213101CFE
+  expected_values:
+    MAZDA_EOT: 34.22
+- response: 7E8056213102E00
+  expected_values:
+    MAZDA_EOT: 77.76
+- response: '7E8056213103103'
+  expected_values:
+    MAZDA_EOT: 85.47

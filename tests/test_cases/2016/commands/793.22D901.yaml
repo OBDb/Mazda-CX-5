@@ -1,0 +1,28 @@
+command_id: 793.22D901
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 79B0562D9010006
+  expected_values:
+    MAZDA_CC_TGT_DIST: 1.5
+- response: 79B0562D9010007
+  expected_values:
+    MAZDA_CC_TGT_DIST: 1.75
+- response: 79B0562D9010010
+  expected_values:
+    MAZDA_CC_TGT_DIST: 4
+- response: 79B0562D9010022
+  expected_values:
+    MAZDA_CC_TGT_DIST: 8.5
+- response: 79B0562D9010023
+  expected_values:
+    MAZDA_CC_TGT_DIST: 8.75
+- response: 79B0562D9010024
+  expected_values:
+    MAZDA_CC_TGT_DIST: 9
+- response: 79B0562D9010028
+  expected_values:
+    MAZDA_CC_TGT_DIST: 10
+- response: 79B0562D901003F
+  expected_values:
+    MAZDA_CC_TGT_DIST: 15.75
