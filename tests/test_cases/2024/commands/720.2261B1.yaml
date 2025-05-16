@@ -1,0 +1,22 @@
+command_id: 720.2261B1
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 728046261B110
+  expected_values:
+    MAZDA_FUEL_LEVEL: 16
+- response: 728046261B111
+  expected_values:
+    MAZDA_FUEL_LEVEL: 17
+- response: 728046261B112
+  expected_values:
+    MAZDA_FUEL_LEVEL: 18
+- response: 728046261B113
+  expected_values:
+    MAZDA_FUEL_LEVEL: 19
+- response: 728046261B114
+  expected_values:
+    MAZDA_FUEL_LEVEL: 20
+- response: 728046261B115
+  expected_values:
+    MAZDA_FUEL_LEVEL: 21

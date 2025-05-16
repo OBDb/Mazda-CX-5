@@ -5,24 +5,12 @@ test_cases:
 - response: '7E8056203074886'
   expected_values:
     MAZDA_FP_LD: 28.3299
-- response: 7E805620307495D
+- response: '7E8056203074908'
   expected_values:
-    MAZDA_FP_LD: 28.65797
-- response: 7E8056203074AE6
+    MAZDA_FP_LD: 28.52827
+- response: 7E8056203074AF0
   expected_values:
-    MAZDA_FP_LD: 29.25765
-- response: 7E8056203074C7F
-  expected_values:
-    MAZDA_FP_LD: 29.88174
-- response: 7E8056203074F75
-  expected_values:
-    MAZDA_FP_LD: 31.03838
-- response: 7E80562030752A9
-  expected_values:
-    MAZDA_FP_LD: 32.28962
-- response: 7E80562030754BF
-  expected_values:
-    MAZDA_FP_LD: 33.10445
+    MAZDA_FP_LD: 29.27291
 - response: '7E8056203077333'
   expected_values:
     MAZDA_FP_LD: 45.00038

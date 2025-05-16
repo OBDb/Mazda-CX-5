@@ -2,9 +2,9 @@ command_id: 720.2261B1
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 728046261B10A
+- response: 728046261B105
   expected_values:
-    MAZDA_FUEL_LEVEL: 10
-- response: 728046261B11C
+    MAZDA_FUEL_LEVEL: 5
+- response: 728046261B136
   expected_values:
-    MAZDA_FUEL_LEVEL: 28
+    MAZDA_FUEL_LEVEL: 54

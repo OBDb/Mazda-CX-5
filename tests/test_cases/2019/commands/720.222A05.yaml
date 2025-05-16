@@ -5,6 +5,6 @@ test_cases:
 - response: 72804622A0500
   expected_values:
     MAZDA_TP_1: 0
-- response: 72804622A05CB
+- response: 72804622A05D2
   expected_values:
-    MAZDA_TP_1: 2.78719
+    MAZDA_TP_1: 2.8833
