@@ -1,0 +1,10 @@
+command_id: 7E0.220522
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8046205224C
+  expected_values:
+    MAZDA_FUEL_T: 36
+- response: 7E8046205226B
+  expected_values:
+    MAZDA_FUEL_T: 67

@@ -1,0 +1,34 @@
+command_id: 720.222A0A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 72804622A0A00
+  expected_values:
+    MAZDA_TT_1: -50
+- response: 72804622A0A4D
+  expected_values:
+    MAZDA_TT_1: 27
+- response: 72804622A0A4E
+  expected_values:
+    MAZDA_TT_1: 28
+- response: 72804622A0A4F
+  expected_values:
+    MAZDA_TT_1: 29
+- response: 72804622A0A50
+  expected_values:
+    MAZDA_TT_1: 30
+- response: 72804622A0A51
+  expected_values:
+    MAZDA_TT_1: 31
+- response: 72804622A0A52
+  expected_values:
+    MAZDA_TT_1: 32
+- response: 72804622A0A53
+  expected_values:
+    MAZDA_TT_1: 33
+- response: 72804622A0A55
+  expected_values:
+    MAZDA_TT_1: 35
+- response: 72804622A0A56
+  expected_values:
+    MAZDA_TT_1: 36

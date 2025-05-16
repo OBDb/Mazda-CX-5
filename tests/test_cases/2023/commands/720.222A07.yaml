@@ -26,3 +26,6 @@ test_cases:
 - response: 72804622A07B6
   expected_values:
     MAZDA_TP_3: 2.49886
+- response: 72804622A07FF
+  expected_values:
+    MAZDA_TP_3: 3.5
