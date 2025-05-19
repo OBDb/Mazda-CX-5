@@ -2,6 +2,24 @@ command_id: 720.222A0B
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 72804622A0B45
+  expected_values:
+    MAZDA_TT_2: 19
+- response: 72804622A0B46
+  expected_values:
+    MAZDA_TT_2: 20
+- response: 72804622A0B47
+  expected_values:
+    MAZDA_TT_2: 21
+- response: 72804622A0B49
+  expected_values:
+    MAZDA_TT_2: 23
+- response: 72804622A0B4A
+  expected_values:
+    MAZDA_TT_2: 24
+- response: 72804622A0B4D
+  expected_values:
+    MAZDA_TT_2: 27
 - response: 72804622A0B58
   expected_values:
     MAZDA_TT_2: 38
