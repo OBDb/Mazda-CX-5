@@ -1,10 +1,14 @@
 command_id: 7E0.0144
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: 7E80441447E81
+  expected_values:
+    EQ_RAT: 0.98833
 - response: 7E80441447ED2
   expected_values:
     EQ_RAT: 0.9908
+- response: 7E80441447F5F
+  expected_values:
+    EQ_RAT: 0.9951
 - response: '7E80441448013'
   expected_values:
     EQ_RAT: 1.0006

@@ -1,6 +1,4 @@
 command_id: 7E0.014C
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: 7E803414C0D
   expected_values:
@@ -8,6 +6,12 @@ test_cases:
 - response: 7E803414C12
   expected_values:
     TAC_PCT: 7.05882
+- response: 7E803414C15
+  expected_values:
+    TAC_PCT: 8.23529
+- response: 7E803414C1F
+  expected_values:
+    TAC_PCT: 12.15686
 - response: 7E803414C26
   expected_values:
     TAC_PCT: 14.90196

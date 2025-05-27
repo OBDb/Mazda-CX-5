@@ -1,6 +1,6 @@
 command_id: 7E0.0101
 test_cases:
-- response: 7E80641010007E500
+- response: 7E80641010007E504
   expected_values:
     ACRF_RDY: 0
     ACRF_SUP: 0
@@ -14,7 +14,7 @@ test_cases:
     DTC_CNT: 0
     EGR_RDY: 0
     EGR_SUP: 1
-    EVAP_RDY: 0
+    EVAP_RDY: 1
     EVAP_SUP: 1
     FUEL_RDY: 0
     FUEL_SUP: 1
