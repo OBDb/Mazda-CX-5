@@ -1,6 +1,4 @@
 command_id: 7E0.0143
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
 - response: '7E80441430000'
   expected_values:
@@ -14,6 +12,9 @@ test_cases:
 - response: '7E80441430048'
   expected_values:
     LOAD_ABS: 28.23529
+- response: '7E80441430053'
+  expected_values:
+    LOAD_ABS: 32.54902
 - response: 7E8044143006C
   expected_values:
     LOAD_ABS: 42.35294
