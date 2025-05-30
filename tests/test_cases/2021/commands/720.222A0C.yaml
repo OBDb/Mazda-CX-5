@@ -1,0 +1,8 @@
+command_id: 720.222A0C
+test_cases:
+- response: 72804622A0C3B
+  expected_values:
+    MAZDA_TT_3: 9
+- response: 72804622A0C69
+  expected_values:
+    MAZDA_TT_3: 55
