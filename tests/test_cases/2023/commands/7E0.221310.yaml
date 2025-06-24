@@ -1,14 +1,14 @@
 command_id: 7E0.221310
 test_cases:
-- response: '7E8056213101620'
+- response: 7E8056213101620
   expected_values:
-    MAZDA_EOT: 16.64
+    CX5_EOT: 16.64
 - response: 7E80562131030EF
   expected_values:
-    MAZDA_EOT: 85.27
-- response: '7E8056213103103'
+    CX5_EOT: 85.27
+- response: 7E8056213103103
   expected_values:
-    MAZDA_EOT: 85.47
-- response: '7E8056213103353'
+    CX5_EOT: 85.47
+- response: 7E8056213103353
   expected_values:
-    MAZDA_EOT: 91.39
+    CX5_EOT: 91.39

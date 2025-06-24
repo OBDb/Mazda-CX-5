@@ -2,16 +2,16 @@ command_id: 720.222A0B
 test_cases:
 - response: 72804622A0B00
   expected_values:
-    MAZDA_TT_2: -50
+    CX5_TT_2: -50
 - response: 72804622A0B43
   expected_values:
-    MAZDA_TT_2: 17
+    CX5_TT_2: 17.0
 - response: 72804622A0B44
   expected_values:
-    MAZDA_TT_2: 18
+    CX5_TT_2: 18.0
 - response: 72804622A0B46
   expected_values:
-    MAZDA_TT_2: 20
+    CX5_TT_2: 20.0
 - response: 72804622A0B47
   expected_values:
-    MAZDA_TT_2: 21
+    CX5_TT_2: 21.0

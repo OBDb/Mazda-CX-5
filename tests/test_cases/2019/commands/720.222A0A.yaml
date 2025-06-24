@@ -2,7 +2,7 @@ command_id: 720.222A0A
 test_cases:
 - response: 72804622A0A00
   expected_values:
-    MAZDA_TT_1: -50
+    CX5_TT_1: -50
 - response: 72804622A0A60
   expected_values:
-    MAZDA_TT_1: 46
+    CX5_TT_1: 46.0

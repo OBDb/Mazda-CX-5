@@ -1,11 +1,11 @@
 command_id: 7E0.220415
 test_cases:
-- response: '7E8056204150003'
+- response: 7E8056204150003
   expected_values:
-    MAZDA_EOP: 3
+    CX5_EOP: 3.0
 - response: 7E80562041500FF
   expected_values:
-    MAZDA_EOP: 255
-- response: '7E8056204150100'
+    CX5_EOP: 255.0
+- response: 7E8056204150100
   expected_values:
-    MAZDA_EOP: 256
+    CX5_EOP: 256.0

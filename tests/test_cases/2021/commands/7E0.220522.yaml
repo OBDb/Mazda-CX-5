@@ -2,7 +2,7 @@ command_id: 7E0.220522
 test_cases:
 - response: 7E8046205224A
   expected_values:
-    MAZDA_FUEL_T: 34
+    CX5_FUEL_T: 34.0
 - response: 7E8046205227F
   expected_values:
-    MAZDA_FUEL_T: 87
+    CX5_FUEL_T: 87.0
