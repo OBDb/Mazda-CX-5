@@ -1,9 +1,6 @@
 command_id: 7E0.0168
 test_cases:
-- response: |-
-    7E81009416803405000
-    7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 24
     IAT_11_SUP: 1
     IAT_12: 40
@@ -16,10 +13,10 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
-- response: |-
-    7E81009416803444D00
+  response: |-
+    7E81009416803405000
     7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 28
     IAT_11_SUP: 1
     IAT_12: 37
@@ -32,10 +29,10 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
-- response: |-
-    7E810094168034F5300
+  response: |-
+    7E81009416803444D00
     7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 39
     IAT_11_SUP: 1
     IAT_12: 43
@@ -48,10 +45,10 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
-- response: |-
-    7E810094168034F5C00
+  response: |-
+    7E810094168034F5300
     7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 39
     IAT_11_SUP: 1
     IAT_12: 52
@@ -64,10 +61,10 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
-- response: |-
-    7E81009416803535900
+  response: |-
+    7E810094168034F5C00
     7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 43
     IAT_11_SUP: 1
     IAT_12: 49
@@ -80,10 +77,10 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
-- response: |-
-    7E81009416803535A00
+  response: |-
+    7E81009416803535900
     7E82100000000000000
-  expected_values:
+- expected_values:
     IAT_11: 43
     IAT_11_SUP: 1
     IAT_12: 50
@@ -96,3 +93,6 @@ test_cases:
     IAT_22_SUP: 0
     IAT_23: -40
     IAT_23_SUP: 0
+  response: |-
+    7E81009416803535A00
+    7E82100000000000000

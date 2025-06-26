@@ -1,26 +1,26 @@
 command_id: 7E0.0159
 test_cases:
-- response: 7E8044159004B
-  expected_values:
+- expected_values:
     FRP_ABS: 750
-- response: 7E804415903E6
-  expected_values:
+  response: 7E8044159004B
+- expected_values:
     FRP_ABS: 9980
-- response: 7E804415903EB
-  expected_values:
+  response: 7E804415903E6
+- expected_values:
     FRP_ABS: 10030
-- response: 7E804415903F0
-  expected_values:
+  response: 7E804415903EB
+- expected_values:
     FRP_ABS: 10080
-- response: '7E80441590541'
-  expected_values:
+  response: 7E804415903F0
+- expected_values:
     FRP_ABS: 13450
-- response: '7E80441590580'
-  expected_values:
+  response: '7E80441590541'
+- expected_values:
     FRP_ABS: 14080
-- response: '7E80441590790'
-  expected_values:
+  response: '7E80441590580'
+- expected_values:
     FRP_ABS: 19360
-- response: 7E804415907E7
-  expected_values:
+  response: '7E80441590790'
+- expected_values:
     FRP_ABS: 20230
+  response: 7E804415907E7
