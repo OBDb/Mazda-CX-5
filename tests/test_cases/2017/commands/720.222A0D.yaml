@@ -1,17 +1,17 @@
 command_id: 720.222A0D
 test_cases:
 - expected_values:
-    MAZDA_TT_4: 23
+    CX5_TT_4: 23.0
   response: 72804622A0D49
 - expected_values:
-    MAZDA_TT_4: 24
+    CX5_TT_4: 24.0
   response: 72804622A0D4A
 - expected_values:
-    MAZDA_TT_4: 25
+    CX5_TT_4: 25.0
   response: 72804622A0D4B
 - expected_values:
-    MAZDA_TT_4: 32
+    CX5_TT_4: 32.0
   response: 72804622A0D52
 - expected_values:
-    MAZDA_TT_4: 33
+    CX5_TT_4: 33.0
   response: 72804622A0D53
