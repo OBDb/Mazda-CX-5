@@ -4,5 +4,5 @@ test_cases:
     MAZDA_FUEL_T: 32
   response: '7E80462052248'
 - expected_values:
-    MAZDA_FUEL_T: 91
-  response: '7E80462052283'
+    MAZDA_FUEL_T: 96
+  response: '7E80462052288'
