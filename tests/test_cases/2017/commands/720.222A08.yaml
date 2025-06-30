@@ -1,17 +1,17 @@
 command_id: 720.222A08
 test_cases:
 - expected_values:
-    MAZDA_TP_4: 2.29291
+    CX5_TP_4: 2.29291
   response: 72804622A08A7
 - expected_values:
-    MAZDA_TP_4: 2.32037
+    CX5_TP_4: 2.32037
   response: 72804622A08A9
 - expected_values:
-    MAZDA_TP_4: 2.36156
+    CX5_TP_4: 2.36156
   response: 72804622A08AC
 - expected_values:
-    MAZDA_TP_4: 2.41648
+    CX5_TP_4: 2.41648
   response: 72804622A08B0
 - expected_values:
-    MAZDA_TP_4: 2.45767
+    CX5_TP_4: 2.45767
   response: 72804622A08B3
