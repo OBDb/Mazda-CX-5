@@ -1,29 +1,29 @@
 command_id: 720.222A06
 test_cases:
 - expected_values:
-    MAZDA_TP_2: 0
+    CX5_TP_2: 0
   response: 72804622A0600
 - expected_values:
-    MAZDA_TP_2: 2.56751
+    CX5_TP_2: 2.56751
   response: 72804622A06BB
 - expected_values:
-    MAZDA_TP_2: 2.58124
+    CX5_TP_2: 2.58124
   response: 72804622A06BC
 - expected_values:
-    MAZDA_TP_2: 2.62243
+    CX5_TP_2: 2.62243
   response: 72804622A06BF
 - expected_values:
-    MAZDA_TP_2: 2.63616
+    CX5_TP_2: 2.63616
   response: 72804622A06C0
 - expected_values:
-    MAZDA_TP_2: 2.64989
+    CX5_TP_2: 2.64989
   response: 72804622A06C1
 - expected_values:
-    MAZDA_TP_2: 2.66362
+    CX5_TP_2: 2.66362
   response: 72804622A06C2
 - expected_values:
-    MAZDA_TP_2: 2.67735
+    CX5_TP_2: 2.67735
   response: 72804622A06C3
 - expected_values:
-    MAZDA_TP_2: 2.69108
+    CX5_TP_2: 2.69108
   response: 72804622A06C4

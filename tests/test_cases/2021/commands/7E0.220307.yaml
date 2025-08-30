@@ -1,14 +1,14 @@
 command_id: 7E0.220307
 test_cases:
 - expected_values:
-    MAZDA_FP_LD: 15.29717
-  response: '7E8056203072729'
+    CX5_FP_LD: 15.29717
+  response: 7E8056203072729
 - expected_values:
-    MAZDA_FP_LD: 16.01434
+    CX5_FP_LD: 16.01434
   response: 7E80562030728FF
 - expected_values:
-    MAZDA_FP_LD: 17.18776
+    CX5_FP_LD: 17.18776
   response: 7E8056203072C00
 - expected_values:
-    MAZDA_FP_LD: 47.50134
+    CX5_FP_LD: 47.50134
   response: 7E805620307799A
