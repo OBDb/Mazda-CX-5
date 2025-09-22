@@ -8,7 +8,7 @@ test_cases:
   response: 7E80562030728FD
 - expected_values:
     CX5_FP_LD: 20.70497
-  response: 7E8056203073501
+  response: '7E8056203073501'
 - expected_values:
     CX5_FP_LD: 33.11513
   response: 7E80562030754C6
