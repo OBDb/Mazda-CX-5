@@ -4,29 +4,5 @@ test_cases:
     CX5_TP_1: 0
   response: 72804622A0500
 - expected_values:
-    CX5_TP_1: 2.55378
-  response: 72804622A05BA
-- expected_values:
-    CX5_TP_1: 2.56751
-  response: 72804622A05BB
-- expected_values:
-    CX5_TP_1: 2.59497
-  response: 72804622A05BD
-- expected_values:
-    CX5_TP_1: 2.62243
-  response: 72804622A05BF
-- expected_values:
-    CX5_TP_1: 2.63616
-  response: 72804622A05C0
-- expected_values:
-    CX5_TP_1: 2.64989
-  response: 72804622A05C1
-- expected_values:
-    CX5_TP_1: 2.66362
-  response: 72804622A05C2
-- expected_values:
-    CX5_TP_1: 2.67735
-  response: 72804622A05C3
-- expected_values:
-    CX5_TP_1: 2.69108
-  response: 72804622A05C4
+    CX5_TP_1: 2.71854
+  response: 72804622A05C6
