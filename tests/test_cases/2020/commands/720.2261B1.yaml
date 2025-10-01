@@ -1,0 +1,10 @@
+command_id: 720.2261B1
+test_cases:
+- expected_values:
+    CX5_FLV: 14
+    CX5_FUEL_LEVEL: 14
+  response: 728046261B10E
+- expected_values:
+    CX5_FLV: 38
+    CX5_FUEL_LEVEL: 38
+  response: 728046261B126
