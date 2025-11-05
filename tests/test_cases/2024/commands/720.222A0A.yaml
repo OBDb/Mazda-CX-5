@@ -1,8 +1,0 @@
-command_id: 720.222A0A
-test_cases:
-- expected_values:
-    CX5_TT_1: -50
-  response: 72804622A0A00
-- expected_values:
-    CX5_TT_1: 61
-  response: 72804622A0A6F
