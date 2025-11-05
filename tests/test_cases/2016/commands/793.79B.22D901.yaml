@@ -1,0 +1,8 @@
+command_id: 793.79B.22D901
+test_cases:
+- expected_values:
+    CX5_CC_TGT_DIST: 0.5
+  response: 79B0562D9010002
+- expected_values:
+    CX5_CC_TGT_DIST: 15.75
+  response: 79B0562D901003F

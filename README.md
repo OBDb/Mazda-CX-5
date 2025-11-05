@@ -4,9 +4,9 @@ This repository contains signal set configurations for the Mazda CX-5, organized
 
 ## Generations
 
-The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technology, becoming their best-selling model globally through three generations since 2012:
+The Mazda CX-5 introduced Mazda's modern design philosophy and SkyActiv technology, becoming their best-selling model globally through three generations since 2012:
 
-- **First Generation (2012-2016)**: Revolutionary introduction of Kodo design language and comprehensive SkyActiv technology suite:
+- **2012-2016**: First Generation
   - September 2011: Frankfurt Motor Show debut
   - January 2012: Japanese production began at Ujina plant, Hiroshima
   - February 2012: Global market launch
@@ -15,7 +15,7 @@ The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technolog
   - Successor to both Tribute and larger CX-7 models
   - First model fully developed with SkyActiv technology integration
 
-  **Revolutionary Technology:**
+  **Technology:**
   - First application of Kodo "Soul of Motion" design language
   - SkyActiv-G 2.0L gasoline engine (155 hp, 155 lb-ft)
   - SkyActiv-D 2.2L diesel engine option
@@ -30,7 +30,7 @@ The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technolog
   - Refined exterior styling details
   - Improved NVH (Noise, Vibration, Harshness) characteristics
 
-- **Second Generation (2017-2024)**: Comprehensive redesign with enhanced refinement and performance expansion:
+- **2017-2024**: Second Generation
   - 2016: Los Angeles Auto Show reveal
   - KF platform designation with advanced architecture
   - Maintained SkyActiv technology philosophy with improvements
@@ -51,7 +51,7 @@ The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technolog
   - Enhanced standard equipment and safety features
   - Refined exterior styling with updated lighting signatures
 
-- **Third Generation (2026-present)**: All-new platform representing next evolution of CX-5 legacy:
+- **2026-present**: Third Generation
   - Summer 2025: Japanese market introduction announcement
   - 2026: North American market debut
   - Built upon CX-5's established success foundation
@@ -59,7 +59,7 @@ The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technolog
   - Next-generation SkyActiv technology suite expected
   - Enhanced autonomous driving capabilities likely
 
-- **Global Success and Market Impact**: Established CX-5 as Mazda's flagship and most successful model:
+- **Global Success and Market Impact**:
   - **Sales Milestones:**
   - 2014-present: Consistently Mazda's best-selling model globally
   - 2019: Record sales year with 444,262 units worldwide
@@ -72,7 +72,7 @@ The Mazda CX-5 pioneered Mazda's modern design philosophy and SkyActiv technolog
   - Strong value proposition in competitive segment
   - Emphasis on design and technology over maximum interior space
 
-- **Technology and Innovation Leadership**: Pioneered multiple automotive technologies later adopted industry-wide:
+- **Technology and Innovation Leadership**:
   - SkyActiv engine technology with high compression ratios
   - Lightweight construction techniques
   - Advanced transmission efficiency
