@@ -10,5 +10,5 @@ test_cases:
     CX5_ETC_DSD_DEG: 4.50195
   response: 7E80562091A0901
 - expected_values:
-    CX5_ETC_DSD_DEG: 18.12109
-  response: 7E80562091A243E
+    CX5_ETC_DSD_DEG: 48.83203
+  response: 7E80562091A61AA
