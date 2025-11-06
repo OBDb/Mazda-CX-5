@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22091A
+test_cases:
+- expected_values:
+    CX5_ETC_DSD_DEG: 0.58789
+  response: 7E80562091A012D
+- expected_values:
+    CX5_ETC_DSD_DEG: 2.49805
+  response: 7E80562091A04FF
+- expected_values:
+    CX5_ETC_DSD_DEG: 2.5
+  response: 7E80562091A0500
+- expected_values:
+    CX5_ETC_DSD_DEG: 20.58398
+  response: 7E80562091A292B
