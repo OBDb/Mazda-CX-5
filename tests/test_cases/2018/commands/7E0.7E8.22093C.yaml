@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    CX5_ETC_ACT_DEG: 1.63867
-  response: 7E80562093C0347
+    CX5_ETC_ACT_DEG: 0.27344
+  response: 7E80562093C008C
 - expected_values:
-    CX5_ETC_ACT_DEG: 4.00391
-  response: 7E80562093C0802
+    CX5_ETC_ACT_DEG: 16.49805
+  response: 7E80562093C20FF
 - expected_values:
-    CX5_ETC_ACT_DEG: 4.49609
-  response: 7E80562093C08FE
+    CX5_ETC_ACT_DEG: 17.50195
+  response: 7E80562093C2301
 - expected_values:
-    CX5_ETC_ACT_DEG: 50.32812
-  response: 7E80562093C64A8
+    CX5_ETC_ACT_DEG: 86.78906
+  response: 7E80562093CAD94

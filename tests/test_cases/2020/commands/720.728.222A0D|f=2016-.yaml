@@ -1,26 +1,26 @@
 command_id: 720.728.222A0D|f=2016-
 test_cases:
 - expected_values:
-    CX5_TT_4: 30
+    CX5_TT_RL: 30
   response: 72804622A0D50
 - expected_values:
-    CX5_TT_4: 31
+    CX5_TT_RL: 31
   response: 72804622A0D51
 - expected_values:
-    CX5_TT_4: 32
+    CX5_TT_RL: 32
   response: 72804622A0D52
 - expected_values:
-    CX5_TT_4: 34
+    CX5_TT_RL: 34
   response: 72804622A0D54
 - expected_values:
-    CX5_TT_4: 35
+    CX5_TT_RL: 35
   response: 72804622A0D55
 - expected_values:
-    CX5_TT_4: 36
+    CX5_TT_RL: 36
   response: 72804622A0D56
 - expected_values:
-    CX5_TT_4: 37
+    CX5_TT_RL: 37
   response: 72804622A0D57
 - expected_values:
-    CX5_TT_4: 40
+    CX5_TT_RL: 40
   response: 72804622A0D5A

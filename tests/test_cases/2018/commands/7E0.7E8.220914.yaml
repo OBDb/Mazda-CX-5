@@ -4,11 +4,11 @@ test_cases:
     CX5_APP1_V: 0.778
   response: 7E805620914030A
 - expected_values:
-    CX5_APP1_V: 1.541
-  response: '7E8056209140605'
+    CX5_APP1_V: 1.536
+  response: '7E8056209140600'
 - expected_values:
-    CX5_APP1_V: 1.78
-  response: 7E80562091406F4
+    CX5_APP1_V: 1.791
+  response: 7E80562091406FF
 - expected_values:
-    CX5_APP1_V: 2.057
-  response: '7E8056209140809'
+    CX5_APP1_V: 3.086
+  response: 7E8056209140C0E
