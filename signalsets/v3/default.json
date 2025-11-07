@@ -1,35 +1,35 @@
 { "commands": [
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TP_1", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 1 pressure", "suggestedMetric": "frontLeftTirePressure"}
+    {"id": "CX5_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TP_2", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 2 pressure", "suggestedMetric": "frontRightTirePressure"}
+    {"id": "CX5_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TP_3", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 3 pressure", "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "CX5_TP_RR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TP_4", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 4 pressure", "suggestedMetric": "rearRightTirePressure"}
+    {"id": "CX5_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A0A"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TT_1", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 1 temperature"}
+    {"id": "CX5_TT_FR", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Front right tire temperature"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TT_2", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 2 temperature"}
+    {"id": "CX5_TT_FL", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Front left tire temperature"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A0C"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TT_3", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 3 temperature"}
+    {"id": "CX5_TT_RR", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Rear right tire temperature"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A0D"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
-    {"id": "CX5_TT_4", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 4 temperature"}
+    {"id": "CX5_TT_RL", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Rear left tire temperature"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
   "signals": [
