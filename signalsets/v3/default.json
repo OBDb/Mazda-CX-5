@@ -1,89 +1,89 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_RR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0A"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0A"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TT_RL", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Rear left tire temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TT_FL", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Front left tire temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0C"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0C"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TT_RR", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Rear right tire temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0D"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0D"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TT_FR", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Front right tire temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2025 },
   "signals": [
     {"id": "CX5_FLV", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level"}
   ]},
-{ "hdr": "793", "rax": "79B", "cmd": {"22": "D901"}, "freq": 0.25, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "793", "rax": "79B", "cmd": {"22": "D901"}, "freq": 0.25, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
     {"id": "CX5_CC_TGT_DIST", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 63.75, "div": 4, "unit": "meters" }, "name": "Distance from bumper to target"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_MAP", "path": "Engine", "fmt": { "len": 16, "max": 4, "div": 1000, "unit": "volts" }, "name": "Map voltage", "description": "A properly functioning sensor should read around 1 to 1.5 volts at idle."}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0307"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0307"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_FP_LD", "path": "Fuel", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 65535, "unit": "percent" }, "name": "Fuel pump load"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0415"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0415"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2017, "from": 2026 },
   "signals": [
     {"id": "CX5_EOP", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "Engine oil pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0522"}, "freq": 1, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0522"}, "freq": 1, "dbgfilter": { "to": 2020, "years": [2022], "from": 2026 },
   "signals": [
     {"id": "CX5_FUEL_T", "path": "Fuel", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Fuel temp"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0900"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0900"}, "freq": 1,
   "signals": [
     {"id": "CX5_MAP_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Manifold absolute pressure voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0914"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0914"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_APP1_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "APP sensor 1 voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0915"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0915"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_APP2_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "APP sensor 2 voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0917"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0917"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_TP1_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Throttle position 1 voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0918"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0918"}, "freq": 0.5, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_TP2_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Throttle position 2 voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "091A"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_ETC_DSD_DEG", "path": "Engine", "fmt": { "len": 16, "max": 127.9, "div": 512, "unit": "degrees" }, "name": "Throttle control desired (degrees)"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "093C"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_ETC_ACT_DEG", "path": "Engine", "fmt": { "len": 16, "max": 127.9, "div": 512, "unit": "degrees" }, "name": "Throttle position actual (degrees)"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0967"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0967"}, "freq": 0.25,
   "signals": [
     {"id": "CX5_FAN3_SW", "path": "Engine", "fmt": {"bix": 5, "len": 1, "max": 1, "unit": "offon" }, "name": "Cooling fan relay control"}
   ]},
@@ -141,7 +141,7 @@
   "signals": [
     {"id": "CX5_MAF_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Mass air-flow voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2014, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_EOT", "path": "Engine", "fmt": { "len": 16, "max": 615.35, "min": -40, "div": 100, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
@@ -182,11 +182,11 @@
   "signals": [
     {"id": "CX5_VT_DUTY", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 200, "div": 65535, "unit": "percent" }, "name": "Valve timing OCV control duty"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16E8"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16E8"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_GEN_FC", "path": "Engine", "fmt": { "len": 16, "max": 200, "mul": 200, "div": 65535, "unit": "percent" }, "name": "Generator field coil control duty"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16E9"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16E9"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019], "from": 2021 },
   "signals": [
     {"id": "CX5_GEN_V", "path": "Engine", "fmt": { "len": 16, "max": 8191.875, "div": 8, "unit": "volts" }, "name": "Generator output voltage"}
   ]},
@@ -238,7 +238,7 @@
   "signals": [
     {"id": "CX5_SCCS_V", "path": "Cruise control", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 65535, "unit": "volts" }, "name": "Cruise control voltage", "description": "0.0V = On/Off Switch depressed, 1.1V = Cancel depressed, 3.1V = Set/- switch depressed, 4.2V = Res/+ switch depressed, 5.0V = Normal"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "17B3"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021], "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "17B3"}, "freq": 1,
   "signals": [
     {"id": "CX5_TRANS_T_V5", "path": "Transmission", "fmt": { "len": 8, "max": 371.4, "min": -57, "mul": 42, "div": 25, "add": -57, "unit": "fahrenheit" }, "name": "Transmission temperature v5"}
   ]},
