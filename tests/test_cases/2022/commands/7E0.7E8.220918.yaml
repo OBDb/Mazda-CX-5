@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220918
 test_cases:
 - expected_values:
-    CX5_TP2_V: 3.629
-  response: 7E8056209180E2D
+    CX5_TP2_V: 3.555
+  response: 7E8056209180DE3
 - expected_values:
-    CX5_TP2_V: 4.096
-  response: '7E8056209181000'
+    CX5_TP2_V: 3.584
+  response: 7E8056209180E00
 - expected_values:
-    CX5_TP2_V: 4.341
-  response: 7E80562091810F5
+    CX5_TP2_V: 4.606
+  response: 7E80562091811FE
 - expected_values:
-    CX5_TP2_V: 4.377
-  response: '7E8056209181119'
+    CX5_TP2_V: 4.613
+  response: '7E8056209181205'
