@@ -142,6 +142,8 @@ unsupported_commands_by_ecu:
   - 726.22D929
   "793":
   - 793.79B.22D901:CX5_CC_TGT_DIST
+  "7DF":
+  - 7DF.0105
   "7E0":
   - 7E0.220306
   - 7E0.220380
