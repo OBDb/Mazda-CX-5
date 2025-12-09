@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     CX5_TP_RL: 2.85584
   response: 72804622A05D0
+- expected_values:
+    CX5_TP_RL: 2.81465
+  response: "SEARCHING...\n728 04 62 2A 05 CD "
