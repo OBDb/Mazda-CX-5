@@ -4,5 +4,5 @@ test_cases:
     CX5_TP_RR: 2.08696
   response: 72804622A0798
 - expected_values:
-    CX5_TP_RR: 2.52632
-  response: 72804622A07B8
+    CX5_TP_RR: 2.58124
+  response: 72804622A07BC
