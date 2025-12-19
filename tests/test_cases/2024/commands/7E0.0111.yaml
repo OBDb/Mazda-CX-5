@@ -10,8 +10,8 @@ test_cases:
     TP: 44.31373
   response: '7E8 03 41 11 71 '
 - expected_values:
-    TP: 10.19608
-  response: 7E80341111A
+    TP: 9.41176
+  response: '7E803411118'
 - expected_values:
     TP: 91.37255
   response: 7E8034111E9
