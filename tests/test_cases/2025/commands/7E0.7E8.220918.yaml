@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     CX5_TP2_V: 4.465
   response: '7E8056209181171'
+- expected_values:
+    CX5_TP2_V: 4.496
+  response: '7E8056209181190'
+- expected_values:
+    CX5_TP2_V: 4.507
+  response: 7E805620918119B
