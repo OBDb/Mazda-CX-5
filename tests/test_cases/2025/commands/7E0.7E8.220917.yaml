@@ -7,8 +7,17 @@ test_cases:
     CX5_TP1_V: 0.629
   response: '7E8056209170275'
 - expected_values:
+    CX5_TP1_V: 0.632
+  response: '7E8056209170278'
+- expected_values:
     CX5_TP1_V: 0.636
   response: 7E805620917027C
 - expected_values:
     CX5_TP1_V: 0.639
   response: 7E805620917027F
+- expected_values:
+    CX5_TP1_V: 0.646
+  response: '7E8056209170286'
+- expected_values:
+    CX5_TP1_V: 0.701
+  response: 7E80562091702BD
