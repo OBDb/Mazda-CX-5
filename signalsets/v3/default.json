@@ -31,7 +31,7 @@
   "signals": [
     {"id": "CX5_TT_FR", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "nullmin": -50, "unit": "celsius" }, "name": "Front right tire temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "from": 2025 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "from": 2026 },
   "signals": [
     {"id": "CX5_FLV", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level"}
   ]},
