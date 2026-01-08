@@ -74,6 +74,7 @@ supported_commands_by_ecu:
   - 7E0.0102:DTCFRZF
   - 7E0.0104:LOAD_PCT
   - 7E0.010D:VSS
+  - 7E0.0110:MAF
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
   - 7E0.0121:MIL_DIST
