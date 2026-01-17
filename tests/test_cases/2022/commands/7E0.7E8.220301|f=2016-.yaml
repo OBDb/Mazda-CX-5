@@ -7,8 +7,8 @@ test_cases:
     CX5_MAP: 1.536
   response: '7E8056203010600'
 - expected_values:
-    CX5_MAP: 4
-  response: 7E8056203010FFF
+    CX5_MAP: 1.791
+  response: 7E80562030106FF
 - expected_values:
     CX5_MAP: 4
   response: '7E8056203011000'
