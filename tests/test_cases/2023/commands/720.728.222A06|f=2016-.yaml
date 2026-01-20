@@ -1,8 +1,8 @@
 command_id: 720.728.222A06|f=2016-
 test_cases:
 - expected_values:
-    CX5_TP_FL: 2.16934
-  response: 72804622A069E
+    CX5_TP_FL: 2.12815
+  response: 72804622A069B
 - expected_values:
     CX5_TP_FL: 3.5
   response: 72804622A06FF
