@@ -4,6 +4,9 @@ test_cases:
     CX5_TT_FR: -6
   response: 72804622A0D2C
 - expected_values:
+    CX5_TT_FR: 5
+  response: 72804622A0D37
+- expected_values:
     CX5_TT_FR: 30
   response: 72804622A0D50
 - expected_values:
