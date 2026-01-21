@@ -4,5 +4,5 @@ test_cases:
     CX5_FLV: 9
   response: 728046261B109
 - expected_values:
-    CX5_FLV: 38
-  response: 728046261B126
+    CX5_FLV: 56
+  response: 728046261B138
