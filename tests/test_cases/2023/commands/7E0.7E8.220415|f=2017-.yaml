@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220415|f=2017-
 test_cases:
 - expected_values:
-    CX5_EOP: 123
-  response: 7E805620415007B
+    CX5_EOP: 121
+  response: '7E8056204150079'
 - expected_values:
     CX5_EOP: 255
   response: 7E80562041500FF
