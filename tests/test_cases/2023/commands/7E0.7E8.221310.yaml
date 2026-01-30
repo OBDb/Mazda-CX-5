@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    CX5_EOT: 10.82
-  response: 7E80562131013DA
+    CX5_EOT: 8.86
+  response: '7E8056213101316'
 - expected_values:
-    CX5_EOT: 18.79
-  response: 7E80562131016F7
+    CX5_EOT: 64.91
+  response: 7E80562131028FB
 - expected_values:
     CX5_EOT: 85.47
   response: '7E8056213103103'
