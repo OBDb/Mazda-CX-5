@@ -61,5 +61,5 @@ supported_commands_by_ecu:
   - 0149:APP_D
 unsupported_commands_by_ecu:
   "7E0":
-  - 7E0.7E8.221410|f=-2015:CX5_FUEL_PW
-  - 7E0.7E8.221706|f=-2015:CX5_HIDET_SW,CX5_LAMBDA_MOD_SW
+  - 7E0.7E8.221410
+  - 7E0.7E8.221706

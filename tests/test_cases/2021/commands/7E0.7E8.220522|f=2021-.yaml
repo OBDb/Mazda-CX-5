@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220522|f=2021-
+test_cases:
+- expected_values:
+    CX5_FUEL_T: 32
+  response: '7E80462052248'
+- expected_values:
+    CX5_FUEL_T: 92
+  response: '7E80462052284'
