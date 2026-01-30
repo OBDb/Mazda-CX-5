@@ -1,8 +1,0 @@
-command_id: 720.728.222A0D|f=2016-
-test_cases:
-- expected_values:
-    CX5_TT_FR: 20
-  response: 72804622A0D46
-- expected_values:
-    CX5_TT_FR: 53
-  response: 72804622A0D67
