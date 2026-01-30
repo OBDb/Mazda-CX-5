@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    CX5_FP_LD: 28.36194
+  response: 7E805620307489B
+- expected_values:
+    CX5_FP_LD: 28.51453
+  response: 7E80562030748FF
+- expected_values:
+    CX5_FP_LD: 28.51606
+  response: '7E8056203074900'
+- expected_values:
+    CX5_FP_LD: 47.50134
+  response: 7E805620307799A
