@@ -158,5 +158,6 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.220900
   - 7E0.7E8.220967
   - 7E0.7E8.221746:CX5_KNOCKR
+  - 7E0.7E8.2217FA:CX5_LDP_EVAPCP
   "7E1":
   - 7E1.7E9.2217B3
