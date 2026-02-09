@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CX5_APP1_V: 0.796
   response: 7E805620914031C
+- expected_values:
+    CX5_APP1_V: 1.72
+  response: 7E80562091406B8
