@@ -4,11 +4,8 @@ test_cases:
     CX5_TRANS_T_V6: 65.3
   response: 7E905621E1C0128
 - expected_values:
-    CX5_TRANS_T_V6: 146.75
-  response: 7E905621E1C03FC
+    CX5_TRANS_T_V6: 204.6875
+  response: 7E905621E1C05FF
 - expected_values:
-    CX5_TRANS_T_V6: 148.325
-  response: 7E905621E1C040A
-- expected_values:
-    CX5_TRANS_T_V6: 179.0375
-  response: 7E905621E1C051B
+    CX5_TRANS_T_V6: 204.9125
+  response: 7E905621E1C0601
