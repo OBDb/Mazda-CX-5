@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     OBDSUP: EOBD
   response: 7E803411C06
+- expected_values:
+    OBDSUP: JOBD
+  response: 7E803411C0A
