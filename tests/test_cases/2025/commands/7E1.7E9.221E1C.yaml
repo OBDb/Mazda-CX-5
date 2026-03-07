@@ -1,8 +1,13 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
-    CX5_TRANS_T_V6: 127.175
-  response: 7E905621E1C034E
+    CX5_TRANS_T_V6: 81.1625
+  response: |-
+    7E90441310127
+    7E905621E1C01B5
+- expected_values:
+    CX5_TRANS_T_V6: 81.1625
+  response: 7E905621E1C01B5
 - expected_values:
     CX5_TRANS_T_V6: 175.6625
   response: 7E905621E1C04FD
