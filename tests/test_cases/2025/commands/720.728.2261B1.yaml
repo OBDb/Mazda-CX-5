@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     CX5_FLV: 24
   response: 728046261B118
+- expected_values:
+    CX5_FLV: 53
+  response: 728046261B135
+- expected_values:
+    CX5_FLV: 55
+  response: 728046261B137
+- expected_values:
+    CX5_FLV: 56
+  response: 728046261B138
