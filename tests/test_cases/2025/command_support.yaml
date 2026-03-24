@@ -85,6 +85,10 @@ supported_commands_by_ecu:
   - 7E0.7E8.2216E8:CX5_GEN_FC
   - 7E0.7E8.2216E9:CX5_GEN_V
   "7E1":
+  - 7E1.7E9.0104
+  - 7E1.7E9.0105
+  - 7E1.7E9.010D
+  - 7E1.7E9.0131
   - 7E1.7E9.221E1C:CX5_TRANS_T_V6
 unsupported_commands_by_ecu:
   "720":
