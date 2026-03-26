@@ -293,6 +293,7 @@ unsupported_commands_by_ecu:
   - 7DF.221E23
   - 7DF.22F45C
   "7E0":
+  - 7E0.0166:MAFA,MAFA_SUP,MAFB,MAFB_SUP
   - 7E0.220306
   - 7E0.22030F
   - 7E0.220380
