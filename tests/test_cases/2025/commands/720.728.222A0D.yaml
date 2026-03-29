@@ -1,8 +1,8 @@
 command_id: 720.728.222A0D
 test_cases:
 - expected_values:
-    CX5_TT_FR: 2
-  response: 72804622A0D34
+    CX5_TT_FR: 0
+  response: 72804622A0D32
 - expected_values:
     CX5_TT_FR: 55
   response: 72804622A0D69
