@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     EXH_RATE: 71
   response: 7E804419E0163
+- expected_values:
+    EXH_RATE: 565
+  response: 7E804419E0B09
+- expected_values:
+    EXH_RATE: 581
+  response: 7E804419E0B59
+- expected_values:
+    EXH_RATE: 582.4
+  response: 7E804419E0B60
+- expected_values:
+    EXH_RATE: 598.8
+  response: 7E804419E0BB2
+- expected_values:
+    EXH_RATE: 622.8
+  response: 7E804419E0C2A
+- expected_values:
+    EXH_RATE: 656.8
+  response: 7E804419E0CD4
+- expected_values:
+    EXH_RATE: 657.6
+  response: 7E804419E0CD8
+- expected_values:
+    EXH_RATE: 661.8
+  response: 7E804419E0CED
