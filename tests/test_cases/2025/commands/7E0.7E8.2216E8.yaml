@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
+    CX5_GEN_FC: 25.90677
+  response: 7E8056216E82129
+- expected_values:
+    CX5_GEN_FC: 26.55375
+  response: 7E8056216E821FD
+- expected_values:
     CX5_GEN_FC: 35.64508
   response: 7E8056216E82DA0
 - expected_values:
