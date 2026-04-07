@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     CX5_GEN_V: 14.625
   response: 7E8056216E90075
+- expected_values:
+    CX5_GEN_V: 14.875
+  response: 7E8056216E90077
