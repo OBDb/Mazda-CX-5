@@ -4,5 +4,5 @@ test_cases:
     CX5_EOP: 127
   response: 7E805620415007F
 - expected_values:
-    CX5_EOP: 194
-  response: 7E80562041500C2
+    CX5_EOP: 235
+  response: 7E80562041500EB
