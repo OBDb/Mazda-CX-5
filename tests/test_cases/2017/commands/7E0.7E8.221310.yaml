@@ -4,6 +4,9 @@ test_cases:
     CX5_EOT: 25.57
   response: 7E805621310199D
 - expected_values:
+    CX5_EOT: 36.8
+  response: 7E8056213101E00
+- expected_values:
     CX5_EOT: 80.27
   response: 7E8056213102EFB
 - expected_values:
