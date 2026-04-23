@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     CX5_TT_FR: 53
   response: 72804622A0D67
+- expected_values:
+    CX5_TT_FR: 32
+  response: |-
+    SEARCHING...
+    72804622A0D52
