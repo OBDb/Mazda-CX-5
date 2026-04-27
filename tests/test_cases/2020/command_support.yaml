@@ -12,6 +12,7 @@ supported_commands_by_ecu:
   - 720.728.2261B1:CX5_FLV
   "7DF":
   - 7DF.0106
+  - 7DF.0110
   - 7DF.012F
   - 7DF.0131
   - 7DF.0134
