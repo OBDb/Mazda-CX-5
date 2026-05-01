@@ -10,6 +10,9 @@ test_cases:
     CX5_APP2_V: 2.322
   response: '7E8056209150912'
 - expected_values:
+    CX5_APP2_V: 2.338
+  response: '7E8056209150922'
+- expected_values:
     CX5_APP2_V: 2.34
   response: '7E8056209150924'
 - expected_values:
