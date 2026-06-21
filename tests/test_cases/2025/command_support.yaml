@@ -11,6 +11,8 @@ supported_commands_by_ecu:
   - 720.728.222A0D:CX5_TT_FR
   - 720.728.2261B1:CX5_FLV
   "7DF":
+  - 7DF.0107
+  - 7DF.0110
   - 7DF.012F
   - 7DF.0131
   - 7DF.0134
@@ -134,6 +136,7 @@ supported_commands_by_ecu:
   - 7E1.7E9.0104
   - 7E1.7E9.0105
   - 7E1.7E9.010D
+  - 7E1.7E9.010F
   - 7E1.7E9.0111
   - 7E1.7E9.0131
   - 7E1.7E9.0142
@@ -154,6 +157,9 @@ unsupported_commands_by_ecu:
   "793":
   - 793.22D901
   - 793.79B.22D901
+  "7DF":
+  - 7DF.0106
+  - 7DF.01A6
   "7E0":
   - 7E0.220306
   - 7E0.220380
