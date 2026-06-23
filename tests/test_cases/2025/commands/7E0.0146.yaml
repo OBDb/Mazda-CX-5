@@ -22,5 +22,8 @@ test_cases:
     AAT: 35
   response: 7E80341464B
 - expected_values:
+    AAT: 37
+  response: 7E80341464D
+- expected_values:
     AAT: 50
   response: 7E80341465A
