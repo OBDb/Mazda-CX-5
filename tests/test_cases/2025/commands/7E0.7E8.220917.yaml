@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220917
+test_cases:
+- expected_values:
+    CX5_TP1_V: 0.561
+  response: '7E8056209170231'
+- expected_values:
+    CX5_TP1_V: 1.013
+  response: 7E80562091703F5
+- expected_values:
+    CX5_TP1_V: 1.425
+  response: '7E8056209170591'

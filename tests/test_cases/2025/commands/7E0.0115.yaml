@@ -1,0 +1,26 @@
+command_id: 7E0.0115
+test_cases:
+- expected_values:
+    O2S12: 0.175
+    SHRTFT11: -28
+  response: '7E80441152380'
+- expected_values:
+    O2S12: 0.18
+    SHRTFT11: -28
+  response: '7E80441152480'
+- expected_values:
+    O2S12: 0.8
+    SHRTFT11: -28
+  response: 7E8044115A080
+- expected_values:
+    O2S12: 0.835
+    SHRTFT11: -28
+  response: 7E8044115A780
+- expected_values:
+    O2S12: 0.86
+    SHRTFT11: -28
+  response: 7E8044115AC80
+- expected_values:
+    O2S12: 0.865
+    SHRTFT11: -28
+  response: 7E8044115AD80
