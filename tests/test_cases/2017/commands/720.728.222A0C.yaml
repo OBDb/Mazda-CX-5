@@ -1,0 +1,32 @@
+command_id: 720.728.222A0C
+test_cases:
+- expected_values:
+    CX5_TT_RR: 28
+  response: '728 04 62 2A 0C 4E '
+- expected_values:
+    CX5_TT_RR: 23
+  response: 72804622A0C49
+- expected_values:
+    CX5_TT_RR: 24
+  response: 72804622A0C4A
+- expected_values:
+    CX5_TT_RR: 25
+  response: 72804622A0C4B
+- expected_values:
+    CX5_TT_RR: 26
+  response: 72804622A0C4C
+- expected_values:
+    CX5_TT_RR: 27
+  response: 72804622A0C4D
+- expected_values:
+    CX5_TT_RR: 28
+  response: 72804622A0C4E
+- expected_values:
+    CX5_TT_RR: 32
+  response: 72804622A0C52
+- expected_values:
+    CX5_TT_RR: 33
+  response: 72804622A0C53
+- expected_values:
+    CX5_TT_RR: 34
+  response: 72804622A0C54
