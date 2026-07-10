@@ -4,11 +4,11 @@ test_cases:
     CX5_GEN_FC: 19.69024
   response: 7E8056216E81934
 - expected_values:
-    CX5_GEN_FC: 34.28092
-  response: 7E8056216E82BE1
+    CX5_GEN_FC: 21.85092
+  response: 7E8056216E81BF8
 - expected_values:
-    CX5_GEN_FC: 42.20035
-  response: 7E8056216E83604
+    CX5_GEN_FC: 23.44396
+  response: 7E8056216E81E02
 - expected_values:
     CX5_GEN_FC: 55.3048
   response: 7E8056216E846CA
