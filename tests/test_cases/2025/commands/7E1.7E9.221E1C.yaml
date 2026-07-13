@@ -68,6 +68,11 @@ test_cases:
     7E903410D00
     7E905621E1C04B2
 - expected_values:
+    CX5_TRANS_T_V6: 117.5
+  response: |-
+    7E904413116BC
+    7E905621E1C02F8
+- expected_values:
     CX5_TRANS_T_V6: 40.325
   response: 7E905621E1C004A
 - expected_values:
