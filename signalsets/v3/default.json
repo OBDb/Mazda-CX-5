@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
