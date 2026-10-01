@@ -7,8 +7,8 @@ test_cases:
     CX5_TP_RR: 2.77346
   response: '728 04 62 2A 07 CA '
 - expected_values:
-    CX5_TP_RR: 2.01831
-  response: 72804622A0793
+    CX5_TP_RR: null
+  response: 72804622A0700
 - expected_values:
     CX5_TP_RR: 2.78719
   response: 72804622A07CB
