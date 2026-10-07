@@ -1,6 +1,12 @@
 command_id: 720.728.222A05
 test_cases:
 - expected_values:
+    CX5_TP_RL: 2.30664
+  response: '728 04 62 2A 05 A8 '
+- expected_values:
+    CX5_TP_RL: 2.37529
+  response: '728 04 62 2A 05 AD '
+- expected_values:
     CX5_TP_RL: null
   response: 72804622A0500
 - expected_values:
