@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    CX5_AC_P_SENS_V: 0.90625
+  response: 7E80562980003A0
+- expected_values:
+    CX5_AC_P_SENS_V: 0.90723
+  response: 7E80562980003A1
+- expected_values:
+    CX5_AC_P_SENS_V: 0.9082
+  response: 7E80562980003A2
+- expected_values:
+    CX5_AC_P_SENS_V: 0.91113
+  response: 7E80562980003A5
+- expected_values:
+    CX5_AC_P_SENS_V: 0.91699
+  response: 7E80562980003AB
+- expected_values:
+    CX5_AC_P_SENS_V: 0.9209
+  response: 7E80562980003AF

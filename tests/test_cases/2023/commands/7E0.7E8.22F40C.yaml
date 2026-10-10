@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    CX5_RPM: 655.25
+  response: 7E80562F40C0A3D
+- expected_values:
+    CX5_RPM: 1013.25
+  response: 7E80562F40C0FD5
+- expected_values:
+    CX5_RPM: 1070.75
+  response: 7E80562F40C10BB
+- expected_values:
+    CX5_RPM: 1403.25
+  response: 7E80562F40C15ED
+- expected_values:
+    CX5_RPM: 1586.25
+  response: 7E80562F40C18C9
+- expected_values:
+    CX5_RPM: 2220.75
+  response: 7E80562F40C22B3

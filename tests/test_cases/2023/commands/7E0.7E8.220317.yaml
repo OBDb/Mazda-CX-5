@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220317
+test_cases:
+- expected_values:
+    CX5_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    CX5_VCT_EXH_DUTY: 41.20483
+  response: 7E80562031734BE
+- expected_values:
+    CX5_VCT_EXH_DUTY: 42.23633
+  response: '7E8056203173610'
+- expected_values:
+    CX5_VCT_EXH_DUTY: 42.7063
+  response: 7E80562031736AA
+- expected_values:
+    CX5_VCT_EXH_DUTY: 43.33191
+  response: '7E8056203173777'

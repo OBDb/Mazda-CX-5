@@ -1,0 +1,14 @@
+command_id: 760.768.222B06
+test_cases:
+- expected_values:
+    CX5_FR_VSS: 0
+  response: 76804622B0600
+- expected_values:
+    CX5_FR_VSS: 18
+  response: 76804622B0612
+- expected_values:
+    CX5_FR_VSS: 61
+  response: 76804622B063D
+- expected_values:
+    CX5_FR_VSS: 77
+  response: 76804622B064D

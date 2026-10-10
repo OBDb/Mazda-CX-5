@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    CX5_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    CX5_EVAP_PURGE_CMD: 16.55884
+  response: '7E8056211661532'
+- expected_values:
+    CX5_EVAP_PURGE_CMD: 31.22559
+  response: 7E80562116627F8
+- expected_values:
+    CX5_EVAP_PURGE_CMD: 47.81494
+  response: 7E8056211663D34
