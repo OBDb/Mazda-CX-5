@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    CX5_GRILL_SHUT_DC: 0
+  response: '7E80462070700'
+- expected_values:
+    CX5_GRILL_SHUT_DC: 73.33333
+  response: 7E804620707BB
+- expected_values:
+    CX5_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

@@ -1,0 +1,17 @@
+command_id: 760.768.222B00
+test_cases:
+- expected_values:
+    CX5_PARKING_BRAKE_760: 0
+  response: 76807622B0000000000
+- expected_values:
+    CX5_PARKING_BRAKE_760: 0
+  response: 76807622B0000800000
+- expected_values:
+    CX5_PARKING_BRAKE_760: 1
+  response: 76807622B0080000000
+- expected_values:
+    CX5_PARKING_BRAKE_760: 1
+  response: 76807622B0080800000
+- expected_values:
+    CX5_PARKING_BRAKE_760: 1
+  response: 76807622B00A0000000

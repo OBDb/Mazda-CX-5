@@ -1,0 +1,26 @@
+command_id: 761.769.221E7A
+test_cases:
+- expected_values:
+    CX5_COUPLING_SOLENOID: 0
+  response: 76904621E7A00
+- expected_values:
+    CX5_COUPLING_SOLENOID: 12.15686
+  response: 76904621E7A1F
+- expected_values:
+    CX5_COUPLING_SOLENOID: 13.72549
+  response: 76904621E7A23
+- expected_values:
+    CX5_COUPLING_SOLENOID: 14.5098
+  response: 76904621E7A25
+- expected_values:
+    CX5_COUPLING_SOLENOID: 15.29412
+  response: 76904621E7A27
+- expected_values:
+    CX5_COUPLING_SOLENOID: 15.68627
+  response: 76904621E7A28
+- expected_values:
+    CX5_COUPLING_SOLENOID: 16.07843
+  response: 76904621E7A29
+- expected_values:
+    CX5_COUPLING_SOLENOID: 16.47059
+  response: 76904621E7A2A

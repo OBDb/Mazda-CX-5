@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F407
+test_cases:
+- expected_values:
+    CX5_LTFT: 1.5625
+  response: 7E80462F40782
+- expected_values:
+    CX5_LTFT: 3.90625
+  response: 7E80462F40785
+- expected_values:
+    CX5_LTFT: 5.46875
+  response: 7E80462F40787
