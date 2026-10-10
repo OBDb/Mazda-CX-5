@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    CX5_IAT_SENS_V: 0.96285
+  response: 7E80562127900C5

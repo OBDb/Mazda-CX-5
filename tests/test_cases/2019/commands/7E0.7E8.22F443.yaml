@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    CX5_ENG_LOAD_ACT: 26.27451
+  response: 7E80562F4430043
+- expected_values:
+    CX5_ENG_LOAD_ACT: 26.66667
+  response: 7E80562F4430044

@@ -1,0 +1,14 @@
+command_id: 760.768.222B11
+test_cases:
+- expected_values:
+    CX5_LAT_G_760: 10
+  response: 76805622B11000A
+- expected_values:
+    CX5_LAT_G_760: 11
+  response: 76805622B11000B
+- expected_values:
+    CX5_LAT_G_760: 12
+  response: 76805622B11000C
+- expected_values:
+    CX5_LAT_G_760: 13
+  response: 76805622B11000D

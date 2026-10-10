@@ -1,0 +1,5 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    CX5_ODO_720: 15323
+  response: 7280662DD01003BDB

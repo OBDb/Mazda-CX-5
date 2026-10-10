@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F45C
+test_cases:
+- expected_values:
+    CX5_EOT_F45C: 74
+  response: 7E80462F45C72

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22050F
+test_cases:
+- expected_values:
+    CX5_VGT_OPEN: 64.70588
+  response: 7E80462050FA5

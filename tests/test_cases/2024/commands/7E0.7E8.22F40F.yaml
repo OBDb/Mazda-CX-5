@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    CX5_IAT_ALT2: 25
+  response: 7E80462F40F41
+- expected_values:
+    CX5_IAT_ALT2: 26
+  response: 7E80462F40F42
