@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203DB
+test_cases:
+- expected_values:
+    CX5_EXH_DIFF_P: 0.52
+  response: 7E8056203DB0068

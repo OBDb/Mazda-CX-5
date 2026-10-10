@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    CX5_ECT: 71.29688
+  response: 7E80562038F11D3
+- expected_values:
+    CX5_ECT: 71.5625
+  response: 7E80562038F11E4

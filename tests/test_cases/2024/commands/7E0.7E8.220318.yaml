@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220318
+test_cases:
+- expected_values:
+    CX5_VCT_INT_ACT: 25.25
+  response: '7E8056203180194'

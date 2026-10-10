@@ -1,16 +1,16 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
-    CX5_TRANS_T_V6: 69.8
+    CX5_TRANS_T_V6: 21
   response: '7E9 05 62 1E 1C 01 50 '
 - expected_values:
-    CX5_TRANS_T_V6: 87.35
+    CX5_TRANS_T_V6: 30.75
   response: '7E9 05 62 1E 1C 01 EC '
 - expected_values:
-    CX5_TRANS_T_V6: 119.3
+    CX5_TRANS_T_V6: 48.5
   response: '7E9 05 62 1E 1C 03 08 '
 - expected_values:
-    CX5_TRANS_T_V6: 164.975
+    CX5_TRANS_T_V6: 73.875
   response: |-
     7E903410437
     7E90441310BF7
@@ -18,28 +18,28 @@ test_cases:
     7E90341057B
     7E905621E1C049E
 - expected_values:
-    CX5_TRANS_T_V6: 175.6625
+    CX5_TRANS_T_V6: 79.8125
   response: |-
     7E903410438
     7E903410D00
     7E90341057C
     7E905621E1C04FD
 - expected_values:
-    CX5_TRANS_T_V6: 148.325
+    CX5_TRANS_T_V6: 64.625
   response: |-
     7E90341043A
     7E903410577
     7E903410D00
     7E905621E1C040A
 - expected_values:
-    CX5_TRANS_T_V6: 125.0375
+    CX5_TRANS_T_V6: 51.6875
   response: |-
     7E903410453
     7E903410D00
     7E903410576
     7E905621E1C033B
 - expected_values:
-    CX5_TRANS_T_V6: 86.225
+    CX5_TRANS_T_V6: 30.125
   response: |-
     7E90341055F
     7E903410D00
@@ -47,29 +47,29 @@ test_cases:
     7E903410438
     7E905621E1C01E2
 - expected_values:
-    CX5_TRANS_T_V6: 157.55
+    CX5_TRANS_T_V6: 69.75
   response: |-
     7E90341057C
     7E90341043E
     7E905621E1C045C
 - expected_values:
-    CX5_TRANS_T_V6: 160.8125
+    CX5_TRANS_T_V6: 71.5625
   response: |-
     7E903410D00
     7E903410439
     7E905621E1C0479
 - expected_values:
-    CX5_TRANS_T_V6: 81.1625
+    CX5_TRANS_T_V6: 27.3125
   response: |-
     7E90441310127
     7E905621E1C01B5
 - expected_values:
-    CX5_TRANS_T_V6: 157.8875
+    CX5_TRANS_T_V6: 69.9375
   response: |-
     7E9044131043C
     7E905621E1C045F
 - expected_values:
-    CX5_TRANS_T_V6: 167.225
+    CX5_TRANS_T_V6: 75.125
   response: |-
     7E9044131044D
     7E903410434
@@ -77,19 +77,19 @@ test_cases:
     7E903410D00
     7E905621E1C04B2
 - expected_values:
-    CX5_TRANS_T_V6: 117.5
+    CX5_TRANS_T_V6: 47.5
   response: |-
     7E904413116BC
     7E905621E1C02F8
 - expected_values:
-    CX5_TRANS_T_V6: 40.325
+    CX5_TRANS_T_V6: 4.625
   response: 7E905621E1C004A
 - expected_values:
-    CX5_TRANS_T_V6: 60.6875
+    CX5_TRANS_T_V6: 15.9375
   response: 7E905621E1C00FF
 - expected_values:
-    CX5_TRANS_T_V6: 60.8
+    CX5_TRANS_T_V6: 16
   response: 7E905621E1C0100
 - expected_values:
-    CX5_TRANS_T_V6: 204.8
+    CX5_TRANS_T_V6: 96
   response: 7E905621E1C0600

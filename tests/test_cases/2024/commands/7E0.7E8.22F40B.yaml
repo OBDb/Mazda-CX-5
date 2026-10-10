@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    CX5_MAP_7E0: 11.89319
+  response: 7E80462F40B52

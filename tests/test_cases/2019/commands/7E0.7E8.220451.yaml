@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220451
+test_cases:
+- expected_values:
+    CX5_OXY: 61.17647
+  response: 7E8046204519C
+- expected_values:
+    CX5_OXY: 61.56863
+  response: 7E8046204519D
