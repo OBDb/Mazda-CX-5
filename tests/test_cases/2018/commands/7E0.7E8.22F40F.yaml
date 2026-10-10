@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    CX5_IAT_ALT2: 28
+  response: 7E80462F40F44
+- expected_values:
+    CX5_IAT_ALT2: 29
+  response: 7E80462F40F45
+- expected_values:
+    CX5_IAT_ALT2: 30
+  response: 7E80462F40F46
+- expected_values:
+    CX5_IAT_ALT2: 31
+  response: 7E80462F40F47
+- expected_values:
+    CX5_IAT_ALT2: 32
+  response: 7E80462F40F48
+- expected_values:
+    CX5_IAT_ALT2: 36
+  response: 7E80462F40F4C
+- expected_values:
+    CX5_IAT_ALT2: 37
+  response: 7E80462F40F4D
+- expected_values:
+    CX5_IAT_ALT2: 40
+  response: 7E80462F40F50

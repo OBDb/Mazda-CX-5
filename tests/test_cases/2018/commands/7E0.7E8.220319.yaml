@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220319
+test_cases:
+- expected_values:
+    CX5_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    CX5_VCT_EXH_ACT: 15.4375
+  response: 7E80562031900F7
+- expected_values:
+    CX5_VCT_EXH_ACT: 50
+  response: '7E8056203190372'

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    CX5_AIR_FUEL_RAT: 13.1199
+  response: 7E80762F43472B57F46
+- expected_values:
+    CX5_AIR_FUEL_RAT: 13.16413
+  response: 7E80762F43473187F3A
+- expected_values:
+    CX5_AIR_FUEL_RAT: 14.52013
+  response: 7E80762F4347EF37FFF
+- expected_values:
+    CX5_AIR_FUEL_RAT: 14.63987
+  response: 7E80762F4347FFF800A
+- expected_values:
+    CX5_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF82CB
+- expected_values:
+    CX5_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF8465

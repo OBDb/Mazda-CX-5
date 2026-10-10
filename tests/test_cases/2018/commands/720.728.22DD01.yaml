@@ -1,0 +1,20 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    CX5_ODO_720: 201986
+  response: 7280662DD01031502
+- expected_values:
+    CX5_ODO_720: 201987
+  response: 7280662DD01031503
+- expected_values:
+    CX5_ODO_720: 201988
+  response: 7280662DD01031504
+- expected_values:
+    CX5_ODO_720: 201989
+  response: 7280662DD01031505
+- expected_values:
+    CX5_ODO_720: 201990
+  response: 7280662DD01031506
+- expected_values:
+    CX5_ODO_720: 201991
+  response: 7280662DD01031507
