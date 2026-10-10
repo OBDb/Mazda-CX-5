@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221EC7
+test_cases:
+- expected_values:
+    CX5_TQ_DES: 13
+  response: 7E905621EC7028A
+- expected_values:
+    CX5_TQ_DES: 23
+  response: 7E905621EC7047E
+- expected_values:
+    CX5_TQ_DES: -27
+  response: 7E905621EC7FABA

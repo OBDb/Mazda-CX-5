@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    CX5_RUN_TIME: 133
+  response: 7E80562F41F0085
+- expected_values:
+    CX5_RUN_TIME: 162
+  response: 7E80562F41F00A2
+- expected_values:
+    CX5_RUN_TIME: 192
+  response: 7E80562F41F00C0
+- expected_values:
+    CX5_RUN_TIME: 222
+  response: 7E80562F41F00DE
+- expected_values:
+    CX5_RUN_TIME: 251
+  response: 7E80562F41F00FB
+- expected_values:
+    CX5_RUN_TIME: 281
+  response: 7E80562F41F0119

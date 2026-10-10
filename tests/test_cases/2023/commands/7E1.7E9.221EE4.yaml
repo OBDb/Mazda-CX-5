@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221EE4
+test_cases:
+- expected_values:
+    CX5_TQ_ACT: 13
+  response: 7E905621EE4028A
+- expected_values:
+    CX5_TQ_ACT: 21
+  response: 7E905621EE4041A
+- expected_values:
+    CX5_TQ_ACT: -27
+  response: 7E905621EE4FABA

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    CX5_ENG_LOAD_PCT: 18.43137
+  response: 7E80462F4042F
+- expected_values:
+    CX5_ENG_LOAD_PCT: 23.52941
+  response: 7E80462F4043C
+- expected_values:
+    CX5_ENG_LOAD_PCT: 29.80392
+  response: 7E80462F4044C
+- expected_values:
+    CX5_ENG_LOAD_PCT: 62.35294
+  response: 7E80462F4049F
