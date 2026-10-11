@@ -4,5 +4,8 @@ test_cases:
     CX5_TP_FL: null
   response: 72804622A0600
 - expected_values:
+    CX5_TP_FL: 1.83982
+  response: 72804622A0686
+- expected_values:
     CX5_TP_FL: 2.91076
   response: 72804622A06D4
