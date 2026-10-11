@@ -11,4 +11,10 @@ test_cases:
   response: 7E8056203E8D9DA
 - expected_values:
     CX5_OAR: 0
+  response: 7E8056203E8DB59
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8DC08
+- expected_values:
+    CX5_OAR: 0
   response: 7E8056203E8E6BF

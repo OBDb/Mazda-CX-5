@@ -7,5 +7,5 @@ test_cases:
     CX5_TQ_DES: -41
   response: 7E905621EC7F7FE
 - expected_values:
-    CX5_TQ_DES: -1
-  response: 7E905621EC7FFCE
+    CX5_TQ_DES: -2
+  response: 7E905621EC7FF9C

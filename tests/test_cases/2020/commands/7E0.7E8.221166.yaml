@@ -4,8 +4,8 @@ test_cases:
     CX5_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    CX5_EVAP_PURGE_CMD: 32.77283
-  response: 7E80562116629F3
+    CX5_EVAP_PURGE_CMD: 32.8064
+  response: 7E80562116629FE
 - expected_values:
     CX5_EVAP_PURGE_CMD: 66.65955
   response: '7E8056211665553'

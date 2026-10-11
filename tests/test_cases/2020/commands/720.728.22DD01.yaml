@@ -4,5 +4,5 @@ test_cases:
     CX5_ODO_720: 151732
   response: 7280662DD010250B4
 - expected_values:
-    CX5_ODO_720: 151756
-  response: 7280662DD010250CC
+    CX5_ODO_720: 151763
+  response: 7280662DD010250D3
