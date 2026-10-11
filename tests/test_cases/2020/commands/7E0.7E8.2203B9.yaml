@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    CX5_COOLING_FAN_DUTY: 0
+  response: 7E8056203B90000
+- expected_values:
+    CX5_COOLING_FAN_DUTY: 52.22248
+  response: 7E8056203B942D8
+- expected_values:
+    CX5_COOLING_FAN_DUTY: 58.13382
+  response: 7E8056203B94A69

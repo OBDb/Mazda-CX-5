@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8D8E2
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8D981
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8D9DA
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8E6BF

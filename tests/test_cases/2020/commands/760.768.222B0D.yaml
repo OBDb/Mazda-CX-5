@@ -1,0 +1,20 @@
+command_id: 760.768.222B0D
+test_cases:
+- expected_values:
+    CX5_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    CX5_BRK_FL_P: 6
+  response: 76805622B0D0006
+- expected_values:
+    CX5_BRK_FL_P: 42
+  response: 76805622B0D002A
+- expected_values:
+    CX5_BRK_FL_P: 45
+  response: 76805622B0D002D
+- expected_values:
+    CX5_BRK_FL_P: 76
+  response: 76805622B0D004C
+- expected_values:
+    CX5_BRK_FL_P: 78
+  response: 76805622B0D004E

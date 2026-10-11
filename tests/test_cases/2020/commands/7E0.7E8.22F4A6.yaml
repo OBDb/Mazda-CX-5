@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    CX5_PCM_VEH_ODO: 151733.8
+  response: 7E80762F4A60017271A
+- expected_values:
+    CX5_PCM_VEH_ODO: 151756.7
+  response: 7E80762F4A6001727FF

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    CX5_DIST_DTC_CLR: 30112
+  response: 7E80562F43175A0
+- expected_values:
+    CX5_DIST_DTC_CLR: 30122
+  response: 7E80562F43175AA
+- expected_values:
+    CX5_DIST_DTC_CLR: 30133
+  response: 7E80562F43175B5
