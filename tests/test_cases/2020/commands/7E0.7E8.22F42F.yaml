@@ -4,5 +4,5 @@ test_cases:
     CX5_FLI: 41.96078
   response: 7E80462F42F6B
 - expected_values:
-    CX5_FLI: 61.17647
-  response: 7E80462F42F9C
+    CX5_FLI: 61.56863
+  response: 7E80462F42F9D
