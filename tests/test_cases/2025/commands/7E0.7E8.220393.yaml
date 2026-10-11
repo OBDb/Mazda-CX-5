@@ -4,8 +4,8 @@ test_cases:
     CX5_AC_P: 125.31261
   response: 7E80562039301B0
 - expected_values:
-    CX5_AC_P: 145.6179
-  response: 7E80562039301F6
+    CX5_AC_P: 147.35835
+  response: 7E80562039301FC
 - expected_values:
     CX5_AC_P: 297.90753
   response: '7E8056203930403'

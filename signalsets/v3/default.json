@@ -497,7 +497,7 @@
   "signals": [
     {"id": "CX5_AAT_ALT", "path": "Climate", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Ambient temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0580"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0580"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021, 2022, 2024], "from": 2026 },
   "signals": [
     {"id": "CX5_GRILL_SHUTTER_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter position"}
   ]},
@@ -541,7 +541,7 @@
   "signals": [
     {"id": "CX5_IAT_FAULT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Intake temperature fault"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0707"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0707"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021, 2022, 2024], "from": 2026 },
   "signals": [
     {"id": "CX5_GRILL_SHUT_DC", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Grill shutter duty cycle"}
   ]},
@@ -1096,7 +1096,7 @@
   "signals": [
     {"id": "CX5_PCM_ENG_REFERENCE_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine reference torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "F469"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F469"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_EGR_VLV_POS_DES",   "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 100,                  "mul": 20, "div": 51,              "unit": "percent" }, "name": "Exhaust gas recirculation a valve position, desired"},
     {"id": "CX5_EGR_VLV_POS",       "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 100,                  "mul": 20, "div": 51,              "unit": "percent" }, "name": "Exhaust gas recirculation a valve position"},

@@ -4,5 +4,11 @@ test_cases:
     CX5_12V_SOC_726: 0
   response: '72E0462402800'
 - expected_values:
+    CX5_12V_SOC_726: 54.11765
+  response: 72E046240288A
+- expected_values:
+    CX5_12V_SOC_726: 54.5098
+  response: 72E046240288B
+- expected_values:
     CX5_12V_SOC_726: 56.47059
   response: '72E0462402890'

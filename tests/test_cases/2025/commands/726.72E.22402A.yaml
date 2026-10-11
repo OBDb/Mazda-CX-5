@@ -13,8 +13,17 @@ test_cases:
     CX5_12V_V_726: 13.095
   response: 72E0562402A3327
 - expected_values:
+    CX5_12V_V_726: 13.105
+  response: 72E0562402A3331
+- expected_values:
     CX5_12V_V_726: 13.107
   response: 72E0562402A3333
 - expected_values:
     CX5_12V_V_726: 13.137
   response: 72E0562402A3351
+- expected_values:
+    CX5_12V_V_726: 13.199
+  response: 72E0562402A338F
+- expected_values:
+    CX5_12V_V_726: 13.437
+  response: 72E0562402A347D

@@ -7,5 +7,5 @@ test_cases:
     CX5_HPFP_V: 1.23167
   response: 7E80562032400FC
 - expected_values:
-    CX5_HPFP_V: 1.29521
-  response: '7E8056203240109'
+    CX5_HPFP_V: 2.54154
+  response: '7E8056203240208'

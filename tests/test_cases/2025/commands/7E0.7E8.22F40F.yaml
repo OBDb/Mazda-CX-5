@@ -4,17 +4,5 @@ test_cases:
     CX5_IAT_ALT2: 18
   response: 7E80462F40F3A
 - expected_values:
-    CX5_IAT_ALT2: 19
-  response: 7E80462F40F3B
-- expected_values:
-    CX5_IAT_ALT2: 20
-  response: 7E80462F40F3C
-- expected_values:
-    CX5_IAT_ALT2: 34
-  response: 7E80462F40F4A
-- expected_values:
-    CX5_IAT_ALT2: 35
-  response: 7E80462F40F4B
-- expected_values:
     CX5_IAT_ALT2: 36
   response: 7E80462F40F4C

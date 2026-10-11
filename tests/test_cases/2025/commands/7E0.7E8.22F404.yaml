@@ -4,5 +4,5 @@ test_cases:
     CX5_ENG_LOAD_PCT: 7.45098
   response: 7E80462F40413
 - expected_values:
-    CX5_ENG_LOAD_PCT: 50.98039
-  response: 7E80462F40482
+    CX5_ENG_LOAD_PCT: 72.15686
+  response: 7E80462F404B8

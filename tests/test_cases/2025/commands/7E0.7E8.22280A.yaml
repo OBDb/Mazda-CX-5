@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CX5_BRAKE_FLUID_P: 573.4375
   response: 7E80562280A02DE
+- expected_values:
+    CX5_BRAKE_FLUID_P: 1188.28125
+  response: 7E80562280A05F1

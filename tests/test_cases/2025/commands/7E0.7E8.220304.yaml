@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    CX5_CMD_GEN_V: 13.10768
-  response: 7E80562030468EC
+    CX5_CMD_GEN_V: 12.80854
+  response: '7E8056203046687'
 - expected_values:
-    CX5_CMD_GEN_V: 13.10817
-  response: 7E80562030468ED
+    CX5_CMD_GEN_V: 12.98958
+  response: 7E80562030467FA
 - expected_values:
     CX5_CMD_GEN_V: 13.11744
   response: '7E8056203046900'
