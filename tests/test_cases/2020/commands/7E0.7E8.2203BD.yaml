@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203BD
 test_cases:
 - expected_values:
-    CX5_CL_LC: 0.1366
-  response: 7E8056203BD045F
+    CX5_CL_LC: 0.12549
+  response: 7E8056203BD0404
 - expected_values:
     CX5_CL_LC: 0.84412
   response: 7E8056203BD1B03

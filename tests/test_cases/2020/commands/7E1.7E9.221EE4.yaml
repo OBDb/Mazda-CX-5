@@ -7,5 +7,5 @@ test_cases:
     CX5_TQ_ACT: -41
   response: 7E905621EE4F7FE
 - expected_values:
-    CX5_TQ_ACT: -1
-  response: 7E905621EE4FFCE
+    CX5_TQ_ACT: -2
+  response: 7E905621EE4FF9C

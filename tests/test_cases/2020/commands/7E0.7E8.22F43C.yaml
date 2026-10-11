@@ -4,8 +4,8 @@ test_cases:
     CX5_CAT_TEMP: 189.3
   response: 7E80562F43C08F5
 - expected_values:
-    CX5_CAT_TEMP: 625.9
-  response: 7E80562F43C1A03
+    CX5_CAT_TEMP: 549.1
+  response: 7E80562F43C1703
 - expected_values:
     CX5_CAT_TEMP: 753.4
   response: 7E80562F43C1EFE
