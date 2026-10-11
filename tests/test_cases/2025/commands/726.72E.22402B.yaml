@@ -1,0 +1,14 @@
+command_id: 726.72E.22402B
+test_cases:
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 0.148
+  response: 72E0662402B1E8514
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 0.6
+  response: 72E0662402B1E86D8
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 0.745
+  response: 72E0662402B1E8769
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 1.348
+  response: 72E0662402B1E89C4

@@ -4,6 +4,15 @@ test_cases:
     CX5_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
+    CX5_VCT_EXH_DUTY: 38.28125
+  response: '7E8056203173100'
+- expected_values:
+    CX5_VCT_EXH_DUTY: 39.70642
+  response: 7E80562031732D3
+- expected_values:
+    CX5_VCT_EXH_DUTY: 40.29846
+  response: '7E8056203173395'
+- expected_values:
     CX5_VCT_EXH_DUTY: 41.20483
   response: 7E80562031734BE
 - expected_values:

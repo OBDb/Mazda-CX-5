@@ -4,17 +4,5 @@ test_cases:
     CX5_INT_SHUTTER_VLV_POS: 11.37255
   response: 7E80462F4111D
 - expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 12.15686
-  response: 7E80462F4111F
-- expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 12.54902
-  response: 7E80462F41120
-- expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 13.33333
-  response: 7E80462F41122
-- expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 19.60784
-  response: 7E80462F41132
-- expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 34.11765
-  response: 7E80462F41157
+    CX5_INT_SHUTTER_VLV_POS: 73.72549
+  response: 7E80462F411BC

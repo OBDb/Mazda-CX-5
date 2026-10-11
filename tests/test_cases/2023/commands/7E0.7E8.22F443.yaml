@@ -4,17 +4,5 @@ test_cases:
     CX5_ENG_LOAD_ACT: 11.76471
   response: 7E80562F443001E
 - expected_values:
-    CX5_ENG_LOAD_ACT: 12.54902
-  response: 7E80562F4430020
-- expected_values:
-    CX5_ENG_LOAD_ACT: 18.82353
-  response: 7E80562F4430030
-- expected_values:
-    CX5_ENG_LOAD_ACT: 28.62745
-  response: 7E80562F4430049
-- expected_values:
-    CX5_ENG_LOAD_ACT: 39.60784
-  response: 7E80562F4430065
-- expected_values:
-    CX5_ENG_LOAD_ACT: 71.37255
-  response: 7E80562F44300B6
+    CX5_ENG_LOAD_ACT: 84.31373
+  response: 7E80562F44300D7

@@ -7,14 +7,26 @@ test_cases:
     CX5_ACC_POS: 0.5
   response: 7E80462032B01
 - expected_values:
+    CX5_ACC_POS: 3
+  response: 7E80462032B06
+- expected_values:
     CX5_ACC_POS: 6.5
   response: 7E80462032B0D
 - expected_values:
     CX5_ACC_POS: 11.5
   response: 7E80462032B17
 - expected_values:
+    CX5_ACC_POS: 18.5
+  response: 7E80462032B25
+- expected_values:
     CX5_ACC_POS: 20.5
   response: 7E80462032B29
 - expected_values:
+    CX5_ACC_POS: 27
+  response: 7E80462032B36
+- expected_values:
     CX5_ACC_POS: 28.5
   response: 7E80462032B39
+- expected_values:
+    CX5_ACC_POS: 31
+  response: 7E80462032B3E

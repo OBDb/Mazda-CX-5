@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_PARKING_BRAKE_760: 0
   response: 76807622B0000000000
+- expected_values:
+    CX5_PARKING_BRAKE_760: 1
+  response: 76807622B0080800000

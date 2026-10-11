@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_BRK_FL_P: 0
   response: 76805622B0D0000
+- expected_values:
+    CX5_BRK_FL_P: 2
+  response: 76805622B0D0002

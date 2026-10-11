@@ -1,6 +1,21 @@
 command_id: 7E0.7E8.22F40F
 test_cases:
 - expected_values:
+    CX5_IAT_ALT2: 13
+  response: 7E80462F40F35
+- expected_values:
+    CX5_IAT_ALT2: 17
+  response: 7E80462F40F39
+- expected_values:
+    CX5_IAT_ALT2: 19
+  response: 7E80462F40F3B
+- expected_values:
+    CX5_IAT_ALT2: 20
+  response: 7E80462F40F3C
+- expected_values:
+    CX5_IAT_ALT2: 21
+  response: 7E80462F40F3D
+- expected_values:
     CX5_IAT_ALT2: 23
   response: 7E80462F40F3F
 - expected_values:

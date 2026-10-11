@@ -4,14 +4,8 @@ test_cases:
     CX5_PCM_VEH_ODO: 51069.1
   response: 7E80762F4A60007CAE3
 - expected_values:
-    CX5_PCM_VEH_ODO: 51069.4
-  response: 7E80762F4A60007CAE6
+    CX5_PCM_VEH_ODO: 51071.7
+  response: 7E80762F4A60007CAFD
 - expected_values:
-    CX5_PCM_VEH_ODO: 51069.9
-  response: 7E80762F4A60007CAEB
-- expected_values:
-    CX5_PCM_VEH_ODO: 51070.3
-  response: 7E80762F4A60007CAEF
-- expected_values:
-    CX5_PCM_VEH_ODO: 51070.4
-  response: 7E80762F4A60007CAF0
+    CX5_PCM_VEH_ODO: 51072.1
+  response: 7E80762F4A60007CB01

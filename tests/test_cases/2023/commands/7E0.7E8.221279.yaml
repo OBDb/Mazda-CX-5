@@ -1,14 +1,8 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    CX5_IAT_SENS_V: 0.96774
-  response: 7E80562127900C6
-- expected_values:
-    CX5_IAT_SENS_V: 0.97263
-  response: 7E80562127900C7
-- expected_values:
-    CX5_IAT_SENS_V: 0.98729
-  response: 7E80562127900CA
+    CX5_IAT_SENS_V: 0.86999
+  response: 7E80562127900B2
 - expected_values:
     CX5_IAT_SENS_V: 0.99707
   response: 7E80562127900CC

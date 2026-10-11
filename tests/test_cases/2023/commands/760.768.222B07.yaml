@@ -4,8 +4,17 @@ test_cases:
     CX5_FL_VSS: 0
   response: 76804622B0700
 - expected_values:
+    CX5_FL_VSS: 4
+  response: 76804622B0704
+- expected_values:
+    CX5_FL_VSS: 17
+  response: 76804622B0711
+- expected_values:
     CX5_FL_VSS: 18
   response: 76804622B0712
+- expected_values:
+    CX5_FL_VSS: 52
+  response: 76804622B0734
 - expected_values:
     CX5_FL_VSS: 62
   response: 76804622B073E
