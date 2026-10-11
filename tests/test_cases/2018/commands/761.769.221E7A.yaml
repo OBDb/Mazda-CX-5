@@ -4,6 +4,9 @@ test_cases:
     CX5_COUPLING_SOLENOID: 0
   response: 76904621E7A00
 - expected_values:
+    CX5_COUPLING_SOLENOID: 7.05882
+  response: 76904621E7A12
+- expected_values:
     CX5_COUPLING_SOLENOID: 12.15686
   response: 76904621E7A1F
 - expected_values:

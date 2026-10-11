@@ -7,5 +7,8 @@ test_cases:
     CX5_RPM: 766.5
   response: 7E80562F40C0BFA
 - expected_values:
+    CX5_RPM: 966.75
+  response: 7E80562F40C0F1B
+- expected_values:
     CX5_RPM: 2183.25
   response: 7E80562F40C221D
