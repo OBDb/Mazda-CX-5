@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_PCM_ENG_REFERENCE_TRQ: 250
   response: 7E80562F46300FA
+- expected_values:
+    CX5_PCM_ENG_REFERENCE_TRQ: 470
+  response: 7E80562F46301D6

@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    CX5_CAT_TEMP: 412.7
-  response: 7E80562F43C11AF
-- expected_values:
-    CX5_CAT_TEMP: 413.8
-  response: 7E80562F43C11BA
-- expected_values:
-    CX5_CAT_TEMP: 415.7
-  response: 7E80562F43C11CD
-- expected_values:
-    CX5_CAT_TEMP: 419.3
-  response: 7E80562F43C11F1
-- expected_values:
-    CX5_CAT_TEMP: 434.6
-  response: 7E80562F43C128A
-- expected_values:
-    CX5_CAT_TEMP: 465.5
-  response: 7E80562F43C13BF
-- expected_values:
-    CX5_CAT_TEMP: 466.6
-  response: 7E80562F43C13CA
-- expected_values:
-    CX5_CAT_TEMP: 469
-  response: 7E80562F43C13E2
-- expected_values:
-    CX5_CAT_TEMP: 469.6
-  response: 7E80562F43C13E8
+    CX5_CAT_TEMP: 342.6
+  response: 7E80562F43C0EF2
 - expected_values:
     CX5_CAT_TEMP: 472
   response: 7E80562F43C1400
+- expected_values:
+    CX5_CAT_TEMP: 547.5
+  response: 7E80562F43C16F3
+- expected_values:
+    CX5_CAT_TEMP: 600.5
+  response: 7E80562F43C1905

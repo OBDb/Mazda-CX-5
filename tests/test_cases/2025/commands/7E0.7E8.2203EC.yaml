@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
+- expected_values:
+    CX5_IGN_CORR_CYL1: -0.51562
+  response: 7E8056203ECFEF8

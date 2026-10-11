@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.220393
 test_cases:
 - expected_values:
+    CX5_AC_P: 125.31261
+  response: 7E80562039301B0
+- expected_values:
+    CX5_AC_P: 145.6179
+  response: 7E80562039301F6
+- expected_values:
     CX5_AC_P: 297.90753
   response: '7E8056203930403'
 - expected_values:
-    CX5_AC_P: 306.89987
-  response: '7E8056203930422'
-- expected_values:
-    CX5_AC_P: 332.42652
-  response: 7E805620393047A
-- expected_values:
-    CX5_AC_P: 340.83871
-  response: '7E8056203930497'
-- expected_values:
-    CX5_AC_P: 350.70127
-  response: 7E80562039304B9
-- expected_values:
-    CX5_AC_P: 359.40354
-  response: 7E80562039304D7
-- expected_values:
-    CX5_AC_P: 367.52565
-  response: 7E80562039304F3
-- expected_values:
     CX5_AC_P: 374.48747
   response: 7E805620393050B
-- expected_values:
-    CX5_AC_P: 375.93784
-  response: '7E8056203930510'
-- expected_values:
-    CX5_AC_P: 397.40343
-  response: 7E805620393055A
