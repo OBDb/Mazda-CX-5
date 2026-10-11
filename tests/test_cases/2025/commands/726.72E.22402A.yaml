@@ -1,0 +1,17 @@
+command_id: 726.72E.22402A
+test_cases:
+- expected_values:
+    CX5_12V_V_726: 13.092
+  response: 72E0562402A3324
+- expected_values:
+    CX5_12V_V_726: 13.094
+  response: 72E0562402A3326
+- expected_values:
+    CX5_12V_V_726: 13.095
+  response: 72E0562402A3327
+- expected_values:
+    CX5_12V_V_726: 13.107
+  response: 72E0562402A3333
+- expected_values:
+    CX5_12V_V_726: 13.137
+  response: 72E0562402A3351

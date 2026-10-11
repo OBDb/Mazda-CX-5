@@ -1,0 +1,11 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    CX5_ODO_720: 12816
+  response: 7280662DD01003210
+- expected_values:
+    CX5_ODO_720: 24126
+  response: 7280662DD01005E3E
+- expected_values:
+    CX5_ODO_720: 24127
+  response: 7280662DD01005E3F

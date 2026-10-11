@@ -5,13 +5,10 @@ test_cases:
   response: 7E80562038E0693
 - expected_values:
     CX5_EVAP_V: 5
-  response: 7E80562038E073B
-- expected_values:
-    CX5_EVAP_V: 5
   response: 7E80562038E07EF
 - expected_values:
     CX5_EVAP_V: 5
-  response: 7E80562038E08AA
+  response: 7E80562038E0925
 - expected_values:
     CX5_EVAP_V: 5
-  response: 7E80562038E0A6E
+  response: 7E80562038E0A38

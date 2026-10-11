@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.221EC7
+test_cases:
+- expected_values:
+    CX5_TQ_DES: 8
+  response: 7E905621EC70190
+- expected_values:
+    CX5_TQ_DES: 10
+  response: 7E905621EC701F4
+- expected_values:
+    CX5_TQ_DES: 15
+  response: 7E905621EC702EE
+- expected_values:
+    CX5_TQ_DES: 16
+  response: 7E905621EC70320
+- expected_values:
+    CX5_TQ_DES: 28
+  response: 7E905621EC70578
+- expected_values:
+    CX5_TQ_DES: 35
+  response: 7E905621EC706D6
+- expected_values:
+    CX5_TQ_DES: 55
+  response: 7E905621EC70ABE
+- expected_values:
+    CX5_TQ_DES: -25
+  response: 7E905621EC7FB1E
+- expected_values:
+    CX5_TQ_DES: -6
+  response: 7E905621EC7FED4

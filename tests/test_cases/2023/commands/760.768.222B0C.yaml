@@ -7,8 +7,14 @@ test_cases:
     CX5_LAT_ANG: 11
   response: 76805622B0C000B
 - expected_values:
+    CX5_LAT_ANG: -12
+  response: 76805622B0CFFF4
+- expected_values:
     CX5_LAT_ANG: -10
   response: 76805622B0CFFF6
 - expected_values:
     CX5_LAT_ANG: -6
   response: 76805622B0CFFFA
+- expected_values:
+    CX5_LAT_ANG: -5
+  response: 76805622B0CFFFB

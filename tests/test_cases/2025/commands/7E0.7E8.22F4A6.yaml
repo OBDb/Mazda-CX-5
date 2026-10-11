@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    CX5_PCM_VEH_ODO: 24126.6
+  response: 7E80762F4A60003AE72
+- expected_values:
+    CX5_PCM_VEH_ODO: 24126.7
+  response: 7E80762F4A60003AE73
+- expected_values:
+    CX5_PCM_VEH_ODO: 24126.9
+  response: 7E80762F4A60003AE75
+- expected_values:
+    CX5_PCM_VEH_ODO: 24127.2
+  response: 7E80762F4A60003AE78
+- expected_values:
+    CX5_PCM_VEH_ODO: 24127.4
+  response: 7E80762F4A60003AE7A
+- expected_values:
+    CX5_PCM_VEH_ODO: 24127.6
+  response: 7E80762F4A60003AE7C
+- expected_values:
+    CX5_PCM_VEH_ODO: 24127.7
+  response: 7E80762F4A60003AE7D

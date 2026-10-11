@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    CX5_ENG_FUEL_RATE: 0.05
+  response: 7E80562F45E0001
+- expected_values:
+    CX5_ENG_FUEL_RATE: 0.9
+  response: 7E80562F45E0012
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.05
+  response: 7E80562F45E0015
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.4
+  response: 7E80562F45E001C
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.55
+  response: 7E80562F45E001F
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.6
+  response: 7E80562F45E0020
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.75
+  response: 7E80562F45E0023
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.9
+  response: 7E80562F45E0026
+- expected_values:
+    CX5_ENG_FUEL_RATE: 2.3
+  response: 7E80562F45E002E
