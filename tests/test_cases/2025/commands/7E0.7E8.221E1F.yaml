@@ -14,4 +14,7 @@ test_cases:
   response: 7E804621E1F04
 - expected_values:
     CX5_GEAR_ENG: 6
+  response: 7E804621E1F06
+- expected_values:
+    CX5_GEAR_ENG: 6
   response: 7E804621E1F46

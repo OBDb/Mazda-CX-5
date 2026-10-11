@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_BAROMETRIC_P: 101
   response: 7E80462F43365
+- expected_values:
+    CX5_BAROMETRIC_P: 103
+  response: 7E80462F43367

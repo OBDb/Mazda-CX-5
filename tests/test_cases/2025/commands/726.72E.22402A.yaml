@@ -1,6 +1,9 @@
 command_id: 726.72E.22402A
 test_cases:
 - expected_values:
+    CX5_12V_V_726: null
+  response: 72E0562402A0000
+- expected_values:
     CX5_12V_V_726: 13.092
   response: 72E0562402A3324
 - expected_values:

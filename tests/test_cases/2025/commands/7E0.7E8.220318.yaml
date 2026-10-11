@@ -4,29 +4,5 @@ test_cases:
     CX5_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    CX5_VCT_INT_ACT: 0.1875
-  response: '7E8056203180003'
-- expected_values:
-    CX5_VCT_INT_ACT: 0.4375
-  response: '7E8056203180007'
-- expected_values:
-    CX5_VCT_INT_ACT: 4.6875
-  response: 7E805620318004B
-- expected_values:
-    CX5_VCT_INT_ACT: 8.3125
-  response: '7E8056203180085'
-- expected_values:
-    CX5_VCT_INT_ACT: 13.6875
-  response: 7E80562031800DB
-- expected_values:
-    CX5_VCT_INT_ACT: 28.9375
-  response: 7E80562031801CF
-- expected_values:
-    CX5_VCT_INT_ACT: 29.125
-  response: 7E80562031801D2
-- expected_values:
-    CX5_VCT_INT_ACT: 29.375
-  response: 7E80562031801D6
-- expected_values:
     CX5_VCT_INT_ACT: -0.0625
   response: 7E805620318FFFF

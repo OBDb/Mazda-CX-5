@@ -4,20 +4,8 @@ test_cases:
     CX5_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
-    CX5_VCT_EXH_DUTY: 44.84863
-  response: '7E8056203173968'
-- expected_values:
-    CX5_VCT_EXH_DUTY: 47.69592
-  response: 7E8056203173D0D
-- expected_values:
-    CX5_VCT_EXH_DUTY: 47.96753
-  response: 7E8056203173D66
-- expected_values:
-    CX5_VCT_EXH_DUTY: 49.24622
-  response: 7E8056203173F09
-- expected_values:
-    CX5_VCT_EXH_DUTY: 49.45984
-  response: 7E8056203173F4F
+    CX5_VCT_EXH_DUTY: 32.80945
+  response: 7E80562031729FF
 - expected_values:
     CX5_VCT_EXH_DUTY: 65.20691
   response: '7E8056203175377'

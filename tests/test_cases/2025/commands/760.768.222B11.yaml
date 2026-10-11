@@ -10,8 +10,23 @@ test_cases:
     CX5_LAT_G_760: 53
   response: 76805622B110035
 - expected_values:
+    CX5_LAT_G_760: -165
+  response: 76805622B11FF5B
+- expected_values:
     CX5_LAT_G_760: -88
   response: 76805622B11FFA8
 - expected_values:
+    CX5_LAT_G_760: -28
+  response: 76805622B11FFE4
+- expected_values:
+    CX5_LAT_G_760: -23
+  response: 76805622B11FFE9
+- expected_values:
+    CX5_LAT_G_760: -15
+  response: 76805622B11FFF1
+- expected_values:
     CX5_LAT_G_760: -14
   response: 76805622B11FFF2
+- expected_values:
+    CX5_LAT_G_760: -7
+  response: 76805622B11FFF9
