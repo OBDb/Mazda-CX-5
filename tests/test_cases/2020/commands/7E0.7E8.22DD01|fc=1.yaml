@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    CX5_ODO: 151733
+  response: 7E80662DD010250B5
+- expected_values:
+    CX5_ODO: 151756
+  response: 7E80662DD010250CC

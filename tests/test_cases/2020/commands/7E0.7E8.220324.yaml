@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    CX5_HPFP_V: 1.41251
+  response: '7E8056203240121'
+- expected_values:
+    CX5_HPFP_V: 2.44868
+  response: 7E80562032401F5
+- expected_values:
+    CX5_HPFP_V: 2.56109
+  response: 7E805620324020C
