@@ -4,5 +4,32 @@ test_cases:
     CX5_TP_RL: null
   response: 72804622A0500
 - expected_values:
-    CX5_TP_RL: null
-  response: 72804622A05FF
+    CX5_TP_RL: 2.1968
+  response: 72804622A05A0
+- expected_values:
+    CX5_TP_RL: 2.21053
+  response: 72804622A05A1
+- expected_values:
+    CX5_TP_RL: 2.22426
+  response: 72804622A05A2
+- expected_values:
+    CX5_TP_RL: 2.23799
+  response: 72804622A05A3
+- expected_values:
+    CX5_TP_RL: 2.26545
+  response: 72804622A05A5
+- expected_values:
+    CX5_TP_RL: 2.29291
+  response: 72804622A05A7
+- expected_values:
+    CX5_TP_RL: 2.30664
+  response: 72804622A05A8
+- expected_values:
+    CX5_TP_RL: 2.32037
+  response: 72804622A05A9
+- expected_values:
+    CX5_TP_RL: 2.36156
+  response: 72804622A05AC
+- expected_values:
+    CX5_TP_RL: 2.45767
+  response: 72804622A05B3

@@ -7,5 +7,8 @@ test_cases:
     CX5_TT_RL: null
   response: 72804622A0A00
 - expected_values:
+    CX5_TT_RL: -5
+  response: 72804622A0A2D
+- expected_values:
     CX5_TT_RL: 50
   response: 72804622A0A64
