@@ -4,11 +4,8 @@ test_cases:
     CX5_COOLING_FAN_DUTY: 0
   response: 7E8056203B90000
 - expected_values:
-    CX5_COOLING_FAN_DUTY: 49.60708
-  response: 7E8056203B93F7F
-- expected_values:
-    CX5_COOLING_FAN_DUTY: 63.49279
-  response: 7E8056203B95145
+    CX5_COOLING_FAN_DUTY: 46.02731
+  response: 7E8056203B93AEA
 - expected_values:
     CX5_COOLING_FAN_DUTY: 64.68299
   response: 7E8056203B952CB

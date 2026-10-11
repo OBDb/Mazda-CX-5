@@ -10,5 +10,5 @@ test_cases:
     CX5_HPFP_DES: 2201.67289
   response: 7E8056203DC05EE
 - expected_values:
-    CX5_HPFP_DES: 2269.84063
-  response: 7E8056203DC061D
+    CX5_HPFP_DES: 3095.10536
+  response: 7E8056203DC0856

@@ -4,26 +4,5 @@ test_cases:
     CX5_RL_VSS: 0
   response: 76804622B0900
 - expected_values:
-    CX5_RL_VSS: 13
-  response: 76804622B090D
-- expected_values:
-    CX5_RL_VSS: 18
-  response: 76804622B0912
-- expected_values:
-    CX5_RL_VSS: 20
-  response: 76804622B0914
-- expected_values:
-    CX5_RL_VSS: 32
-  response: 76804622B0920
-- expected_values:
-    CX5_RL_VSS: 71
-  response: 76804622B0947
-- expected_values:
-    CX5_RL_VSS: 82
-  response: 76804622B0952
-- expected_values:
-    CX5_RL_VSS: 85
-  response: 76804622B0955
-- expected_values:
     CX5_RL_VSS: 86
   response: 76804622B0956

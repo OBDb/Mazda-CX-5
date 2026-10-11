@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.22D988
 test_cases:
 - expected_values:
+    CX5_BAT_ACCUMULATED_AMP: 43.925
+  response: 7E80562D9887071
+- expected_values:
     CX5_BAT_ACCUMULATED_AMP: 68.58
   response: 7E80562D98883B4
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.61
-  response: 7E80562D98883BA
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.635
-  response: 7E80562D98883BF
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.645
-  response: 7E80562D98883C1
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.66
-  response: 7E80562D98883C4
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.68
-  response: 7E80562D98883C8
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.715
-  response: 7E80562D98883CF
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.745
-  response: 7E80562D98883D5
-- expected_values:
-    CX5_BAT_ACCUMULATED_AMP: 68.755
-  response: 7E80562D98883D7
 - expected_values:
     CX5_BAT_ACCUMULATED_AMP: 68.775
   response: 7E80562D98883DB

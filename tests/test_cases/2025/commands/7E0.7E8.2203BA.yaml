@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CX5_AAT_V: 2.46823
   response: 7E8056203BA01F9
+- expected_values:
+    CX5_AAT_V: 2.50733
+  response: 7E8056203BA0201

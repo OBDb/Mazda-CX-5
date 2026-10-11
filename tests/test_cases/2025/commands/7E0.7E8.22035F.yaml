@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22035F
 test_cases:
 - expected_values:
-    CX5_RO2_V: 0.02344
-  response: 7E80562035F0018
+    CX5_RO2_V: 0.00684
+  response: 7E80562035F0007
 - expected_values:
-    CX5_RO2_V: 0.74512
-  response: 7E80562035F02FB
+    CX5_RO2_V: 0.49512
+  response: 7E80562035F01FB
 - expected_values:
     CX5_RO2_V: 0.75195
   response: 7E80562035F0302

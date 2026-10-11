@@ -7,5 +7,8 @@ test_cases:
     CX5_RUN_TIME: 250
   response: 7E80562F41F00FA
 - expected_values:
+    CX5_RUN_TIME: 262
+  response: 7E80562F41F0106
+- expected_values:
     CX5_RUN_TIME: 534
   response: 7E80562F41F0216
