@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_WARMUP_CLR: 23
   response: 7E80462F43017
+- expected_values:
+    CX5_WARMUP_CLR: 24
+  response: 7E80462F43018

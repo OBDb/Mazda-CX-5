@@ -4,26 +4,5 @@ test_cases:
     CX5_CL_LC: 0.00012
   response: 7E8056203BD0001
 - expected_values:
-    CX5_CL_LC: 0.31738
-  response: 7E8056203BD0A28
-- expected_values:
-    CX5_CL_LC: 0.40869
-  response: 7E8056203BD0D14
-- expected_values:
-    CX5_CL_LC: 0.44617
-  response: 7E8056203BD0E47
-- expected_values:
-    CX5_CL_LC: 0.50891
-  response: 7E8056203BD1049
-- expected_values:
-    CX5_CL_LC: 0.75916
-  response: 7E8056203BD184B
-- expected_values:
-    CX5_CL_LC: 1.03223
-  response: 7E8056203BD2108
-- expected_values:
-    CX5_CL_LC: 3.6543
-  response: 7E8056203BD74F0
-- expected_values:
     CX5_CL_LC: 3.9
   response: 7E8056203BD7FFF

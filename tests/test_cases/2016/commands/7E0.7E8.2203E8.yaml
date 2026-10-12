@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_OAR: 0
   response: 7E8056203E8D989
+- expected_values:
+    CX5_OAR: 0
+  response: 7E8056203E8DE05

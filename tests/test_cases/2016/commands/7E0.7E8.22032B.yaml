@@ -10,6 +10,9 @@ test_cases:
     CX5_ACC_POS: 18
   response: 7E80462032B24
 - expected_values:
+    CX5_ACC_POS: 24.5
+  response: 7E80462032B31
+- expected_values:
     CX5_ACC_POS: 31
   response: 7E80462032B3E
 - expected_values:

@@ -7,5 +7,11 @@ test_cases:
     CX5_IGN_CORR_CYL1: 0.00586
   response: 7E8056203EC0003
 - expected_values:
+    CX5_IGN_CORR_CYL1: 0.03906
+  response: 7E8056203EC0014
+- expected_values:
     CX5_IGN_CORR_CYL1: 0.4375
   response: 7E8056203EC00E0
+- expected_values:
+    CX5_IGN_CORR_CYL1: 0.5
+  response: 7E8056203EC0100
