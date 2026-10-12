@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    CX5_RPM: 686.5
+  response: 7E80562F40C0ABA
+- expected_values:
+    CX5_RPM: 851.25
+  response: 7E80562F40C0D4D
+- expected_values:
+    CX5_RPM: 856
+  response: 7E80562F40C0D60
+- expected_values:
+    CX5_RPM: 997.75
+  response: 7E80562F40C0F97
+- expected_values:
+    CX5_RPM: 1398.25
+  response: 7E80562F40C15D9
+- expected_values:
+    CX5_RPM: 1635.5
+  response: 7E80562F40C198E
+- expected_values:
+    CX5_RPM: 1659
+  response: 7E80562F40C19EC
+- expected_values:
+    CX5_RPM: 1753.25
+  response: 7E80562F40C1B65
+- expected_values:
+    CX5_RPM: 2139.75
+  response: 7E80562F40C216F
+- expected_values:
+    CX5_RPM: 2322.75
+  response: 7E80562F40C244B

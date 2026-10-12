@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220319
+test_cases:
+- expected_values:
+    CX5_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    CX5_VCT_EXH_ACT: 0.0625
+  response: '7E8056203190001'
+- expected_values:
+    CX5_VCT_EXH_ACT: 0.125
+  response: '7E8056203190002'
+- expected_values:
+    CX5_VCT_EXH_ACT: 0.1875
+  response: '7E8056203190003'
+- expected_values:
+    CX5_VCT_EXH_ACT: 0.3125
+  response: '7E8056203190005'
+- expected_values:
+    CX5_VCT_EXH_ACT: 21.6875
+  response: 7E805620319015B
+- expected_values:
+    CX5_VCT_EXH_ACT: 22.25
+  response: '7E8056203190164'
+- expected_values:
+    CX5_VCT_EXH_ACT: 26.125
+  response: 7E80562031901A2
+- expected_values:
+    CX5_VCT_EXH_ACT: 41.0625
+  response: '7E8056203190291'

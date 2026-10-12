@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    CX5_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    CX5_ACC_POS: 13.5
+  response: 7E80462032B1B
+- expected_values:
+    CX5_ACC_POS: 18
+  response: 7E80462032B24
+- expected_values:
+    CX5_ACC_POS: 31
+  response: 7E80462032B3E
+- expected_values:
+    CX5_ACC_POS: 34.5
+  response: 7E80462032B45
+- expected_values:
+    CX5_ACC_POS: 35.5
+  response: 7E80462032B47
+- expected_values:
+    CX5_ACC_POS: 41
+  response: 7E80462032B52

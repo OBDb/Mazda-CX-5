@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F411
+test_cases:
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 9.80392
+  response: 7E80462F41119
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 13.72549
+  response: 7E80462F41123
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 20.78431
+  response: 7E80462F41135
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 21.96078
+  response: 7E80462F41138
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 26.27451
+  response: 7E80462F41143
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 36.07843
+  response: 7E80462F4115C
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 37.64706
+  response: 7E80462F41160
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 91.37255
+  response: 7E80462F411E9
