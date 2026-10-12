@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.224029
+command_id: 7E0.7E8.224029|f=2022-;-2016
 test_cases:
 - expected_values:
     CX5_BAT_FLUID_T: 26

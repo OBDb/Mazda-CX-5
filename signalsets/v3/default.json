@@ -125,7 +125,7 @@
   "signals": [
     {"id": "CX5_BRAKE_SWITCH", "path": "Control", "fmt": { "len": 1, "max": 1, "unit": "offon" }, "name": "Brake switch"}
   ]},
-{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_ODO_726", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, instrument panel", "suggestedMetric": "odometer"}
   ]},
@@ -308,7 +308,7 @@
   "signals": [
     {"id": "CX5_EVAP_V", "fmt": { "len": 16, "max": 5, "div": 5.0048876, "sign": true, "unit": "volts" }, "name": "Evaporative vapor pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038F"}, "freq": 5, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038F"}, "freq": 5, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "CX5_ECT", "fmt": { "len": 16, "max": 148.889, "min": -40, "div": 64, "sign": true, "unit": "celsius" }, "name": "Engine coolant temperature"}
   ]},
@@ -416,7 +416,7 @@
   "signals": [
     {"id": "CX5_OXY", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Oxygen concentration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "CX5_CAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Charge air temperature sensor voltage"}
   ]},
@@ -424,7 +424,7 @@
   "signals": [
     {"id": "CX5_CAT", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "unit": "celsius" }, "name": "Charge air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "CX5_WGDC", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Wastegate duty cycle"}
   ]},
@@ -703,7 +703,7 @@
   "signals": [
     {"id": "CX5_TRANS_OUTPUT_SHFT", "path": "Transmission", "fmt": { "len": 16, "max": 1638.375, "div": 40, "unit": "rpm" }, "name": "Transmission output shaft speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11B8"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11B8"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_TQ_CONV_SLIP", "path": "Engine", "fmt": { "len": 16, "max": 39996.0104, "div": 1.6385384237, "unit": "rpm" }, "name": "Torque converter slip"}
   ]},
@@ -905,7 +905,7 @@
   "signals": [
     {"id": "CX5_LDP_EVAPCP", "path": "Emissions", "fmt": { "len": 16, "max": 0.037, "mul": 0.000000561, "unit": "amps" }, "name": "EVAP LDP incorrect purge flow value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E12"}, "freq": 0.25,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E12"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
           "1":  { "description": "First gear",   "value": "1" },
@@ -921,7 +921,7 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E16"}, "freq": 3600,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E16"}, "freq": 3600, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_AXLE_GEAR_RATIO_MEAS", "path": "Transmission", "fmt": { "len": 16, "max": 10, "div": 4096, "unit": "scalar" }, "name": "Axle gear ratio, measured"}
   ]},
@@ -929,11 +929,11 @@
   "signals": [
     {"id": "CX5_PCM_CMD_TRANS_GEAR_RATIO", "path": "Transmission", "fmt": { "len": 16, "max": 16, "mul": 16, "div": 65535, "unit": "scalar" }, "name": "Gear ratio, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1A"}, "freq": 1,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1A"}, "freq": 1, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_PCM_CMD_TRANS_MAIN_LINE_P", "path": "Transmission", "fmt": { "len": 16, "max": 65534, "min": -65536, "mul": 2, "sign": true, "unit": "kilopascal" }, "name": "Transmission pressure, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 5, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_TOT_7E0", "path": "Engine", "fmt": { "len": 16, "max": 500, "min": -500, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature"}
   ]},
@@ -952,15 +952,15 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "280A"}, "freq": 0.25, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "280A"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_BRAKE_FLUID_P", "path": "Control", "fmt": { "len": 16, "max": 51199.2187, "mul": 25, "div": 32, "unit": "kilopascal" }, "name": "Brake fluid pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4028"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4028"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_ESTIMATED_ST_CHG", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "percent" }, "name": "Battery estimated state of charge"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4029"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4029"}, "freq": 5, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_FLUID_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Battery fluid temperature"}
   ]},
@@ -987,7 +987,7 @@
   "signals": [
     {"id": "CX5_SCCS_V", "path": "Cruise control", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 65535, "unit": "volts" }, "name": "Cruise control voltage", "description": "0.0V = On/Off Switch depressed, 1.1V = Cancel depressed, 3.1V = Set/- switch depressed, 4.2V = Res/+ switch depressed, 5.0V = Normal"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D988"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D988"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_ACCUMULATED_AMP", "path": "Battery", "fmt": { "len": 16, "max": 227.675, "min": -100, "div": 200, "add": -100, "unit": "ampereHours" }, "name": "Battery accumulated amp hours"}
   ]},
@@ -995,7 +995,7 @@
   "signals": [
     {"id": "CX5_OIL_P_SOLENOID_VLV", "path": "Engine", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Oil pressure solenoid valve, open"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA9D"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA9D"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_INTERNAL_RES", "path": "Battery", "fmt": { "len": 16, "max": 0.6553, "div": 100000, "unit": "ohms" }, "name": "Battery internal resistance"}
   ]},
@@ -1048,7 +1048,7 @@
   "signals": [
     {"id": "CX5_MIL_DIST", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance with MIL"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42C"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42C"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
@@ -1084,7 +1084,7 @@
   "signals": [
     {"id": "CX5_EOT_F45C", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F45E"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "years": [2024], "from": 2026 },
   "signals": [
     {"id": "CX5_ENG_FUEL_RATE", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "div": 20, "unit": "liters" }, "name": "Engine fuel rate"}
   ]},
@@ -1096,7 +1096,7 @@
   "signals": [
     {"id": "CX5_PCM_ENG_REFERENCE_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine reference torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F469"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F469"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_EGR_VLV_POS_DES",   "path": "Engine", "fmt": {"bix": 8,  "len": 8, "max": 100,                  "mul": 20, "div": 51,              "unit": "percent" }, "name": "Exhaust gas recirculation a valve position, desired"},
     {"id": "CX5_EGR_VLV_POS",       "path": "Engine", "fmt": {"bix": 16, "len": 8, "max": 100,                  "mul": 20, "div": 51,              "unit": "percent" }, "name": "Exhaust gas recirculation a valve position"},
@@ -1171,7 +1171,7 @@
   "signals": [
     {"id": "CX5_TQ_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655, "min": -655, "div": 50, "sign": true, "unit": "newtonMeters" }, "name": "Torque, actual"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30,
+{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "DD01"}, "freq": 30, "filter": { "to": 2016, "from": 2022 },
   "signals": [
     {"id": "CX5_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Transmission odometer", "suggestedMetric": "odometer"}
   ]}

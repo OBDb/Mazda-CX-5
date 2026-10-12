@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22DA9D
+command_id: 7E0.7E8.22DA9D|f=2022-;-2016
 test_cases:
 - expected_values:
     CX5_BAT_INTERNAL_RES: 0.00523
