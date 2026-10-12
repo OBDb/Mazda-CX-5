@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.220460
+command_id: 7E0.7E8.220460|f=2025-;-2021
 test_cases:
 - expected_values:
     CX5_CAT_SENS_V: 0

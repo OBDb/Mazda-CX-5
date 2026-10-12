@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22D988
+command_id: 7E0.7E8.22D988|f=2022-;-2016
 test_cases:
 - expected_values:
     CX5_BAT_ACCUMULATED_AMP: 43.925
