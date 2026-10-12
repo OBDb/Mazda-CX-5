@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    CX5_ENG_LOAD_ACT: 13.33333
+  response: 7E80562F4430022
+- expected_values:
+    CX5_ENG_LOAD_ACT: 16.07843
+  response: 7E80562F4430029
+- expected_values:
+    CX5_ENG_LOAD_ACT: 16.86275
+  response: 7E80562F443002B
+- expected_values:
+    CX5_ENG_LOAD_ACT: 33.33333
+  response: 7E80562F4430055
+- expected_values:
+    CX5_ENG_LOAD_ACT: 34.11765
+  response: 7E80562F4430057
+- expected_values:
+    CX5_ENG_LOAD_ACT: 62.35294
+  response: 7E80562F443009F
+- expected_values:
+    CX5_ENG_LOAD_ACT: 64.31373
+  response: 7E80562F44300A4
+- expected_values:
+    CX5_ENG_LOAD_ACT: 69.41176
+  response: 7E80562F44300B1
+- expected_values:
+    CX5_ENG_LOAD_ACT: 84.31373
+  response: 7E80562F44300D7

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    CX5_MAP_7E0: 2.75574
+  response: 7E80462F40B13
+- expected_values:
+    CX5_MAP_7E0: 3.48093
+  response: 7E80462F40B18
+- expected_values:
+    CX5_MAP_7E0: 3.62597
+  response: 7E80462F40B19
+- expected_values:
+    CX5_MAP_7E0: 4.20613
+  response: 7E80462F40B1D
+- expected_values:
+    CX5_MAP_7E0: 4.35117
+  response: 7E80462F40B1E
+- expected_values:
+    CX5_MAP_7E0: 10.4428
+  response: 7E80462F40B48
+- expected_values:
+    CX5_MAP_7E0: 13.92374
+  response: 7E80462F40B60
+- expected_values:
+    CX5_MAP_7E0: 14.21382
+  response: 7E80462F40B62
+- expected_values:
+    CX5_MAP_7E0: 14.35886
+  response: 7E80462F40B63

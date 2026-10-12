@@ -1,0 +1,23 @@
+command_id: 760.768.222B07
+test_cases:
+- expected_values:
+    CX5_FL_VSS: 0
+  response: 76804622B0700
+- expected_values:
+    CX5_FL_VSS: 2
+  response: 76804622B0702
+- expected_values:
+    CX5_FL_VSS: 22
+  response: 76804622B0716
+- expected_values:
+    CX5_FL_VSS: 23
+  response: 76804622B0717
+- expected_values:
+    CX5_FL_VSS: 27
+  response: 76804622B071B
+- expected_values:
+    CX5_FL_VSS: 64
+  response: 76804622B0740
+- expected_values:
+    CX5_FL_VSS: 66
+  response: 76804622B0742

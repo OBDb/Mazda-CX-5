@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    CX5_AC_P_SENS_V: 0.82422
+  response: 7E805629800034C
+- expected_values:
+    CX5_AC_P_SENS_V: 0.82812
+  response: '7E8056298000350'
+- expected_values:
+    CX5_AC_P_SENS_V: 0.8291
+  response: '7E8056298000351'
+- expected_values:
+    CX5_AC_P_SENS_V: 0.83789
+  response: 7E805629800035A
+- expected_values:
+    CX5_AC_P_SENS_V: 0.83984
+  response: 7E805629800035C
+- expected_values:
+    CX5_AC_P_SENS_V: 0.84277
+  response: 7E805629800035F
+- expected_values:
+    CX5_AC_P_SENS_V: 0.84473
+  response: '7E8056298000361'
+- expected_values:
+    CX5_AC_P_SENS_V: 0.8457
+  response: '7E8056298000362'
+- expected_values:
+    CX5_AC_P_SENS_V: 0.84766
+  response: '7E8056298000364'
