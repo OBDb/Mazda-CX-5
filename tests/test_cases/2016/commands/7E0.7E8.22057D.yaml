@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     CX5_AAT_ALT: 17
   response: 7E80462057D72
+- expected_values:
+    CX5_AAT_ALT: 19
+  response: 7E80462057D76
+- expected_values:
+    CX5_AAT_ALT: 20
+  response: 7E80462057D78

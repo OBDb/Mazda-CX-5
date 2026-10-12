@@ -4,6 +4,9 @@ test_cases:
     CX5_LAT_ANG: 4
   response: 76805622B0C0004
 - expected_values:
+    CX5_LAT_ANG: 6
+  response: 76805622B0C0006
+- expected_values:
     CX5_LAT_ANG: 10
   response: 76805622B0C000A
 - expected_values:

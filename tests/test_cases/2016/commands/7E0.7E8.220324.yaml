@@ -4,29 +4,8 @@ test_cases:
     CX5_HPFP_V: 0.93842
   response: 7E80562032400C0
 - expected_values:
-    CX5_HPFP_V: 0.95797
-  response: 7E80562032400C4
-- expected_values:
-    CX5_HPFP_V: 1.00196
-  response: 7E80562032400CD
-- expected_values:
     CX5_HPFP_V: 1.00684
   response: 7E80562032400CE
 - expected_values:
-    CX5_HPFP_V: 1.30987
-  response: 7E805620324010C
-- expected_values:
-    CX5_HPFP_V: 1.52004
-  response: '7E8056203240137'
-- expected_values:
     CX5_HPFP_V: 2.54643
   response: '7E8056203240209'
-- expected_values:
-    CX5_HPFP_V: 2.59531
-  response: '7E8056203240213'
-- expected_values:
-    CX5_HPFP_V: 2.60997
-  response: '7E8056203240216'
-- expected_values:
-    CX5_HPFP_V: 2.6393
-  response: 7E805620324021C

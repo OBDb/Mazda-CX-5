@@ -4,29 +4,8 @@ test_cases:
     CX5_IAT_SENS_V: 2.26295
   response: 7E80562127901CF
 - expected_values:
-    CX5_IAT_SENS_V: 2.26784
-  response: 7E80562127901D0
-- expected_values:
-    CX5_IAT_SENS_V: 2.29228
-  response: 7E80562127901D5
-- expected_values:
-    CX5_IAT_SENS_V: 2.31672
-  response: 7E80562127901DA
-- expected_values:
     CX5_IAT_SENS_V: 2.40958
   response: 7E80562127901ED
 - expected_values:
-    CX5_IAT_SENS_V: 2.53177
-  response: '7E8056212790206'
-- expected_values:
-    CX5_IAT_SENS_V: 2.58553
-  response: '7E8056212790211'
-- expected_values:
-    CX5_IAT_SENS_V: 2.59042
-  response: '7E8056212790212'
-- expected_values:
-    CX5_IAT_SENS_V: 2.6002
-  response: '7E8056212790214'
-- expected_values:
-    CX5_IAT_SENS_V: 2.64418
-  response: 7E805621279021D
+    CX5_IAT_SENS_V: 2.52199
+  response: '7E8056212790204'

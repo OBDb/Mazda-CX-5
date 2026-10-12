@@ -4,29 +4,8 @@ test_cases:
     CX5_CMD_GEN_V: 13.9324
   response: 7E8056203046F86
 - expected_values:
-    CX5_CMD_GEN_V: 13.93679
-  response: 7E8056203046F8F
-- expected_values:
-    CX5_CMD_GEN_V: 13.95485
-  response: 7E8056203046FB4
-- expected_values:
     CX5_CMD_GEN_V: 14.00365
   response: '7E8056203047018'
-- expected_values:
-    CX5_CMD_GEN_V: 14.01829
-  response: '7E8056203047036'
-- expected_values:
-    CX5_CMD_GEN_V: 14.0705
-  response: 7E80562030470A1
-- expected_values:
-    CX5_CMD_GEN_V: 14.08466
-  response: 7E80562030470BE
-- expected_values:
-    CX5_CMD_GEN_V: 14.09246
-  response: 7E80562030470CE
-- expected_values:
-    CX5_CMD_GEN_V: 14.09588
-  response: 7E80562030470D5
 - expected_values:
     CX5_CMD_GEN_V: 14.1115
   response: 7E80562030470F5

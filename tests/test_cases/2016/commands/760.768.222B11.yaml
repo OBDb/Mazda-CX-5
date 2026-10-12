@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     CX5_LAT_G_760: -165
   response: 76805622B11FF5B
+- expected_values:
+    CX5_LAT_G_760: -4
+  response: 76805622B11FFFC
