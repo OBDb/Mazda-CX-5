@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
-    CX5_EVAP_V: 5
+    CX5_EVAP_V: 1.96533
   response: 7E80562038E064A
 - expected_values:
-    CX5_EVAP_V: 5
+    CX5_EVAP_V: 2.4231
   response: 7E80562038E07C1
 - expected_values:
-    CX5_EVAP_V: 5
+    CX5_EVAP_V: 3.13721
   response: 7E80562038E0A0A

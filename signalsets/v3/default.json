@@ -306,7 +306,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038E"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2021, 2022, 2024], "from": 2026 },
   "signals": [
-    {"id": "CX5_EVAP_V", "fmt": { "len": 16, "max": 5, "div": 5.0048876, "sign": true, "unit": "volts" }, "name": "Evaporative vapor pressure sensor voltage"}
+    {"id": "CX5_EVAP_V", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 4096, "sign": true, "unit": "volts" }, "name": "Evaporative vapor pressure sensor voltage"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "038F"}, "freq": 5, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
