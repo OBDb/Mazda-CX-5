@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     CX5_ODO: 24127
   response: 7E80662DD01005E3F
+- expected_values:
+    CX5_ODO: 24872
+  response: 7E80662DD01006128
