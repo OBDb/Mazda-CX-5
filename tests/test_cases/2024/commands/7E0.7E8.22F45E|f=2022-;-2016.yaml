@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F45E|f=2022-;-2016
+test_cases:
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.3
+  response: 7E80562F45E001A
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.35
+  response: 7E80562F45E001B
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.45
+  response: 7E80562F45E001D
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.55
+  response: 7E80562F45E001F
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.6
+  response: 7E80562F45E0020
+- expected_values:
+    CX5_ENG_FUEL_RATE: 1.7
+  response: 7E80562F45E0022
