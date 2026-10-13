@@ -1,0 +1,5 @@
+command_id: 761.769.221E7A
+test_cases:
+- expected_values:
+    CX5_COUPLING_SOLENOID: 0
+  response: 76904621E7A00
