@@ -703,7 +703,7 @@
   "signals": [
     {"id": "CX5_TRANS_OUTPUT_SHFT", "path": "Transmission", "fmt": { "len": 16, "max": 1638.375, "div": 40, "unit": "rpm" }, "name": "Transmission output shaft speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11B8"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11B8"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2015 },
   "signals": [
     {"id": "CX5_TQ_CONV_SLIP", "path": "Engine", "fmt": { "len": 16, "max": 39996.0104, "div": 1.6385384237, "unit": "rpm" }, "name": "Torque converter slip"}
   ]},
@@ -905,7 +905,7 @@
   "signals": [
     {"id": "CX5_LDP_EVAPCP", "path": "Emissions", "fmt": { "len": 16, "max": 0.037, "mul": 0.000000561, "unit": "amps" }, "name": "EVAP LDP incorrect purge flow value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E12"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E12"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2015 },
   "signals": [
     {"id": "CX5_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
           "1":  { "description": "First gear",   "value": "1" },
@@ -921,7 +921,7 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E16"}, "freq": 3600, "filter": { "to": 2016, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E16"}, "freq": 3600, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2015 },
   "signals": [
     {"id": "CX5_AXLE_GEAR_RATIO_MEAS", "path": "Transmission", "fmt": { "len": 16, "max": 10, "div": 4096, "unit": "scalar" }, "name": "Axle gear ratio, measured"}
   ]},
@@ -929,11 +929,11 @@
   "signals": [
     {"id": "CX5_PCM_CMD_TRANS_GEAR_RATIO", "path": "Transmission", "fmt": { "len": 16, "max": 16, "mul": 16, "div": 65535, "unit": "scalar" }, "name": "Gear ratio, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1A"}, "freq": 1, "filter": { "to": 2016, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1A"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2015 },
   "signals": [
     {"id": "CX5_PCM_CMD_TRANS_MAIN_LINE_P", "path": "Transmission", "fmt": { "len": 16, "max": 65534, "min": -65536, "mul": 2, "sign": true, "unit": "kilopascal" }, "name": "Transmission pressure, commanded"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1E1C"}, "freq": 5, "filter": { "to": 2016, "from": 2022 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1C"}, "freq": 5, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2015 },
   "signals": [
     {"id": "CX5_TOT_7E0", "path": "Engine", "fmt": { "len": 16, "max": 500, "min": -500, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature"}
   ]},
