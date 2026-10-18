@@ -4,5 +4,5 @@ test_cases:
     CX5_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    CX5_VSS: 147
-  response: 7E80462F40D93
+    CX5_VSS: 149
+  response: 7E80462F40D95
