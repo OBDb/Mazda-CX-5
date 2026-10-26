@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22DD01|f=2022-;-2016
+test_cases:
+- expected_values:
+    CX5_TRANS_ODO: 885
+  response: 7E90662DD01000375
+- expected_values:
+    CX5_TRANS_ODO: 886
+  response: 7E90662DD01000376
