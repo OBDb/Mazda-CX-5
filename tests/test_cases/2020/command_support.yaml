@@ -31,6 +31,7 @@ supported_commands_by_ecu:
   - 761.769.221E7A:CX5_COUPLING_SOLENOID
   "7DF":
   - 7DF.0106
+  - 7DF.010C
   - 7DF.0110
   - 7DF.012F
   - 7DF.0131
