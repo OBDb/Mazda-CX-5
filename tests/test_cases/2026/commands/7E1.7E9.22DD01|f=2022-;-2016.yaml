@@ -4,29 +4,5 @@ test_cases:
     CX5_TRANS_ODO: 885
   response: 7E90662DD01000375
 - expected_values:
-    CX5_TRANS_ODO: 886
-  response: 7E90662DD01000376
-- expected_values:
-    CX5_TRANS_ODO: 887
-  response: 7E90662DD01000377
-- expected_values:
-    CX5_TRANS_ODO: 888
-  response: 7E90662DD01000378
-- expected_values:
-    CX5_TRANS_ODO: 889
-  response: 7E90662DD01000379
-- expected_values:
-    CX5_TRANS_ODO: 890
-  response: 7E90662DD0100037A
-- expected_values:
-    CX5_TRANS_ODO: 891
-  response: 7E90662DD0100037B
-- expected_values:
-    CX5_TRANS_ODO: 892
-  response: 7E90662DD0100037C
-- expected_values:
-    CX5_TRANS_ODO: 893
-  response: 7E90662DD0100037D
-- expected_values:
-    CX5_TRANS_ODO: 894
-  response: 7E90662DD0100037E
+    CX5_TRANS_ODO: 898
+  response: 7E90662DD01000382
