@@ -952,15 +952,15 @@
         }}
     }
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "280A"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "280A"}, "freq": 0.25, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_BRAKE_FLUID_P", "path": "Control", "fmt": { "len": 16, "max": 51199.2187, "mul": 25, "div": 32, "unit": "kilopascal" }, "name": "Brake fluid pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4028"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4028"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_ESTIMATED_ST_CHG", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "percent" }, "name": "Battery estimated state of charge"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4029"}, "freq": 5, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "4029"}, "freq": 5, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_FLUID_T", "path": "Battery", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Battery fluid temperature"}
   ]},
@@ -987,7 +987,7 @@
   "signals": [
     {"id": "CX5_SCCS_V", "path": "Cruise control", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 65535, "unit": "volts" }, "name": "Cruise control voltage", "description": "0.0V = On/Off Switch depressed, 1.1V = Cancel depressed, 3.1V = Set/- switch depressed, 4.2V = Res/+ switch depressed, 5.0V = Normal"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D988"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "D988"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_ACCUMULATED_AMP", "path": "Battery", "fmt": { "len": 16, "max": 227.675, "min": -100, "div": 200, "add": -100, "unit": "ampereHours" }, "name": "Battery accumulated amp hours"}
   ]},
@@ -995,7 +995,7 @@
   "signals": [
     {"id": "CX5_OIL_P_SOLENOID_VLV", "path": "Engine", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Oil pressure solenoid valve, open"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA9D"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA9D"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_BAT_INTERNAL_RES", "path": "Battery", "fmt": { "len": 16, "max": 0.6553, "div": 100000, "unit": "ohms" }, "name": "Battery internal resistance"}
   ]},
@@ -1048,7 +1048,7 @@
   "signals": [
     {"id": "CX5_MIL_DIST", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance with MIL"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42C"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2023, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42C"}, "freq": 1, "filter": { "to": 2016, "from": 2022 }, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "CX5_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},

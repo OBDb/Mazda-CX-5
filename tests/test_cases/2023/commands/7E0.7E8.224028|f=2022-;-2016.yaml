@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.224028|f=2022-;-2016
+test_cases:
+- expected_values:
+    CX5_BAT_ESTIMATED_ST_CHG: 85
+  response: '7E80462402855'
