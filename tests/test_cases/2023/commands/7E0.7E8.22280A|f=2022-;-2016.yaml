@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22280A|f=2022-;-2016
+test_cases:
+- expected_values:
+    CX5_BRAKE_FLUID_P: 0
+  response: 7E80562280A0000
+- expected_values:
+    CX5_BRAKE_FLUID_P: 573.4375
+  response: 7E80562280A02DE

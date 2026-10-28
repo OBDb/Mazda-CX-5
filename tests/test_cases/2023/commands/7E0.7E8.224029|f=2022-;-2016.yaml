@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.224029|f=2022-;-2016
+test_cases:
+- expected_values:
+    CX5_BAT_FLUID_T: 18
+  response: 7E8046240293A
+- expected_values:
+    CX5_BAT_FLUID_T: 19
+  response: 7E8046240293B
