@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    CX5_FLI: 7.84314
-  response: 7E80462F42F14
+    CX5_FLI: 7.45098
+  response: 7E80462F42F13
 - expected_values:
     CX5_FLI: 95.68627
   response: 7E80462F42FF4
