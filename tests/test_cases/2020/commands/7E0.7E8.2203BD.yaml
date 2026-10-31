@@ -10,5 +10,5 @@ test_cases:
     CX5_CL_LC: 3.9
   response: 7E8056203BD7FFF
 - expected_values:
-    CX5_CL_LC: -0.12793
-  response: 7E8056203BDFBE8
+    CX5_CL_LC: -0.15442
+  response: 7E8056203BDFB0F
