@@ -4,20 +4,8 @@ test_cases:
     CX5_ODO_720: 201986
   response: 7280662DD01031502
 - expected_values:
-    CX5_ODO_720: 201987
-  response: 7280662DD01031503
+    CX5_ODO_720: 203263
+  response: 7280662DD010319FF
 - expected_values:
-    CX5_ODO_720: 201988
-  response: 7280662DD01031504
-- expected_values:
-    CX5_ODO_720: 201989
-  response: 7280662DD01031505
-- expected_values:
-    CX5_ODO_720: 201990
-  response: 7280662DD01031506
-- expected_values:
-    CX5_ODO_720: 201991
-  response: 7280662DD01031507
-- expected_values:
-    CX5_ODO_720: 203115
-  response: 7280662DD0103196B
+    CX5_ODO_720: 203264
+  response: 7280662DD01031A00
