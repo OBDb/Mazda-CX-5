@@ -3,19 +3,19 @@
     { "hdr": "7E1", "type": "transmission" }
   ],
   "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_RR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2026 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2026 },
   "signals": [
     {"id": "CX5_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "nullmax": 3.5, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
@@ -69,7 +69,7 @@
   "signals": [
     {"id": "CX5_12V_T_726", "path": "Battery", "fmt": { "len": 8, "max": 100, "min": -40, "add": -40, "unit": "celsius" }, "name": "12V battery temperature"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "402A"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "402A"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CX5_12V_V_726", "path": "Battery", "fmt": { "len": 16, "max": 65.535, "div": 1000, "nullmin": 0, "unit": "volts" }, "name": "12V battery voltage", "suggestedMetric": "starterBatteryVoltage"}
   ]},
