@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.74939
   response: 7E8056203E8D00A
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.61121
   response: 7E8056203E8D8E2
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.6015
   response: 7E8056203E8D981
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.59607
   response: 7E8056203E8D9DA
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.57269
   response: 7E8056203E8DB59
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.56201
   response: 7E8056203E8DC08
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.39459
   response: 7E8056203E8E6BF

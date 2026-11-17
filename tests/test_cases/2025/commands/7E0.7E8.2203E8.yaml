@@ -7,5 +7,5 @@ test_cases:
     CX5_OAR: 0.40002
   response: 7E8056203E8199A
 - expected_values:
-    CX5_OAR: 0
+    CX5_OAR: -0.46509
   response: 7E8056203E8E23C
