@@ -416,7 +416,7 @@
   "signals": [
     {"id": "CX5_OXY", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Oxygen concentration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0460"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "CX5_CAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Charge air temperature sensor voltage"}
   ]},
@@ -424,7 +424,7 @@
   "signals": [
     {"id": "CX5_CAT", "path": "Engine", "fmt": { "len": 16, "max": 189, "min": -40, "div": 64, "add": -40, "sign": true, "unit": "celsius" }, "name": "Charge air temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "filter": { "to": 2021, "from": 2025 }, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0462"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "CX5_WGDC", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Wastegate duty cycle"}
   ]},
