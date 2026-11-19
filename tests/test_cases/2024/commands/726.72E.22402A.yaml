@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     CX5_12V_V_726: null
   response: 72E0562402A0000
+- expected_values:
+    CX5_12V_V_726: 13.272
+  response: 72E0562402A33D8
+- expected_values:
+    CX5_12V_V_726: 13.342
+  response: 72E0562402A341E
+- expected_values:
+    CX5_12V_V_726: 13.61
+  response: 72E0562402A352A
