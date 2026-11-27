@@ -461,7 +461,7 @@
   "signals": [
     {"id": "CX5_FUEL_T", "path": "Fuel", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Fuel temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "053B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "053B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_CATDMG_MIS_1",           "path": "Engine", "fmt": {            "len": 8,  "max": 255,   "unit": "scalar" }, "name": "Catalyst damaging misfires, cylinder 1"},
     {"id": "CX5_CATDMG_MIS_2",           "path": "Engine", "fmt": {"bix": 8,   "len": 8,  "max": 255,   "unit": "scalar" }, "name": "Catalyst damaging misfires, cylinder 2"},
@@ -494,7 +494,7 @@
   "signals": [
     {"id": "CX5_LPFP_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "Fuel pressure sensor voltage, low"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "057D"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "057D"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_AAT_ALT", "path": "Climate", "fmt": { "len": 8, "max": 87.5, "min": -40, "div": 2, "add": -40, "unit": "celsius" }, "name": "Ambient temperature, alternate"}
   ]},
@@ -538,7 +538,7 @@
   "signals": [
     {"id": "CX5_PCM_A_C_REFRIG_P", "path": "Climate", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "kilopascal" }, "name": "A/C refrigerant pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0700"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0700"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_IAT_FAULT", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Intake temperature fault"}
   ]},
@@ -602,7 +602,7 @@
   "signals": [
     {"id": "CX5_EGRP_STEPS", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Exhaust gas recirculation purge steps"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "099B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "099B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_AC_STATE", "path": "Climate", "fmt": { "len": 8, "max": 1, "unit": "offon" }, "name": "A/C compressor, state"}
   ]},
@@ -672,7 +672,7 @@
   "signals": [
     {"id": "CX5_ECT_V", "path": "Engine", "fmt": { "len": 16, "max": 65.535, "div": 1000, "unit": "volts" }, "name": "Engine coolant temp voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1166"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1166"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_EVAP_PURGE_CMD", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 100, "div": 32768, "unit": "percent" }, "name": "Evaporative purge"}
   ]},
@@ -720,7 +720,7 @@
   "signals": [
     {"id": "CX5_TQ_CONV_LINE_P", "path": "Transmission", "fmt": { "len": 8, "max": 8790.819, "mul": 172369, "div": 5000, "unit": "kilopascal" }, "name": "Torque converter line pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1279"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_IAT_SENS_V", "path": "Engine", "fmt": { "len": 16, "max": 5, "mul": 5, "div": 1023, "unit": "volts" }, "name": "Intake temperature sensor voltage"}
   ]},
@@ -938,7 +938,7 @@
   "signals": [
     {"id": "CX5_TOT_7E0", "path": "Engine", "fmt": { "len": 16, "max": 500, "min": -500, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission oil temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E1F"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_GEAR_ENG", "path": "Transmission", "name": "Gear, engaged", "suggestedMetric": "gear", "fmt": {"len": 8, "map": {
           "1":  { "description": "First gear",   "value": "1" },
@@ -992,7 +992,7 @@
   "signals": [
     {"id": "CX5_DTE_DISP", "path": "Trips", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "kilometers" }, "name": "Distance to empty, displayed", "suggestedMetric": "fuelRange"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "9800"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "9800"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_AC_P_SENS_V", "path": "Climate", "fmt": { "len": 16, "max": 5, "div": 1024, "sign": true, "unit": "volts" }, "name": "A/C compressor pressure sensor voltage"}
   ]},
@@ -1011,7 +1011,7 @@
   "signals": [
     {"id": "CX5_BAT_ACCUMULATED_AMP", "path": "Battery", "fmt": { "len": 16, "max": 227.675, "min": -100, "div": 200, "add": -100, "unit": "ampereHours" }, "name": "Battery accumulated amp hours"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA01"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "DA01"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_OIL_P_SOLENOID_VLV", "path": "Engine", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Oil pressure solenoid valve, open"}
   ]},
@@ -1028,43 +1028,43 @@
   "signals": [
     {"id": "CX5_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F404"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F404"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_ENG_LOAD_PCT", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load", "suggestedMetric": "engineLoad"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F406"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F406"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_STFT", "path": "Engine", "fmt": { "len": 8, "max": 99.2, "min": -100, "mul": 100, "div": 128, "add": -100, "unit": "percent" }, "name": "Fuel trim, short term", "suggestedMetric": "shortTermFuelTrim"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F407"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F407"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_LTFT", "path": "Engine", "fmt": { "len": 8, "max": 99.2, "min": -100, "mul": 100, "div": 128, "add": -100, "unit": "percent" }, "name": "Fuel trim, long term"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40B"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_MAP_7E0", "path": "Engine", "fmt": { "len": 8, "max": 36, "mul": 10000, "div": 68947, "unit": "psi" }, "name": "Manifold pressure", "suggestedMetric": "absoluteBoostPressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40C"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_RPM", "path": "Engine", "fmt": { "len": 16, "max": 16383.75, "div": 4, "unit": "rpm" }, "name": "Engine speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40D"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40F"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F40F"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_IAT_ALT2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake temperature, alternate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F411"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F411"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_INT_SHUTTER_VLV_POS", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 20, "div": 51, "unit": "percent" }, "name": "Intake shutter valve position"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F41F"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_RUN_TIME", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "seconds" }, "name": "Engine run time"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F421"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_MIL_DIST", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance with MIL"}
   ]},
@@ -1072,31 +1072,31 @@
   "signals": [
     {"id": "CX5_EGR", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Exhaust gas recirculation"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F430"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_WARMUP_CLR", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Warm-ups since DTC clear"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F431"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_DIST_DTC_CLR", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance since DTC clear"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_BAROMETRIC_P", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F434"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F434"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_AIR_FUEL_RAT", "path": "Fuel", "fmt": { "len": 16, "max": 29.2801, "mul": 0.000446787, "unit": "scalar" }, "name": "Air/fuel ratio"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F43C"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F43C"}, "freq": 5, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_CAT_TEMP", "path": "Engine", "fmt": { "len": 16, "max": 6513.5, "min": -40, "div": 10, "add": -40, "unit": "celsius" }, "name": "Catalyst temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F443"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F443"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2022], "from": 2026 },
   "signals": [
     {"id": "CX5_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual", "suggestedMetric": "absoluteEngineLoad"}
   ]},
@@ -1108,11 +1108,11 @@
   "signals": [
     {"id": "CX5_ENG_FUEL_RATE", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "div": 20, "unit": "liters" }, "name": "Engine fuel rate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F462"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F462"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2022], "from": 2026 },
   "signals": [
     {"id": "CX5_PCM_ACT_ENG_PCT_TRQ", "path": "Engine", "fmt": { "len": 8, "max": 100, "add": -125, "unit": "percent" }, "name": "Actual engine percent torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F463"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F463"}, "freq": 3600, "dbgfilter": { "to": 2017, "years": [2022], "from": 2026 },
   "signals": [
     {"id": "CX5_PCM_ENG_REFERENCE_TRQ", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine reference torque"}
   ]},
@@ -1139,7 +1139,7 @@
   "signals": [
     {"id": "CX5_CHG_AIR_COOLER_T", "path": "Battery", "fmt": {"bix": 16, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Charge air cooler temperature"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F4A6"}, "freq": 30, "dbgfilter": { "to": 2019, "years": [2021, 2022], "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F4A6"}, "freq": 30, "dbgfilter": { "to": 2019, "years": [2022], "from": 2026 },
   "signals": [
     {"id": "CX5_PCM_VEH_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Vehicle odometer", "suggestedMetric": "odometer"}
   ]},
@@ -1167,7 +1167,7 @@
   "signals": [
     {"id": "CX5_TRANS_T_V5", "path": "Transmission", "fmt": { "len": 8, "max": 371.4, "min": -57, "mul": 42, "div": 25, "add": -57, "unit": "fahrenheit" }, "name": "Transmission temperature v5"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E12"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E12"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2027 },
   "signals": [
     {"id": "CX5_GEAR_7E1", "path": "Transmission", "name": "Gear", "suggestedMetric": "gear", "fmt": {"len": 8, "map": {
           "1":  { "description": "First gear",   "value": "1" },
@@ -1190,7 +1190,7 @@
   "signals": [
     {"id": "CX5_TRANS_T_V6", "path": "Transmission", "fmt": { "len": 16, "max": 500, "min": -500, "div": 16, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E24"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1E24"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2027 },
   "signals": [
     {"id": "CX5_TQ_CONV_LOCK_UP", "path": "Engine", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Torque converter lock-up"}
   ]},
@@ -1198,11 +1198,11 @@
   "signals": [
     {"id": "CX5_ATF_T_VAR_5", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Transmission fluid temperature, variant 5"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1EC7"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1EC7"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2027 },
   "signals": [
     {"id": "CX5_TQ_DES", "path": "Engine", "fmt": { "len": 16, "max": 655, "min": -655, "div": 50, "sign": true, "unit": "newtonMeters" }, "name": "Torque, desired"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1EE4"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2021, 2022], "from": 2027 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1EE4"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2017, 2019, 2022], "from": 2027 },
   "signals": [
     {"id": "CX5_TQ_ACT", "path": "Engine", "fmt": { "len": 16, "max": 655, "min": -655, "div": 50, "sign": true, "unit": "newtonMeters" }, "name": "Torque, actual"}
   ]},

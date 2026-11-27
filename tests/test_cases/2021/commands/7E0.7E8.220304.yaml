@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_CMD_GEN_V: 13.84798
   response: 7E8056203046ED9
+- expected_values:
+    CX5_CMD_GEN_V: 13.84846
+  response: 7E8056203046EDA
