@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_VCT_INT_ACT: 30.4375
   response: 7E80562031801E7
+- expected_values:
+    CX5_VCT_INT_ACT: 30.6875
+  response: 7E80562031801EB

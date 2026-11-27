@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    CX5_AIR_FUEL_RAT: 14.64032
+  response: 7E80762F43480007FFE

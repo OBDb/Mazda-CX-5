@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     CX5_VEH_BAT_CURRENT: -13.693
   response: 72E0662402B1E4F03
+- expected_values:
+    CX5_VEH_BAT_CURRENT: -13.555
+  response: 72E0662402B1E4F8D
+- expected_values:
+    CX5_VEH_BAT_CURRENT: -13.534
+  response: 72E0662402B1E4FA2
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 0
+  response: 72E0662402B1E8480
