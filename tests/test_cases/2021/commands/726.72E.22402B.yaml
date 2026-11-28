@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CX5_VEH_BAT_CURRENT: 0
   response: 72E0662402B1E8480
+- expected_values:
+    CX5_VEH_BAT_CURRENT: 26.872
+  response: 72E0662402B1EED78
