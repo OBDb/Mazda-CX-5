@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_12V_AGE: 49176
   response: '72E056240270801'
+- expected_values:
+    CX5_12V_AGE: 49200
+  response: '72E056240270802'
