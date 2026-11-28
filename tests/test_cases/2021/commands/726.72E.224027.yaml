@@ -1,6 +1,9 @@
 command_id: 726.72E.224027
 test_cases:
 - expected_values:
+    CX5_12V_AGE: 0
+  response: '72E056240270000'
+- expected_values:
     CX5_12V_AGE: 49176
   response: '72E056240270801'
 - expected_values:
