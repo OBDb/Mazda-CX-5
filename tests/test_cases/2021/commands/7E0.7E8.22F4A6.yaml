@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CX5_PCM_VEH_ODO: 81403.2
   response: 7E80762F4A6000C6BD0
+- expected_values:
+    CX5_PCM_VEH_ODO: 81407.5
+  response: 7E80762F4A6000C6BFB
+- expected_values:
+    CX5_PCM_VEH_ODO: 81408
+  response: 7E80762F4A6000C6C00

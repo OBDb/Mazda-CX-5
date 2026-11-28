@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CX5_RPM: 0
   response: 7E80562F40C0000
+- expected_values:
+    CX5_RPM: 1151.25
+  response: 7E80562F40C11FD
+- expected_values:
+    CX5_RPM: 2557.25
+  response: 7E80562F40C27F5

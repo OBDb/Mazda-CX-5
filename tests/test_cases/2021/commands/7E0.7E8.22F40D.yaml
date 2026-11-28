@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_VSS: 0
   response: 7E80462F40D00
+- expected_values:
+    CX5_VSS: 61
+  response: 7E80462F40D3D
