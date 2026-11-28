@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22F411
 test_cases:
 - expected_values:
-    CX5_INT_SHUTTER_VLV_POS: 21.56863
-  response: 7E80462F41137
+    CX5_INT_SHUTTER_VLV_POS: 10.98039
+  response: 7E80462F4111C
+- expected_values:
+    CX5_INT_SHUTTER_VLV_POS: 44.70588
+  response: 7E80462F41172

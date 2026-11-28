@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CX5_ENG_LOAD_ACT: 0
   response: 7E80562F4430000
+- expected_values:
+    CX5_ENG_LOAD_ACT: 98.82353
+  response: 7E80562F44300FC
+- expected_values:
+    CX5_ENG_LOAD_ACT: 112.54902
+  response: 7E80562F443011F

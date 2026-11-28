@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_ENG_LOAD_PCT: 0
   response: 7E80462F40400
+- expected_values:
+    CX5_ENG_LOAD_PCT: 60.78431
+  response: 7E80462F4049B

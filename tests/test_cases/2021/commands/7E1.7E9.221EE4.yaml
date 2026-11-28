@@ -1,5 +1,14 @@
 command_id: 7E1.7E9.221EE4
 test_cases:
 - expected_values:
+    CX5_TQ_ACT: 2
+  response: 7E905621EE40064
+- expected_values:
+    CX5_TQ_ACT: 26
+  response: 7E905621EE40514
+- expected_values:
+    CX5_TQ_ACT: 133
+  response: 7E905621EE419FA
+- expected_values:
     CX5_TQ_ACT: -25
   response: 7E905621EE4FB1E
