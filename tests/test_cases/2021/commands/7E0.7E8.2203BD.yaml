@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_CL_LC: 0.12012
   response: 7E8056203BD03D8
+- expected_values:
+    CX5_CL_LC: -0.37976
+  response: 7E8056203BDF3D9
