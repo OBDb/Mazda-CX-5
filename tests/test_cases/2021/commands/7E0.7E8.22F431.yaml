@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CX5_DIST_DTC_CLR: 3722
   response: 7E80562F4310E8A
+- expected_values:
+    CX5_DIST_DTC_CLR: 3737
+  response: 7E80562F4310E99

@@ -4,5 +4,5 @@ test_cases:
     CX5_MAP_7E0: 2.46566
   response: 7E80462F40B11
 - expected_values:
-    CX5_MAP_7E0: 16.67948
-  response: 7E80462F40B73
+    CX5_MAP_7E0: 18.27491
+  response: 7E80462F40B7E
