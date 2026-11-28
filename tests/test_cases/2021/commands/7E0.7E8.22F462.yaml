@@ -4,5 +4,5 @@ test_cases:
     CX5_PCM_ACT_ENG_PCT_TRQ: 0
   response: 7E80462F4627D
 - expected_values:
-    CX5_PCM_ACT_ENG_PCT_TRQ: 53
-  response: 7E80462F462B2
+    CX5_PCM_ACT_ENG_PCT_TRQ: 57
+  response: 7E80462F462B6
